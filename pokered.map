@@ -12279,18 +12279,18 @@ ROMX bank #26:
 	SECTION: $407f-$7ffe ($3f80 bytes) ["Tilesets 2"]
 	         $407f = Dojo_GFX
 	         $407f = Gym_GFX
-	         $467f = Dojo_Block
 	         $467f = Gym_Block
+	         $467f = Dojo_Block
 	         $4dbf = Mart_GFX
 	         $4dbf = Pokecenter_GFX
-	         $53bf = Mart_Block
 	         $53bf = Pokecenter_Block
-	         $560f = ForestGate_GFX
-	         $560f = Museum_GFX
+	         $53bf = Mart_Block
 	         $560f = Gate_GFX
-	         $5bff = ForestGate_Block
-	         $5bff = Museum_Block
+	         $560f = Museum_GFX
+	         $560f = ForestGate_GFX
 	         $5bff = Gate_Block
+	         $5bff = Museum_Block
+	         $5bff = ForestGate_Block
 	         $63ff = Forest_GFX
 	         $69ff = Forest_Block
 	         $71ff = Facility_GFX
@@ -17675,15 +17675,15 @@ VRAM bank #0:
 	         $8000 = vChars0
 	         $8000 = vSprites
 	         $8000 = vNPCSprites
+	         $8800 = vTitleLogo
 	         $8800 = vChars1
 	         $8800 = vFont
 	         $8800 = vNPCSprites2
-	         $8800 = vTitleLogo
+	         $9000 = vTileset
 	         $9000 = vChars2
 	         $9000 = vFrontPic
-	         $9000 = vTileset
-	         $9310 = vBackPic
 	         $9310 = vTitleLogo2
+	         $9310 = vBackPic
 	         $9800 = vBGMap0
 	         $9c00 = vBGMap1
 	TOTAL EMPTY: $0000 bytes

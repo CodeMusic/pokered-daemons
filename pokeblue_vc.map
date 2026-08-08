@@ -12280,8 +12280,8 @@ ROMX bank #25:
 	SECTION: $4000-$7fdf ($3fe0 bytes) ["Tilesets 1"]
 	         $4000 = Overworld_GFX
 	         $45e0 = Overworld_Block
-	         $4de0 = RedsHouse1_GFX
 	         $4de0 = RedsHouse2_GFX
+	         $4de0 = RedsHouse1_GFX
 	         $5270 = RedsHouse2_Block
 	         $5270 = RedsHouse1_Block
 	         $53a0 = House_GFX
