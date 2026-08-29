@@ -27,13 +27,13 @@ _OaksLabThoseArePokeBallsText::
 
 _OaksLabYouWantCharmanderText::
 	text "So! You want the"
-	line "ENTROPY #MON,"
+	line "CONTENT #MON,"
 	cont "CHARMANDER?"
 	done
 
 _OaksLabYouWantSquirtleText::
 	text "So! You want the"
-	line "FLOW #MON,"
+	line "VECTOR #MON,"
 	cont "SQUIRTLE?"
 	done
 

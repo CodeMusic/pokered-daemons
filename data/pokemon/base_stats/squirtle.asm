@@ -3,7 +3,7 @@
 	db  44,  48,  65,  43,  50
 	;   hp  atk  def  spd  spc
 
-	db WATER, WATER ; type
+	db FLYING, FLYING ; type
 	db 45 ; catch rate
 	db 66 ; base exp
 
