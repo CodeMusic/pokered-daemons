@@ -75,11 +75,14 @@ TypeEffects:
 	db ROCK,         BUG,          SUPER_EFFECTIVE
 	db ROCK,         ICE,          SUPER_EFFECTIVE
 	db GHOST,        NORMAL,       NO_EFFECT
-	db GHOST,        PSYCHIC_TYPE, NO_EFFECT
 	db FIRE,         DRAGON,       NOT_VERY_EFFECTIVE
 	db WATER,        DRAGON,       NOT_VERY_EFFECTIVE
 	db ELECTRIC,     DRAGON,       NOT_VERY_EFFECTIVE
 	db GRASS,        DRAGON,       NOT_VERY_EFFECTIVE
 	db ICE,          DRAGON,       SUPER_EFFECTIVE
 	db DRAGON,       DRAGON,       SUPER_EFFECTIVE
+	; --- CONTEXT / CONTENT deltas ---
+	; framing reaches what runs below the surface, and is destabilised by it
+	db PSYCHIC_TYPE, GHOST,        SUPER_EFFECTIVE
+	db GHOST,        PSYCHIC_TYPE, SUPER_EFFECTIVE
 	db -1 ; end
