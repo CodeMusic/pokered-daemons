@@ -102,7 +102,7 @@ DisplayTitleScreen:
 	ld [hl], a
 
 ; place tiles for title screen copyright
-	hlcoord 2, 17
+	hlcoord 6, 17
 	ld de, .tileScreenCopyrightTiles
 	ld b, .tileScreenCopyrightTilesEnd - .tileScreenCopyrightTiles
 .tileScreenCopyrightTilesLoop
@@ -115,7 +115,12 @@ DisplayTitleScreen:
 	jr .next
 
 .tileScreenCopyrightTiles
-	db $41,$42,$43,$42,$44,$42,$45,$46,$47,$48,$49,$4A,$4B,$4C,$4D,$4E ; ©'95.'96.'98 GAME FREAK inc.
+	; The vanilla line was ©'95.'96.'98 GAME FREAK inc., built from year tiles
+	; ($41-$45, shared with the boot splash) plus the 9-tile wordmark ($46-$4E).
+	; We show the wordmark only: this build is not Game Freak's work, and it
+	; should not assert a copyright it does not hold. Trademark acknowledgment
+	; lives in README.md. Year tiles need new glyphs - see vision.md 8.5.
+	db $46,$47,$48,$49,$4A,$4B,$4C,$4D,$4E ; CODEMUSIC
 .tileScreenCopyrightTilesEnd
 
 .next
