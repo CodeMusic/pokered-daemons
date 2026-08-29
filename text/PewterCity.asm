@@ -11,7 +11,7 @@ _PewterCityCooltrainerFText::
 _PewterCityCooltrainerMText::
 	text "There aren't many"
 	line "serious #MON"
-	cont "trainers here!"
+	cont "USERS here!"
 
 	para "They're all like"
 	line "BUG CATCHERs,"
@@ -63,7 +63,7 @@ _PewterCitySuperNerd2ImSprayingRepelText::
 	done
 
 _PewterCityYoungsterYoureATrainerFollowMeText::
-	text "You're a trainer"
+	text "You're a USER"
 	line "right? BROCK's"
 	cont "looking for new"
 	cont "challengers!"
@@ -77,7 +77,7 @@ _PewterCityYoungsterGoTakeOnBrockText::
 	done
 
 _PewterCityTrainerTipsText::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "Any #MON that"
 	line "takes part in"
@@ -107,7 +107,7 @@ _PewterCityGymSignText::
 	cont "LEADER: BROCK"
 
 	para "The Rock Solid"
-	line "#MON Trainer!"
+	line "#MON USER!"
 	done
 
 _PewterCitySignText::

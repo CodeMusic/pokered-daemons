@@ -1,11 +1,11 @@
 _PewterGymBrockPostBattleAdviceText::
 	text "There are all"
-	line "kinds of trainers"
+	line "kinds of USERS"
 	cont "in the world!"
 
 	para "You appear to be"
 	line "very gifted as a"
-	cont "#MON trainer!"
+	cont "#MON USER!"
 
 	para "Go to the GYM in"
 	line "DOLDRUM and test"
@@ -108,7 +108,7 @@ _PewterGymGuidePreAdviceText::
 	cont "takes to become a"
 	cont "#MON champ!"
 
-	para "I'm no trainer,"
+	para "I'm no USER,"
 	line "but I can tell"
 	cont "you how to win!"
 

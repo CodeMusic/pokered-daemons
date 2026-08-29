@@ -1,6 +1,6 @@
 _Route22GateGuardNoBoulderbadgeText::
 	text "Only truly skilled"
-	line "trainers are"
+	line "USERS are"
 	cont "allowed through."
 
 	para "You don't have the"

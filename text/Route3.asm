@@ -60,7 +60,7 @@ _Route3CooltrainerF1AfterBattleText::
 	done
 
 _Route3Youngster3BattleText::
-	text "Are you a trainer?"
+	text "Are you a USER?"
 	line "Let's fight!"
 	done
 

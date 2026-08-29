@@ -87,7 +87,7 @@ _CeladonCityRocket2Text::
 	done
 
 _CeladonCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "X ACCURACY boosts"
 	line "the accuracy of"
@@ -128,7 +128,7 @@ _CeladonCityDeptStoreSignText::
 	done
 
 _CeladonCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "GUARD SPEC."
 	line "protects #MON"

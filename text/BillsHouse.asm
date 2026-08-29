@@ -70,7 +70,7 @@ _BillsHouseBillWhyDontYouGoInsteadOfMeText::
 	line "S.S.ANNE, is in"
 	cont "ARDOR CITY."
 	cont "Its passengers"
-	cont "are all trainers!"
+	cont "are all USERS!"
 
 	para "They invited me"
 	line "to their party,"

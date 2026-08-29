@@ -62,7 +62,7 @@ _Route11SuperNerd1AfterBattleText::
 
 _Route11Youngster2BattleText::
 	text "I just became a"
-	line "trainer! But, I"
+	line "USER! But, I"
 	cont "think I can win!"
 	done
 

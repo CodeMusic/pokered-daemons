@@ -99,7 +99,7 @@ _CeladonMartRoofLittleGirlImNotThirstyText::
 
 _CeladonMartRoofSuperNerdText::
 	text "My sister is a"
-	line "trainer, believe"
+	line "USER, believe"
 	cont "it or not."
 
 	para "But, she's so"

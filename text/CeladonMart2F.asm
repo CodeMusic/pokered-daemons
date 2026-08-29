@@ -15,8 +15,8 @@ _CeladonMart2FGirlText::
 
 _CeladonMart2FCurrentFloorSignText::
 	text "Top Grade Items"
-	line "for Trainers!"
+	line "for USERS!"
 
-	para "2F: TRAINER'S"
+	para "2F: USER'S"
 	line "    MARKET"
 	done

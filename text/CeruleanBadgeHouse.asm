@@ -1,7 +1,7 @@
 _CeruleanBadgeHouseMiddleAgedManText::
 	text "#MON BADGEs"
 	line "are owned only by"
-	cont "skilled trainers."
+	cont "skilled USERS."
 
 	para "I see you have"
 	line "at least one."

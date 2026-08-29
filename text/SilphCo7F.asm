@@ -19,7 +19,7 @@ _SilphCo7FSilphWorkerM1LaprasDescriptionText::
 	cont "off with you!"
 
 	para "I think you will"
-	line "be a good trainer"
+	line "be a good USER"
 	cont "for LAPRAS!"
 
 	para "It's a good"
@@ -109,7 +109,7 @@ _SilphCo7FScientistEndBattleText::
 _SilphCo7FScientistAfterBattleText::
 	text "Despite your age,"
 	line "you are a skilled"
-	cont "trainer!"
+	cont "USER!"
 	done
 
 _SilphCo7FRocket2BattleText::
@@ -200,7 +200,7 @@ _SilphCo7FRivalGoodLuckToYouText::
 
 	para "I'll become the"
 	line "world's most"
-	cont "powerful trainer!"
+	cont "powerful USER!"
 
 	para "<PLAYER>, well"
 	line "good luck to you!"

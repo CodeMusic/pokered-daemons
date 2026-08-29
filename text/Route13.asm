@@ -26,7 +26,7 @@ _Route13CooltrainerF1EndBattleText::
 
 _Route13CooltrainerF1AfterBattleText::
 	text "I want to become"
-	line "a good trainer."
+	line "a good USER."
 	cont "I'll train hard."
 	done
 
@@ -158,14 +158,14 @@ _Route13CooltrainerM3AfterBattleText::
 	done
 
 _Route13TrainerTips1Text::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "Look to the left"
 	line "of that post!"
 	done
 
 _Route13TrainerTips2Text::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "Use SELECT to"
 	line "switch items in"

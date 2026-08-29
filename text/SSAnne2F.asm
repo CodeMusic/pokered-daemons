@@ -1,11 +1,11 @@
 _SSAnne2FWaiterText::
 	text "This ship, she is"
 	line "a luxury liner"
-	cont "for trainers!"
+	cont "for USERS!"
 
 	para "At every port, we"
 	line "hold parties with"
-	cont "invited trainers!"
+	cont "invited USERS!"
 	done
 
 _SSAnne2FRivalText::

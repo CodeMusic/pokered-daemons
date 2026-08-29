@@ -26,7 +26,7 @@ _ViridianForestYoungster2AfterBattleText::
 _ViridianForestYoungster3BattleText::
 	text "Yo! You can't jam"
 	line "out if you're a"
-	cont "#MON trainer!"
+	cont "#MON USER!"
 	done
 
 _ViridianForestYoungster3EndBattleText::
@@ -72,7 +72,7 @@ _ViridianForestYoungster5Text::
 	done
 
 _ViridianForestTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "If you want to"
 	line "avoid battles,"
@@ -87,7 +87,7 @@ _ViridianForestUseAntidoteSignText::
 	done
 
 _ViridianForestTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "Contact CRYSTAL"
 	line "via PC to get"
@@ -96,17 +96,17 @@ _ViridianForestTrainerTips2Text::
 	done
 
 _ViridianForestTrainerTips3Text::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "No stealing of"
 	line "#MON from"
-	cont "other trainers!"
+	cont "other USERS!"
 	cont "Catch only wild"
 	cont "#MON!"
 	done
 
 _ViridianForestTrainerTips4Text::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "Weaken #MON"
 	line "before attempting"

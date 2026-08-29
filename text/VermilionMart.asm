@@ -19,5 +19,5 @@ _VermilionMartCooltrainerFText::
 	text "I think #MON"
 	line "can be good or"
 	cont "evil. It depends"
-	cont "on the trainer."
+	cont "on the USER."
 	done

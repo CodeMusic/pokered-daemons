@@ -91,7 +91,7 @@ _CinnabarGymSuperNerd1AfterBattleText::
 _CinnabarGymSuperNerd2BattleText::
 	text "I was a thief, but"
 	line "I became straight"
-	cont "as a trainer!"
+	cont "as a USER!"
 	done
 
 _CinnabarGymSuperNerd2EndBattleText::
@@ -140,7 +140,7 @@ _CinnabarGymSuperNerd4AfterBattleText::
 
 _CinnabarGymSuperNerd5BattleText::
 	text "I know why BLAINE"
-	line "became a trainer!"
+	line "became a USER!"
 	done
 
 _CinnabarGymSuperNerd5EndBattleText::

@@ -100,7 +100,7 @@ _CeruleanCityRocketIllReturnTheTMText::
 	prompt
 
 _CeruleanCityCooltrainerMText::
-	text "You're a trainer"
+	text "You're a USER"
 	line "too? Collecting,"
 	cont "fighting, it's a"
 	cont "tough life."
@@ -159,7 +159,7 @@ _CeruleanCityCooltrainerF1SlowbroWithdrawText::
 	para "Your #MON's"
 	line "obedience depends"
 	cont "on your abilities"
-	cont "as a trainer!"
+	cont "as a USER!"
 	done
 
 _CeruleanCitySlowbroTookASnoozeText::
@@ -211,7 +211,7 @@ _CeruleanCitySignText::
 	done
 
 _CeruleanCityTrainerTipsText::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "Pressing B Button"
 	line "during evolution"

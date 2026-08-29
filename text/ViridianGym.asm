@@ -15,7 +15,7 @@ _ViridianGymGiovanniPreBattleText::
 	para "Once more, you"
 	line "shall face"
 	cont "GIOVANNI, the"
-	cont "greatest trainer!"
+	cont "greatest USER!"
 	done
 
 _ViridianGymGiovanniReceivedEarthBadgeText::
@@ -50,7 +50,7 @@ _ViridianGymGiovanniEarthBadgeInfoText::
 
 	para "It is evidence of"
 	line "your mastery as a"
-	cont "#MON trainer!"
+	cont "#MON USER!"
 
 	para "With it, you can"
 	line "enter the #MON"
@@ -228,7 +228,7 @@ _ViridianGymGuidePreBattleText::
 	cont "the GYM LEADERs!"
 
 	para "I heard that the"
-	line "trainers here"
+	line "USERS here"
 	cont "like ground-type"
 	cont "#MON!"
 	done

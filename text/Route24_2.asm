@@ -72,7 +72,7 @@ _Route24CooltrainerF2AfterBattleText::
 _Route24Youngster2BattleText::
 	text "This is NUGGET"
 	line "BRIDGE! Beat us 5"
-	cont "trainers and win"
+	cont "USERS and win"
 	cont "a fabulous prize!"
 
 	para "Think you got"

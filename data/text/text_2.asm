@@ -138,7 +138,7 @@ _GymStatueText1::
 	text_ram wGymLeaderName
 	text_start
 
-	para "WINNING TRAINERS:"
+	para "WINNING USERS:"
 	line "<RIVAL>"
 	done
 
@@ -150,7 +150,7 @@ _GymStatueText2::
 	text_ram wGymLeaderName
 	text_start
 
-	para "WINNING TRAINERS:"
+	para "WINNING USERS:"
 	line "<RIVAL>"
 	cont "<PLAYER>"
 	done
@@ -326,7 +326,7 @@ _CinnabarGymQuizIntroText::
 	cont "the next room!"
 
 	para "Get it wrong and"
-	line "face a trainer!"
+	line "face a USER!"
 
 	para "If you want to"
 	line "conserve your"
@@ -420,9 +420,9 @@ _OakLabEmailText::
 	para "..."
 
 	para "Calling all"
-	line "#MONS trainers!"
+	line "#MONS USERS!"
 
-	para "The elite trainers"
+	para "The elite USERS"
 	line "of #MON LEAGUE"
 	cont "are ready to take"
 	cont "on all comers!"
@@ -430,7 +430,7 @@ _OakLabEmailText::
 	para "Bring your best"
 	line "#MONS and see"
 	cont "how you rate as a"
-	cont "trainer!"
+	cont "USER!"
 
 	para "#MON LEAGUE HQ"
 	line "UMBRA PLATEAU"
@@ -510,7 +510,7 @@ _ViridianSchoolNotebookText1::
 	para "People who raise"
 	line "and make #MON"
 	cont "fight are called"
-	cont "#MON trainers."
+	cont "#MON USERS."
 	prompt
 
 _ViridianSchoolNotebookText2::
@@ -529,7 +529,7 @@ _ViridianSchoolNotebookText2::
 _ViridianSchoolNotebookText3::
 	text "Third page..."
 
-	para "#MON trainers"
+	para "#MON USERS"
 	line "seek others to"
 	cont "engage in #MON"
 	cont "fights."
@@ -543,7 +543,7 @@ _ViridianSchoolNotebookText4::
 	text "Fourth page..."
 
 	para "The goal for"
-	line "#MON trainers"
+	line "#MON USERS"
 	cont "is to beat the "
 	cont "top 8 #MON"
 	cont "GYM LEADERs."
@@ -603,7 +603,7 @@ _KabutopsFossilText::
 	done
 
 _LinkCableHelpText1::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "Using a Game Link"
 	line "Cable"
@@ -788,7 +788,7 @@ _IndigoPlateauStatuesText1::
 
 _IndigoPlateauStatuesText2::
 	text "The ultimate goal"
-	line "of trainers!"
+	line "of USERS!"
 	cont "#MON LEAGUE HQ"
 	done
 

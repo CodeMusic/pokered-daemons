@@ -24,7 +24,7 @@ _SilphCo9FRocket1EndBattleText::
 
 _SilphCo9FRocket1AfterBattleText::
 	text "If I had started"
-	line "as a trainer at"
+	line "as a USER at"
 	cont "your age..."
 	done
 

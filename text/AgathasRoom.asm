@@ -19,7 +19,7 @@ _AgathaBeforeBattleText::
 
 	para "<PLAYER>! I'll show"
 	line "you how a real"
-	cont "trainer fights!"
+	cont "USER fights!"
 	done
 
 _AgathaEndBattleText::

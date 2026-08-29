@@ -155,7 +155,7 @@ _Route17NoticeSign1Text::
 	done
 
 _Route17TrainerTips1Text::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "All #MONS are"
 	line "unique."
@@ -167,7 +167,7 @@ _Route17TrainerTips1Text::
 	done
 
 _Route17TrainerTips2Text::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "Press the A or B"
 	line "Button to stay in"

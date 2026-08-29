@@ -204,7 +204,7 @@ _ItemUseNoEffectText::
 	prompt
 
 _ThrowBallAtTrainerMonText1::
-	text "The trainer"
+	text "The USER"
 	line "blocked the BALL!"
 	prompt
 

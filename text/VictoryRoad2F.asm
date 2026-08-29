@@ -5,7 +5,7 @@ _VictoryRoad2FMoltresBattleText::
 _VictoryRoad2FHikerBattleText::
 	text "UMBRAL ASCENT is"
 	line "the final test"
-	cont "for trainers!"
+	cont "for USERS!"
 	done
 
 _VictoryRoad2FHikerEndBattleText::
@@ -80,7 +80,7 @@ _VictoryRoad2FSuperNerd3EndBattleText::
 	prompt
 
 _VictoryRoad2FSuperNerd3AfterBattleText::
-	text "Many trainers give"
+	text "Many USERS give"
 	line "up the challenge"
 	cont "here."
 	done

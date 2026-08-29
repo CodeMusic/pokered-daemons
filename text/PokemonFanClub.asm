@@ -136,7 +136,7 @@ _PokemonFanClubReceptionistText::
 _PokemonFanClubSign1Text::
 	text "Let's all listen"
 	line "politely to other"
-	cont "trainers!"
+	cont "USERS!"
 	done
 
 _PokemonFanClubSign2Text::

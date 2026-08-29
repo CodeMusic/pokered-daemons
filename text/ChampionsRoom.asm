@@ -31,7 +31,7 @@ _ChampionsRoomRivalIntroText::
 	para "I'll tell you!"
 
 	para "I am the most"
-	line "powerful trainer"
+	line "powerful USER"
 	cont "in the world!"
 	done
 

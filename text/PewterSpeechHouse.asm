@@ -5,7 +5,7 @@ _PewterSpeechHouseGamblerText::
 
 	para "But, some moves"
 	line "must be taught by"
-	cont "the trainer!"
+	cont "the USER!"
 	done
 
 _PewterSpeechHouseYoungsterText::

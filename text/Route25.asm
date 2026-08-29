@@ -1,5 +1,5 @@
 _Route25Youngster1BattleText::
-	text "Local trainers"
+	text "Local USERS"
 	line "come here to"
 	cont "practice!"
 	done
@@ -30,7 +30,7 @@ _Route25Youngster2EndBattleText::
 
 _Route25Youngster2AfterBattleText::
 	text "On S.S.ANNE, I"
-	line "saw trainers from"
+	line "saw USERS from"
 	cont "around the world."
 	done
 

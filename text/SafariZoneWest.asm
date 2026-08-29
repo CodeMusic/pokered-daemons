@@ -16,7 +16,7 @@ _SafariZoneWestFindWardensTeethSignText::
 	done
 
 _SafariZoneWestTrainerTipsText::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "Zone Exploration"
 	line "Campaign!"

@@ -39,14 +39,14 @@ _VictoryRoad3FCooltrainerM2EndBattleText::
 	prompt
 
 _VictoryRoad3FCooltrainerM2AfterBattleText::
-	text "All trainers here"
+	text "All USERS here"
 	line "are headed to the"
 	cont "#MON LEAGUE!"
 	cont "Be careful!"
 	done
 
 _VictoryRoad3FCooltrainerF2BattleText::
-	text "Trainers live to"
+	text "USERS live to"
 	line "seek stronger"
 	cont "opponents!"
 	done

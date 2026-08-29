@@ -141,7 +141,7 @@ _SaffronGymYoungster1AfterBattleText::
 _SaffronGymChanneler2BattleText::
 	text "#MON take on"
 	line "the appearance of"
-	cont "their trainers."
+	cont "their USERS."
 
 	para "Your #MON must"
 	line "be tough, then!"

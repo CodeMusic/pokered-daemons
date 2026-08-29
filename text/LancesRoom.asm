@@ -5,7 +5,7 @@ _LancesRoomLanceBeforeBattleText::
 	para "I lead the ELITE"
 	line "FOUR! You can"
 	cont "call me LANCE the"
-	cont "dragon trainer!"
+	cont "dragon USER!"
 
 	para "You know that"
 	line "dragons are"
@@ -51,7 +51,7 @@ _LancesRoomLanceAfterBattleText::
 	cont "challenge ahead."
 
 	para "You have to face"
-	line "another trainer!"
+	line "another USER!"
 	cont "His name is..."
 
 	para "<RIVAL>!"

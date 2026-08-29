@@ -16,5 +16,5 @@ _FuchsiaPokecenterCooltrainerFText::
 	para "It goes to #MON"
 	line "LEAGUE HQ."
 	cont "The HQ governs"
-	cont "all trainers."
+	cont "all USERS."
 	done

@@ -6,7 +6,7 @@ _VermilionPokecenterFishingGuruText::
 	cont "abilities."
 
 	para "A #MON raised"
-	line "by a trainer is"
+	line "by a USER is"
 	cont "stronger than one"
 	cont "in the wild."
 	done

@@ -17,7 +17,7 @@ _PewterNidoranHouseMiddleAgedManText::
 
 	para "It grows fast, but"
 	line "it may ignore an"
-	cont "unskilled trainer"
+	cont "unskilled USER"
 	cont "in battle!"
 
 	para "If only we had"

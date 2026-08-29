@@ -2,7 +2,7 @@ _CeruleanGymMistyPreBattleText::
 	text "Hi, you're a new"
 	line "face!"
 
-	para "Trainers who want"
+	para "USERS who want"
 	line "to turn pro have"
 	cont "to have a policy"
 	cont "about #MON!"
@@ -80,7 +80,7 @@ _CeruleanGymEndBattleText1::
 
 _CeruleanGymAfterBattleText1::
 	text "You have to face"
-	line "other trainers to"
+	line "other USERS to"
 	cont "find out how good"
 	cont "you really are."
 	done

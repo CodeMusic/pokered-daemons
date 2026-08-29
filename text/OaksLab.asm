@@ -93,7 +93,7 @@ _OaksLabOak1DeliverParcelText::
 
 	para "You must be"
 	line "talented as a"
-	cont "#MON trainer!"
+	cont "#MON USER!"
 
 	para "What? You have"
 	line "something for me?"
@@ -185,7 +185,7 @@ _OaksLabGirlText::
 	cont "#MON!"
 
 	para "Many #MONS"
-	line "trainers hold him"
+	line "USERS hold him"
 	cont "in high regard!"
 	done
 
@@ -215,7 +215,7 @@ _OaksLabOakChooseMonText::
 
 	para "When I was young,"
 	line "I was a serious"
-	cont "#MON trainer!"
+	cont "#MON USER!"
 
 	para "In my old age, I"
 	line "have only 3 left,"

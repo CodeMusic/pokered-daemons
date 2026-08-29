@@ -145,7 +145,7 @@ _ViridianCitySignText::
 	done
 
 _ViridianCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "Catch #MONS"
 	line "and expand your"
@@ -157,7 +157,7 @@ _ViridianCityTrainerTips1Text::
 	done
 
 _ViridianCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "USER TIPS"
 
 	para "The battle moves"
 	line "of #MONS are"

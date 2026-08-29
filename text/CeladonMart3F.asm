@@ -32,7 +32,7 @@ _CeladonMart3FGameBoyKid1Text::
 	cont "with an ID No."
 	cont "and OT, the name"
 	cont "of the Original"
-	cont "Trainer that"
+	cont "USER that"
 	cont "caught it!"
 	done
 
