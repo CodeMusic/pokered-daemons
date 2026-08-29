@@ -1,12 +1,13 @@
 _PalletTownOakHeyWaitDontGoOutText::
-	text "OAK: Hey! Wait!"
+	text "CRYSTAL: Hey! Wait!"
 	line "Don't go out!@"
 	text_end
 
 _PalletTownOakItsUnsafeText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
+	text "CRYSTAL: It's"
+	line "unsafe! Wild"
+	cont "#MON live in"
+	cont "tall grass!"
 
 	para "You need your own"
 	line "#MON for your"
@@ -37,7 +38,7 @@ _PalletTownFisherText::
 	done
 
 _PalletTownOaksLabSignText::
-	text "OAK #MON"
+	text "CRYSTAL #MON"
 	line "RESEARCH LAB"
 	done
 

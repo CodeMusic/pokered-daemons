@@ -2,9 +2,9 @@ _AgathaBeforeBattleText::
 	text "I am AGATHA of"
 	line "the ELITE FOUR!"
 
-	para "OAK's taken a lot"
-	line "of interest in"
-	cont "you, child!"
+	para "CRYSTAL's taken"
+	line "a lot of interest"
+	cont "in you, child!"
 
 	para "That old duff was"
 	line "once tough and"
