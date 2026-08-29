@@ -1697,18 +1697,18 @@ _LinkCanceledText::
 _OakSpeechText1::
 	text "Hello there!"
 	line "Welcome to the"
-	cont "world of #MON!"
+	cont "world of #MONS!"
 
 	para "My name is"
 	line "CRYSTAL CLEAR!"
-	cont "I study #MON."
+	cont "I study #MONS."
 	prompt
 
 _OakSpeechText2A::
 	text "This world is"
 	line "inhabited by"
 	cont "creatures called"
-	cont "#MON!@"
+	cont "#MONS!@"
 	text_end
 
 _OakSpeechText2B::
@@ -1716,12 +1716,12 @@ _OakSpeechText2B::
 
 	para "For some people,"
 	line "#MONS are"
-	cont "pets. Others use"
-	cont "them for fights."
+	cont "companions. Others"
+	cont "BENCHMARK them."
 
 	para "Myself..."
 
-	para "I study #MON"
+	para "I study #MONS"
 	line "as a profession."
 	prompt
 
@@ -1749,7 +1749,7 @@ _OakSpeechText3::
 
 	para "A world of dreams"
 	line "and adventures"
-	cont "with #MON"
+	cont "with #MONS"
 	cont "awaits! Let's go!"
 	done
 
