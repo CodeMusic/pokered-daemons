@@ -1,6 +1,6 @@
 roms := \
-	pokered.gbc \
-	pokeblue.gbc \
+	daemonsContent.gbc \
+	daemonsContext.gbc \
 	pokeblue_debug.gbc
 patches := \
 	pokered.patch \
@@ -22,6 +22,11 @@ pokeblue_obj       := $(rom_obj:.o=_blue.o)
 pokeblue_debug_obj := $(rom_obj:.o=_blue_debug.o)
 pokered_vc_obj     := $(rom_obj:.o=_red_vc.o)
 pokeblue_vc_obj    := $(rom_obj:.o=_blue_vc.o)
+
+# CONTEXT / CONTENT: the two editions. The _RED/_BLUE assembler defines are
+# unchanged for now - renaming those touches 47 asm files. See vision.md 8.4.
+daemonsContent_obj := $(pokered_obj)
+daemonsContext_obj := $(pokeblue_obj)
 
 
 ### Build tools
@@ -52,6 +57,8 @@ RGBGFXFLAGS  ?= -Weverything
 .SECONDARY:
 .PHONY: \
 	all \
+	content \
+	context \
 	red \
 	blue \
 	blue_debug \
@@ -63,8 +70,10 @@ RGBGFXFLAGS  ?= -Weverything
 	tools
 
 all: $(roms)
-red:        pokered.gbc
-blue:       pokeblue.gbc
+content:    daemonsContent.gbc
+context:    daemonsContext.gbc
+red:        content        # aliases, for upstream muscle memory
+blue:       context
 blue_debug: pokeblue_debug.gbc
 red_vc:     pokered.patch
 blue_vc:    pokeblue.patch
@@ -144,15 +153,15 @@ endif
 
 
 RGBLINKFLAGS += -d
-pokered.gbc:        RGBLINKFLAGS += -p 0x00
-pokeblue.gbc:       RGBLINKFLAGS += -p 0x00
+daemonsContent.gbc: RGBLINKFLAGS += -p 0x00
+daemonsContext.gbc: RGBLINKFLAGS += -p 0x00
 pokeblue_debug.gbc: RGBLINKFLAGS += -p 0xff
 pokered_vc.gbc:     RGBLINKFLAGS += -p 0x00
 pokeblue_vc.gbc:    RGBLINKFLAGS += -p 0x00
 
 RGBFIXFLAGS += -jsv -n 0 -k 01 -l 0x33 -m MBC3+RAM+BATTERY -r 03
-pokered.gbc:        RGBFIXFLAGS += -p 0x00 -t "POKEMON RED"
-pokeblue.gbc:       RGBFIXFLAGS += -p 0x00 -t "POKEMON BLUE"
+daemonsContent.gbc: RGBFIXFLAGS += -p 0x00 -t "CONTENT"
+daemonsContext.gbc: RGBFIXFLAGS += -p 0x00 -t "CONTEXT"
 pokeblue_debug.gbc: RGBFIXFLAGS += -p 0xff -t "POKEMON BLUE"
 pokered_vc.gbc:     RGBFIXFLAGS += -p 0x00 -t "POKEMON RED"
 pokeblue_vc.gbc:    RGBFIXFLAGS += -p 0x00 -t "POKEMON BLUE"
