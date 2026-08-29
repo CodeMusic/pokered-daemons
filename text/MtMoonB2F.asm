@@ -59,7 +59,7 @@ _MtMoonB2FRocket1BattleText::
 	text "TEAM ROCKET will"
 	line "find the fossils,"
 	cont "revive and sell"
-	cont "them for cash!"
+	cont "them for CACHE!"
 	done
 
 _MtMoonB2FRocket1EndBattleText::
