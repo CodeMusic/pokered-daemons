@@ -106,7 +106,7 @@ _FluteWokeUpText::
 
 _PlayedFluteHadEffectText::
 	text "<PLAYER> played the"
-	line "POKé FLUTE.@"
+	line "INTERRUPT.@"
 	text_end
 
 _CoinCaseNumCoinsText::

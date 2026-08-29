@@ -1,5 +1,5 @@
 _CeladonPokecenterGentlemanText::
-	text "POKé FLUTE awakens"
+	text "INTERRUPT wakes"
 	line "#MON with a"
 	cont "sound that only"
 	cont "they can hear!"

@@ -17,7 +17,7 @@ _LavenderMartBaldingGuyText::
 _LavenderMartCooltrainerMReviveText::
 	text "You know REVIVE?"
 	line "It revives any"
-	cont "fainted #MON!"
+	cont "HALTED #MON!"
 	done
 
 _LavenderMartCooltrainerMNuggetText::

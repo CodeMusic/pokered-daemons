@@ -9,5 +9,5 @@ _SaffronMartSuperNerdText::
 _SaffronMartCooltrainerFText::
 	text "REVIVE is costly,"
 	line "but it revives"
-	cont "fainted #MON!"
+	cont "HALTED #MON!"
 	done

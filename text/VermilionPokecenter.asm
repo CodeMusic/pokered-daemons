@@ -14,6 +14,6 @@ _VermilionPokecenterFishingGuruText::
 _VermilionPokecenterSailorText::
 	text "My #MON was"
 	line "poisoned! It"
-	cont "fainted while we"
+	cont "HALTED while we"
 	cont "were walking!"
 	done

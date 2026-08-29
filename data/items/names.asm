@@ -72,7 +72,7 @@ ItemNames::
 	li "PACKAGE"
 	li "ITEMFINDER"
 	li "SILPH SCOPE"
-	li "POKé FLUTE"
+	li "INTERRUPT"
 	li "LIFT KEY"
 	li "EXP.ALL"
 	li "OLD ROD"

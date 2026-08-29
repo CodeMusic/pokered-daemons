@@ -6,7 +6,7 @@ _PokemartGreetingText::
 _PokemonFaintedText::
 	text_ram wNameBuffer
 	text_start
-	line "fainted!"
+	line "HALTED!"
 	done
 
 _PlayerBlackedOutText::

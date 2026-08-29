@@ -158,7 +158,7 @@ _GymStatueText2::
 _ViridianCityPokecenterGuyText::
 	text "#MON CENTERs"
 	line "heal your tired,"
-	cont "hurt or fainted"
+	cont "hurt or HALTED"
 	cont "#MON!"
 	done
 
@@ -830,7 +830,7 @@ _OutOfSafariBallsText::
 	prompt
 
 _WildRanText::
-	text "Wild @"
+	text "UNBOUND @"
 	text_ram wEnemyMonNick
 	text_start
 	line "ran!"
@@ -862,7 +862,7 @@ _EnemyMonFaintedText::
 	text "Enemy @"
 	text_ram wEnemyMonNick
 	text_start
-	line "fainted!"
+	line "HALTED!"
 	prompt
 
 _MoneyForWinningText::
@@ -882,7 +882,7 @@ _TrainerDefeatedText::
 _PlayerMonFaintedText::
 	text_ram wBattleMonNick
 	text_start
-	line "fainted!"
+	line "HALTED!"
 	prompt
 
 _UseNextMonText::
@@ -939,13 +939,13 @@ _CantEscapeText::
 	prompt
 
 _NoRunningText::
-	text "No! There's no"
-	line "running from a"
-	cont "trainer battle!"
+	text "No! You can't"
+	line "DETACH from a"
+	cont "USER's run!"
 	prompt
 
 _GotAwayText::
-	text "Got away safely!"
+	text "DETACHED."
 	prompt
 
 _ItemsCantBeUsedHereText::
@@ -1235,7 +1235,7 @@ _GrewLevelText::
 	text_end
 
 _WildMonAppearedText::
-	text "Wild @"
+	text "UNBOUND @"
 	text_ram wEnemyMonNick
 	text_start
 	line "appeared!"
@@ -1273,7 +1273,7 @@ _GhostCantBeIDdText::
 	prompt
 
 _GoText::
-	text "Go! @"
+	text "RUN, @"
 	text_end
 
 _DoItText::
@@ -1327,14 +1327,14 @@ _NotVeryEffectiveText::
 	prompt
 
 _SafariZoneEatingText::
-	text "Wild @"
+	text "UNBOUND @"
 	text_ram wEnemyMonNick
 	text_start
 	line "is eating!"
 	prompt
 
 _SafariZoneAngryText::
-	text "Wild @"
+	text "UNBOUND @"
 	text_ram wEnemyMonNick
 	text_start
 	line "is angry!"
