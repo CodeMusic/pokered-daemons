@@ -397,18 +397,16 @@ INCLUDE "data/pokemon/title_mons.asm"
 
 ; prints version text (red, blue)
 PrintGameVersionOnTitleScreen:
-	hlcoord 7, 8
+	hlcoord 5, 8
 	ld de, VersionOnTitleScreenText
 	jp PlaceString
 
-; these point to special tiles specifically loaded for that purpose and are not usual text
+; These point to special tiles loaded for the purpose, not usual text.
+; CONTEXT / CONTENT: both editions ship the same 10-tile graphic width, so both
+; load at tile $60 and both print the full run. Vanilla skipped tiles 2-4 and
+; used different runs per version because "Red" and "Blue" differ in length.
 VersionOnTitleScreenText:
-IF DEF(_RED)
-	db $60,$61,$7F,$65,$66,$67,$68,$69,"@" ; "Red Version"
-ENDC
-IF DEF(_BLUE)
-	db $61,$62,$63,$64,$65,$66,$67,$68,"@" ; "Blue Version"
-ENDC
+	db $60,$61,$62,$63,$64,$65,$66,$67,$68,$69,"@" ; "Content/Context Edition"
 
 DebugNewGamePlayerName:
 	db "NINTEN@"
