@@ -1,24 +1,26 @@
 BorderPalettes:
 IF DEF(_RED)
-	INCBIN "gfx/sgb/red_border.tilemap"
+	INCBIN "gfx/sgb/content_border.tilemap"
 ENDC
 IF DEF(_BLUE)
-	INCBIN "gfx/sgb/blue_border.tilemap"
+	INCBIN "gfx/sgb/context_border.tilemap"
 ENDC
 
 	ds $100
 
-IF DEF(_RED)
-	RGB 30,29,29 ; PAL_SGB1
-	RGB 25,22,25
-	RGB 25,17,21
-	RGB 24,14,12
+; the border tilemap uses palette 4 = PAL_SGB1 for every tile.
+; colour 0 is the light ground, colour 3 the ink. See tools/genborder.py.
+IF DEF(_RED) ; CONTENT
+	RGB 30,29,29 ; PAL_SGB1 -- warm ink on paper
+	RGB 24,20,16
+	RGB 16,12,9
+	RGB 7,5,4
 ENDC
-IF DEF(_BLUE)
-	RGB 0,0,0 ; PAL_SGB1 (the first color is not defined, but if used, turns up as 30,29,29... o_O)
-	RGB 10,17,26
-	RGB 5,9,20
-	RGB 16,20,27
+IF DEF(_BLUE) ; CONTEXT
+	RGB 30,29,29 ; PAL_SGB1 -- cool ink on paper
+	RGB 17,22,29
+	RGB 9,13,22
+	RGB 4,6,13
 ENDC
 
 	ds $18
@@ -55,8 +57,8 @@ ENDC
 
 SGBBorderGraphics:
 IF DEF(_RED)
-	INCBIN "gfx/sgb/red_border.2bpp"
+	INCBIN "gfx/sgb/content_border.2bpp"
 ENDC
 IF DEF(_BLUE)
-	INCBIN "gfx/sgb/blue_border.2bpp"
+	INCBIN "gfx/sgb/context_border.2bpp"
 ENDC
