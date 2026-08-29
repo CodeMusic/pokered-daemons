@@ -289,7 +289,7 @@ _RegainedHealthText::
 
 _TransformedText::
 	text "<USER>"
-	line "transformed into"
+	line "took the frame of"
 	cont "@"
 	text_ram wNameBuffer
 	text "!"
