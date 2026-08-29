@@ -46,7 +46,7 @@ ItemNames::
 	li "?????" ; ITEM_2C
 	li "BIKE VOUCHER"
 	li "X ACCURACY"
-	li "LEAF STONE"
+	li "REWARD"
 	li "CARD KEY"
 	li "NUGGET"
 	li "PP UP" ; ITEM_32
