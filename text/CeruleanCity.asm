@@ -192,7 +192,7 @@ _CeruleanCityCooltrainerF2Text::
 	done
 
 _CeruleanCitySuperNerd3Text::
-	text "This is CERULEAN"
+	text "This is DOLDRUM"
 	line "CAVE! Horribly"
 	cont "strong #MONS"
 	cont "live in there!"
@@ -204,7 +204,7 @@ _CeruleanCitySuperNerd3Text::
 	done
 
 _CeruleanCitySignText::
-	text "CERULEAN CITY"
+	text "DOLDRUM CITY"
 	line "A Mysterious,"
 	cont "Blue Aura"
 	cont "Surrounds It"
@@ -226,7 +226,7 @@ _CeruleanCityBikeShopSign::
 	done
 
 _CeruleanCityGymSign::
-	text "CERULEAN CITY"
+	text "DOLDRUM CITY"
 	line "#MON GYM"
 	cont "LEADER: MISTY"
 

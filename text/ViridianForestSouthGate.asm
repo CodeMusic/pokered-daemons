@@ -1,6 +1,6 @@
 _ViridianForestSouthGateGirlText::
 	text "Are you going to"
-	line "VIRIDIAN FOREST?"
+	line "THE UNDERTONE?"
 	cont "Be careful, it's"
 	cont "a natural maze!"
 	done

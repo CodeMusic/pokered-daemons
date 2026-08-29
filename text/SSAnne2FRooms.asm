@@ -23,7 +23,7 @@ _SSAnne2FRoomsGrampsText::
 _SSAnne2FRoomsGentleman5Text::
 	text "Have you gone to"
 	line "the SAFARI ZONE"
-	cont "in FUCHSIA CITY?"
+	cont "in LURID CITY?"
 
 	para "It had many rare"
 	line "kinds of #MONS!!"

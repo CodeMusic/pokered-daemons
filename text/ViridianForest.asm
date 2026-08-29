@@ -118,6 +118,6 @@ _ViridianForestTrainerTips4Text::
 
 _ViridianForestLeavingSignText::
 	text "LEAVING"
-	line "VIRIDIAN FOREST"
-	cont "PEWTER CITY AHEAD"
+	line "THE UNDERTONE"
+	cont "SLATE CITY AHEAD"
 	done

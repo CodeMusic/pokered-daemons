@@ -2,7 +2,7 @@ _Route18Gate2FLeftBinocularsText::
 	text "Looked into the"
 	line "binoculars."
 
-	para "PALLET TOWN is in"
+	para "BLANCHE TOWN is in"
 	line "the west!"
 	done
 

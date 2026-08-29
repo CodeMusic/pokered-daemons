@@ -8,5 +8,5 @@ _Route2GateYoungsterText::
 	text "Once a #MON"
 	line "learns FLASH, you"
 	cont "can get through"
-	cont "ROCK TUNNEL."
+	cont "THE BLACKOUT."
 	done

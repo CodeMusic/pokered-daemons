@@ -8,7 +8,7 @@ _PewterGymBrockPostBattleAdviceText::
 	cont "#MON trainer!"
 
 	para "Go to the GYM in"
-	line "CERULEAN and test"
+	line "DOLDRUM and test"
 	cont "your abilities!"
 	done
 

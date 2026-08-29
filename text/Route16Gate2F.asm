@@ -13,8 +13,8 @@ _Route16Gate2FLeftBinocularsText::
 	text "Looked into the"
 	line "binoculars."
 
-	para "It's CELADON DEPT."
-	line "STORE!"
+	para "It's the VERDIGRIS"
+	line "DEPT. STORE!"
 	done
 
 _Route16Gate2FRightBinocularsText::

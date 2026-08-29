@@ -33,7 +33,7 @@ _Route9CooltrainerM1AfterBattleText::
 _Route9CooltrainerM2BattleText::
 	text "I'm taking ROCK"
 	line "TUNNEL to go to"
-	cont "LAVENDER..."
+	cont "HALFTONE..."
 	done
 
 _Route9CooltrainerM2EndBattleText::
@@ -43,7 +43,7 @@ _Route9CooltrainerM2EndBattleText::
 
 _Route9CooltrainerM2AfterBattleText::
 	text "Are you off to"
-	line "ROCK TUNNEL too?"
+	line "THE BLACKOUT too?"
 	done
 
 _Route9CooltrainerF2BattleText::
@@ -152,6 +152,6 @@ _Route9Youngster2AfterBattleText::
 
 _Route9SignText::
 	text "ROUTE 9"
-	line "CERULEAN CITY-"
-	cont "ROCK TUNNEL"
+	line "DOLDRUM CITY-"
+	cont "THE BLACKOUT"
 	done

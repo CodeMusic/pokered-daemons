@@ -3,7 +3,7 @@ _VictoryRoad2FMoltresBattleText::
 	text_end
 
 _VictoryRoad2FHikerBattleText::
-	text "VICTORY ROAD is"
+	text "UMBRAL ASCENT is"
 	line "the final test"
 	cont "for trainers!"
 	done
@@ -47,7 +47,7 @@ _VictoryRoad2FCooltrainerMEndBattleText::
 _VictoryRoad2FCooltrainerMAfterBattleText::
 	text "You earned the"
 	line "right to be on"
-	cont "VICTORY ROAD!"
+	cont "UMBRAL ASCENT!"
 	done
 
 _VictoryRoad2FSuperNerd2BattleText::
@@ -70,7 +70,7 @@ _VictoryRoad2FSuperNerd2AfterBattleText::
 	done
 
 _VictoryRoad2FSuperNerd3BattleText::
-	text "Is VICTORY ROAD"
+	text "Is UMBRAL ASCENT"
 	line "too tough?"
 	done
 

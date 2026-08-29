@@ -43,7 +43,7 @@ _PalletTownOaksLabSignText::
 	done
 
 _PalletTownSignText::
-	text "PALLET TOWN"
+	text "BLANCHE TOWN"
 	line "Shades of your"
 	cont "journey await!"
 	done

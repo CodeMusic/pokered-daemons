@@ -120,7 +120,7 @@ _Route20Swimmer7AfterBattleText::
 
 _Route20Swimmer8BattleText::
 	text "I swam here from"
-	line "CINNABAR ISLAND!"
+	line "QUICKSILVER!"
 	done
 
 _Route20Swimmer8EndBattleText::
@@ -132,11 +132,11 @@ _Route20Swimmer8AfterBattleText::
 	text "#MONS have"
 	line "taken over an"
 	cont "abandoned mansion"
-	cont "on CINNABAR!"
+	cont "on QUICKSILVER!"
 	done
 
 _Route20Swimmer9BattleText::
-	text "CINNABAR, in the"
+	text "QUICKSILVER, in the"
 	line "west, has a LAB"
 	cont "for #MON."
 	done
@@ -146,7 +146,7 @@ _Route20Swimmer9EndBattleText::
 	prompt
 
 _Route20Swimmer9AfterBattleText::
-	text "CINNABAR is a "
+	text "QUICKSILVER is a "
 	line "volcanic island!"
 	done
 

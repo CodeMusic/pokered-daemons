@@ -131,7 +131,7 @@ _Route12Fisher5AfterBattleText::
 
 _Route12SignText::
 	text "ROUTE 12 "
-	line "North to LAVENDER"
+	line "North to HALFTONE"
 	done
 
 _Route12SportFishingSignText::

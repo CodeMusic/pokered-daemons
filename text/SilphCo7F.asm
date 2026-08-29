@@ -161,7 +161,7 @@ _SilphCo7FRivalWaitedHereText::
 	cont "care!"
 
 	para "I saw you in"
-	line "SAFFRON, so I"
+	line "BRAZEN, so I"
 	cont "decided to see if"
 	cont "you got better!"
 	done

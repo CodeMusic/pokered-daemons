@@ -144,7 +144,7 @@ MoveNames::
 	li "LEECH LIFE"
 	li "LOVELY KISS"
 	li "SKY ATTACK"
-	li "TRANSFORM"
+	li "PERSPECTIVE"
 	li "BUBBLE"
 	li "DIZZY PUNCH"
 	li "SPORE"

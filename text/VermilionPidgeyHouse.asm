@@ -1,7 +1,7 @@
 _VermilionPidgeyHouseYoungsterText::
 	text "I'm getting my"
 	line "PIDGEY to fly a"
-	cont "letter to SAFFRON"
+	cont "letter to BRAZEN"
 	cont "in the north!"
 	done
 
@@ -13,10 +13,10 @@ _VermilionPidgeyHouseLetterText::
 	text "Dear PIPPI, I hope"
 	line "to see you soon."
 
-	para "I heard SAFFRON"
+	para "I heard BRAZEN"
 	line "has problems with"
 	cont "TEAM ROCKET."
 
-	para "VERMILION appears"
+	para "ARDOR appears"
 	line "to be safe."
 	done

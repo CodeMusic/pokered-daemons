@@ -34,7 +34,7 @@ _Route14CooltrainerM2AfterBattleText::
 
 _Route14CooltrainerM3BattleText::
 	text "TMs are on sale"
-	line "in CELADON!"
+	line "in VERDIGRIS!"
 	cont "But, only a few"
 	cont "people have HMs!"
 	done
@@ -168,6 +168,6 @@ _Route14Biker4AfterBattleText::
 
 _Route14SignText::
 	text "ROUTE 14"
-	line "West to FUCHSIA"
+	line "West to LURID"
 	cont "CITY"
 	done

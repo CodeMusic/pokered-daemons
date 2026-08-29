@@ -199,7 +199,7 @@ _MtMoonPokecenterBenchGuyText::
 _RockTunnelPokecenterGuyText::
 	text "I heard that"
 	line "GHOSTs haunt"
-	cont "LAVENDER TOWN!"
+	cont "HALFTONE TOWN!"
 	done
 
 _UnusedBenchGuyText1::
@@ -433,7 +433,7 @@ _OakLabEmailText::
 	cont "trainer!"
 
 	para "#MON LEAGUE HQ"
-	line "INDIGO PLATEAU"
+	line "UMBRA PLATEAU"
 
 	para "PS: CRYSTAL,"
 	line "please visit us!"
@@ -570,7 +570,7 @@ _FightingDojoText::
 	done
 
 _IndigoPlateauHQText::
-	text "INDIGO PLATEAU"
+	text "UMBRA PLATEAU"
 	line "#MON LEAGUE HQ"
 	done
 
@@ -783,7 +783,7 @@ _DroppedHiddenCoinsText::
 	done
 
 _IndigoPlateauStatuesText1::
-	text "INDIGO PLATEAU"
+	text "UMBRA PLATEAU"
 	prompt
 
 _IndigoPlateauStatuesText2::

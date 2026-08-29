@@ -84,12 +84,12 @@ _VermilionCitySailor2Text::
 	line "famous luxury"
 	cont "cruise ship."
 
-	para "We visit VERMILION"
+	para "We visit ARDOR"
 	line "once a year."
 	done
 
 _VermilionCitySignText::
-	text "VERMILION CITY"
+	text "ARDOR CITY"
 	line "The Port of"
 	cont "Exquisite Sunsets"
 	done
@@ -102,10 +102,10 @@ _VermilionCityNoticeSignText::
 	cont "sleeping #MON."
 
 	para "Detour through"
-	line "ROCK TUNNEL to"
-	cont "LAVENDER TOWN."
+	line "THE BLACKOUT to"
+	cont "HALFTONE TOWN."
 
-	para "VERMILION POLICE"
+	para "ARDOR POLICE"
 	done
 
 _VermilionCityPokemonFanClubSignText::
@@ -115,7 +115,7 @@ _VermilionCityPokemonFanClubSignText::
 	done
 
 _VermilionCityGymSignText::
-	text "VERMILION CITY"
+	text "ARDOR CITY"
 	line "#MON GYM"
 	cont "LEADER: LT.SURGE"
 
@@ -124,5 +124,5 @@ _VermilionCityGymSignText::
 	done
 
 _VermilionCityHarborSignText::
-	text "VERMILION HARBOR"
+	text "ARDOR HARBOR"
 	done

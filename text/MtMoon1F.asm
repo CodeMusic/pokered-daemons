@@ -98,7 +98,7 @@ _MtMoon1FYoungster2AfterBattleText::
 _MtMoon1FYoungster3BattleText::
 	text "Go through this"
 	line "cave to get to"
-	cont "CERULEAN CITY!"
+	cont "DOLDRUM CITY!"
 	done
 
 _MtMoon1FYoungster3EndBattleText::

@@ -32,7 +32,7 @@ _FuchsiaCityPokemonText::
 	done
 
 _FuchsiaCitySignText::
-	text "FUCHSIA CITY"
+	text "LURID CITY"
 	line "Behold! It's"
 	cont "Passion Pink!"
 	done
@@ -53,7 +53,7 @@ _FuchsiaCitySafariZoneSignText::
 	done
 
 _FuchsiaCityGymSignText::
-	text "FUCHSIA CITY"
+	text "LURID CITY"
 	line "#MON GYM"
 	cont "LEADER: KOGA"
 

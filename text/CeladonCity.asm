@@ -1,6 +1,6 @@
 _CeladonCityLittleGirlText::
 	text "I got my KOFFING"
-	line "in CINNABAR!"
+	line "in QUICKSILVER!"
 
 	para "It's nice, but it"
 	line "breathes poison"
@@ -98,18 +98,18 @@ _CeladonCityTrainerTips1Text::
 	cont "critical hits!"
 
 	para "Get your items at"
-	line "CELADON DEPT."
+	line "VERDIGRIS DEPT."
 	cont "STORE!"
 	done
 
 _CeladonCitySignText::
-	text "CELADON CITY"
+	text "VERDIGRIS CITY"
 	line "The City of"
 	cont "Rainbow Dreams"
 	done
 
 _CeladonCityGymSignText::
-	text "CELADON CITY"
+	text "VERDIGRIS CITY"
 	line "#MON GYM"
 	cont "LEADER: ERIKA"
 
@@ -118,12 +118,12 @@ _CeladonCityGymSignText::
 	done
 
 _CeladonCityMansionSignText::
-	text "CELADON MANSION"
+	text "VERDIGRIS MANSION"
 	done
 
 _CeladonCityDeptStoreSignText::
 	text "Find what you"
-	line "need at CELADON"
+	line "need at VERDIGRIS"
 	cont "DEPT. STORE!"
 	done
 
@@ -137,7 +137,7 @@ _CeladonCityTrainerTips2Text::
 	cont "fire and water!"
 
 	para "Get your items at"
-	line "CELADON DEPT."
+	line "VERDIGRIS DEPT."
 	cont "STORE!"
 	done
 

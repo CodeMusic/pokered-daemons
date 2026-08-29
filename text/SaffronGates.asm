@@ -24,7 +24,7 @@ _SaffronGateGuardYouCanGoOnThroughText::
 	cont "..."
 	cont "Gulp..."
 	cont "If you want to go"
-	cont "to SAFFRON CITY..."
+	cont "to BRAZEN CITY..."
 	cont "..."
 	cont "You can go on"
 	cont "through. I'll"

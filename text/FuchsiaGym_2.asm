@@ -175,7 +175,7 @@ _FuchsiaGymGymGuideChampInMakingText::
 	text "Yo! Champ in"
 	line "making!"
 
-	para "FUCHSIA GYM is"
+	para "LURID GYM is"
 	line "riddled with"
 	cont "invisible walls!"
 

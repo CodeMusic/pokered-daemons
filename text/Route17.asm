@@ -31,7 +31,7 @@ _Route17Biker2AfterBattleText::
 
 _Route17Biker3BattleText::
 	text "You heading to"
-	line "FUCHSIA?"
+	line "LURID?"
 	done
 
 _Route17Biker3EndBattleText::
@@ -177,8 +177,8 @@ _Route17TrainerTips2Text::
 
 _Route17SignText::
 	text "ROUTE 17"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	line "VERDIGRIS CITY -"
+	cont "LURID CITY"
 	done
 
 _Route17NoticeSign2Text::

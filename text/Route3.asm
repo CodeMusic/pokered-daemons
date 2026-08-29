@@ -4,13 +4,13 @@ _Route3Text1::
 	cont "Groan..."
 
 	para "That tunnel from"
-	line "CERULEAN takes a"
+	line "DOLDRUM takes a"
 	cont "lot out of you!"
 	done
 
 _Route3Youngster1BattleText::
 	text "Hey! I met you in"
-	line "VIRIDIAN FOREST!"
+	line "THE UNDERTONE!"
 	done
 
 _Route3Youngster1EndBattleText::

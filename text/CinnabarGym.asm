@@ -3,7 +3,7 @@ _CinnabarGymBlainePreBattleText::
 
 	para "I am BLAINE! I"
 	line "am the LEADER of"
-	cont "CINNABAR GYM!"
+	cont "QUICKSILVER GYM!"
 
 	para "My fiery #MON"
 	line "will incinerate"

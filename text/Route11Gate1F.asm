@@ -4,7 +4,7 @@ _Route11Gate1FGuardText::
 	cont "isn't it hard to"
 	cont "think up names?"
 
-	para "In LAVENDER TOWN,"
+	para "In HALFTONE TOWN,"
 	line "there's a man who"
 	cont "rates #MON"
 	cont "nicknames."

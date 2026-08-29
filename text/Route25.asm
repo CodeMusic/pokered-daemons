@@ -20,7 +20,7 @@ _Route25Youngster2BattleText::
 	text "Dad took me to a"
 	line "great party on"
 	cont "S.S.ANNE at"
-	cont "VERMILION CITY!"
+	cont "ARDOR CITY!"
 	done
 
 _Route25Youngster2EndBattleText::
@@ -147,7 +147,7 @@ _Route25Hiker3EndBattleText::
 _Route25Hiker3AfterBattleText::
 	text "The trail below"
 	line "is a shortcut to"
-	cont "CERULEAN CITY."
+	cont "DOLDRUM CITY."
 	done
 
 _Route25BillSignText::

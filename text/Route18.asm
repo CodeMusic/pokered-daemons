@@ -47,8 +47,8 @@ _Route18CooltrainerM3AfterBattleText::
 
 _Route18SignText::
 	text "ROUTE 18"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	line "VERDIGRIS CITY -"
+	cont "LURID CITY"
 	done
 
 _Route18CyclingRoadSignText::

@@ -11,7 +11,7 @@ _FuchsiaPokecenterRockerText::
 _FuchsiaPokecenterCooltrainerFText::
 	text "There's a narrow"
 	line "trail west of"
-	cont "VIRIDIAN CITY."
+	cont "CALLOW CITY."
 
 	para "It goes to #MON"
 	line "LEAGUE HQ."

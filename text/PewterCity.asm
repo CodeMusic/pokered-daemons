@@ -15,7 +15,7 @@ _PewterCityCooltrainerMText::
 
 	para "They're all like"
 	line "BUG CATCHERs,"
-	cont "but PEWTER GYM's"
+	cont "but SLATE GYM's"
 	cont "BROCK is totally"
 	cont "into it!"
 	done
@@ -92,17 +92,17 @@ _PewterCityPoliceNoticeSignText::
 	line "stealing #MON"
 	cont "fossils at MT."
 	cont "MOON! Please call"
-	cont "PEWTER POLICE"
+	cont "SLATE POLICE"
 	cont "with any info!"
 	done
 
 _PewterCityMuseumSignText::
-	text "PEWTER MUSEUM"
+	text "SLATE MUSEUM"
 	line "OF SCIENCE"
 	done
 
 _PewterCityGymSignText::
-	text "PEWTER CITY"
+	text "SLATE CITY"
 	line "#MON GYM"
 	cont "LEADER: BROCK"
 
@@ -111,7 +111,7 @@ _PewterCityGymSignText::
 	done
 
 _PewterCitySignText::
-	text "PEWTER CITY"
+	text "SLATE CITY"
 	line "A Stone Gray"
 	cont "City"
 	done

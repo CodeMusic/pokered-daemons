@@ -36,6 +36,6 @@ _Route23GoRightAheadText::
 	done
 
 _Route23VictoryRoadGateSignText::
-	text "VICTORY ROAD GATE"
+	text "UMBRAL ASCENT GATE"
 	line "- #MON LEAGUE"
 	done

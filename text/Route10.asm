@@ -100,7 +100,7 @@ _Route10CooltrainerF2AfterBattleText::
 	done
 
 _Route10RockTunnelSignText::
-	text "ROCK TUNNEL"
+	text "THE BLACKOUT"
 	done
 
 _Route10PowerPlantSignText::
