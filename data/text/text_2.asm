@@ -837,10 +837,10 @@ _WildRanText::
 	prompt
 
 _EnemyRanText::
-	text "Enemy @"
+	text "Remote @"
 	text_ram wEnemyMonNick
 	text_start
-	line "ran!"
+	line "DETACHED."
 	prompt
 
 _HurtByPoisonText::
@@ -859,7 +859,7 @@ _HurtByLeechSeedText::
 	prompt
 
 _EnemyMonFaintedText::
-	text "Enemy @"
+	text "Remote @"
 	text_ram wEnemyMonNick
 	text_start
 	line "HALTED!"
@@ -873,7 +873,7 @@ _MoneyForWinningText::
 	prompt
 
 _TrainerDefeatedText::
-	text "<PLAYER> defeated"
+	text "<PLAYER> outscored"
 	line "@"
 	text_ram wTrainerName
 	text "!"
@@ -1285,7 +1285,7 @@ _GetmText::
 	text_end
 
 _EnemysWeakText::
-	text "The enemy's weak!"
+	text "The remote's weak!"
 	line "Get'm! @"
 	text_end
 
