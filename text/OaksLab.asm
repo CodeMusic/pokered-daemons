@@ -1,6 +1,6 @@
 _OaksLabRivalGrampsIsntAroundText::
 	text "<RIVAL>: Yo"
-	line "<PLAYER>! Gramps"
+	line "<PLAYER>! Gran"
 	cont "isn't around!"
 	done
 
@@ -27,19 +27,19 @@ _OaksLabThoseArePokeBallsText::
 
 _OaksLabYouWantCharmanderText::
 	text "So! You want the"
-	line "fire #MON,"
+	line "ENTROPY #MON,"
 	cont "CHARMANDER?"
 	done
 
 _OaksLabYouWantSquirtleText::
 	text "So! You want the"
-	line "water #MON,"
+	line "FLOW #MON,"
 	cont "SQUIRTLE?"
 	done
 
 _OaksLabYouWantBulbasaurText::
 	text "So! You want the"
-	line "plant #MON,"
+	line "GROWTH #MON,"
 	cont "BULBASAUR?"
 	done
 
@@ -185,12 +185,12 @@ _OaksLabGirlText::
 	cont "#MON!"
 
 	para "Many #MONS"
-	line "USERS hold him"
+	line "USERS hold her"
 	cont "in high regard!"
 	done
 
 _OaksLabRivalFedUpWithWaitingText::
-	text "<RIVAL>: Gramps!"
+	text "<RIVAL>: Gran!"
 	line "I'm fed up with"
 	cont "waiting!"
 	done
@@ -225,7 +225,7 @@ _OaksLabOakChooseMonText::
 
 _OaksLabRivalWhatAboutMeText::
 	text "<RIVAL>: Hey!"
-	line "Gramps! What"
+	line "Gran! What"
 	cont "about me?"
 	done
 
@@ -281,12 +281,12 @@ _OaksLabRivalSmellYouLaterText::
 	cont "#MONS fight to"
 	cont "toughen it up!"
 
-	para "<PLAYER>! Gramps!"
+	para "<PLAYER>! Gran!"
 	line "Smell you later!"
 	done
 
 _OaksLabRivalGrampsText::
-	text "<RIVAL>: Gramps!"
+	text "<RIVAL>: Gran!"
 	done
 
 _OaksLabRivalWhatDidYouCallMeForText::
@@ -349,7 +349,7 @@ _OaksLabOakThatWasMyDreamText::
 
 _OaksLabRivalLeaveItAllToMeText::
 	text "<RIVAL>: Alright"
-	line "Gramps! Leave it"
+	line "Gran! Leave it"
 	cont "all to me!"
 
 	para "<PLAYER>, I hate to"

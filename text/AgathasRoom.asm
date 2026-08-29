@@ -6,14 +6,14 @@ _AgathaBeforeBattleText::
 	line "a lot of interest"
 	cont "in you, child!"
 
-	para "That old duff was"
+	para "That old crank was"
 	line "once tough and"
 	cont "handsome! That"
 	cont "was decades ago!"
 
-	para "Now he just wants"
+	para "Now she just wants"
 	line "to fiddle with"
-	cont "his INDEX! He's"
+	cont "her INDEX! She's"
 	cont "wrong! #MONS"
 	cont "are for fighting!"
 
@@ -30,7 +30,7 @@ _AgathaEndBattleText::
 
 _AgathaAfterBattleText::
 	text "You win! I see"
-	line "what the old duff"
+	line "what the old crank"
 	cont "sees in you now!"
 
 	para "I have nothing"

@@ -9,12 +9,12 @@ _ViridianMartClerkYouCameFromPalletTownText::
 	done
 
 _ViridianMartClerkParcelQuestText::
-	text "You know PROF."
-	line "CRYSTAL, right?"
+	text "You know CRYSTAL"
+	line "CLEAR, right?"
 
-	para "His order came in."
+	para "Her order came in."
 	line "Will you take it"
-	cont "to him?"
+	cont "to her?"
 
 	para "<PLAYER> got"
 	line "the PACKAGE!@"
