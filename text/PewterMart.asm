@@ -11,7 +11,7 @@ _PewterMartYoungsterText::
 _PewterMartSuperNerdText::
 	text "Good things can"
 	line "happen if you"
-	cont "raise #MON"
+	cont "raise #MONS"
 	cont "diligently, even"
 	cont "the weak ones!"
 	done

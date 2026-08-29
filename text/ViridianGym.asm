@@ -117,7 +117,7 @@ _ViridianGymHiker1AfterBattleText::
 	done
 
 _ViridianGymRocker1BattleText::
-	text "#MON and I, we"
+	text "#MONS and I, we"
 	line "make wonderful"
 	cont "music together!"
 	done
@@ -144,7 +144,7 @@ _ViridianGymHiker2EndBattleText::
 	prompt
 
 _ViridianGymHiker2AfterBattleText::
-	text "If my #MON"
+	text "If my #MONS"
 	line "were as good at"
 	cont "Karate as I..."
 	done

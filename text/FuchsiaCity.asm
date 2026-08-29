@@ -1,7 +1,7 @@
 _FuchsiaCityYoungster1Text::
 	text "Did you try the"
 	line "SAFARI GAME? Some"
-	cont "#MON can only"
+	cont "#MONS can only"
 	cont "be caught there."
 	done
 
@@ -72,7 +72,7 @@ _FuchsiaCityVoltorbSignText::
 	text "Name: VOLTORB"
 
 	para "The very image of"
-	line "a # BALL."
+	line "a POKé BALL."
 	prompt
 
 _FuchsiaCityKangaskhanSignText::

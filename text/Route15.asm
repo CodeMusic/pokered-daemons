@@ -86,7 +86,7 @@ _Route15Beauty1AfterBattleText::
 	done
 
 _Route15Beauty2BattleText::
-	text "I raise #MON"
+	text "I raise #MONS"
 	line "because I live"
 	cont "alone!"
 	done
@@ -99,7 +99,7 @@ _Route15Beauty2EndBattleText::
 _Route15Beauty2AfterBattleText::
 	text "I just like going"
 	line "home to be with"
-	cont "my #MON!"
+	cont "my #MONS!"
 	done
 
 _Route15Biker1BattleText::
@@ -146,13 +146,13 @@ _Route15CooltrainerF3EndBattleText::
 	prompt
 
 _Route15CooltrainerF3AfterBattleText::
-	text "I trade #MON"
+	text "I trade #MONS"
 	line "with my friends!"
 	done
 
 _Route15CooltrainerF4BattleText::
 	text "Want to play with"
-	line "my #MON?"
+	line "my #MONS?"
 	done
 
 _Route15CooltrainerF4EndBattleText::

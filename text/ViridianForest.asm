@@ -63,9 +63,9 @@ _ViridianForestYoungster4AfterBattleText::
 	done
 
 _ViridianForestYoungster5Text::
-	text "I ran out of #"
+	text "I ran out of POKé"
 	line "BALLs to catch"
-	cont "#MON with!"
+	cont "#MONS with!"
 
 	para "You should carry"
 	line "extras!"
@@ -91,7 +91,7 @@ _ViridianForestTrainerTips2Text::
 
 	para "Contact CRYSTAL"
 	line "via PC to get"
-	cont "your #DEX"
+	cont "your INDEX"
 	cont "evaluated!"
 	done
 

@@ -10,7 +10,7 @@ _ChampionsRoomRivalIntroText::
 	cont "me sharp!"
 
 	para "While working on"
-	line "#DEX, I looked"
+	line "INDEX, I looked"
 	cont "all over for"
 	cont "powerful #MON!"
 
@@ -71,7 +71,7 @@ _ChampionsRoomRivalAfterBattleText::
 
 	para "I never made any"
 	line "mistakes raising"
-	cont "my #MON..."
+	cont "my #MONS..."
 
 	para "Darn it! You're"
 	line "the new #MON"

@@ -26,7 +26,7 @@ _SSAnneCaptainsRoomCaptainIFeelMuchBetterText::
 	line "have this!"
 
 	para "Teach it to your"
-	line "#MON and you"
+	line "#MONS and you"
 	cont "can see it CUT"
 	cont "any time!"
 	prompt

@@ -122,7 +122,7 @@ _Route8Gambler2EndBattleText::
 
 _Route8Gambler2AfterBattleText::
 	text "Gambling and"
-	line "#MON are like"
+	line "#MONS are like"
 	cont "eating peanuts!"
 	cont "Just can't stop!"
 	done

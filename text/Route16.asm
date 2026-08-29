@@ -70,7 +70,7 @@ _Route16Biker5EndBattleText::
 	prompt
 
 _Route16Biker5AfterBattleText::
-	text "I like my #MON"
+	text "I like my #MONS"
 	line "ferocious! They"
 	cont "tear up enemies!"
 	done

@@ -77,7 +77,7 @@ _OaksAideHiText::
 	para "If you caught @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	line "kinds of #MON,"
+	line "kinds of #MONS,"
 	cont "I'm supposed to"
 	cont "give you an"
 	cont "@"
@@ -89,7 +89,7 @@ _OaksAideHiText::
 	cont "least @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text " kinds of"
-	cont "#MON?"
+	cont "#MONS?"
 	done
 
 _OaksAideUhOhText::
@@ -98,7 +98,7 @@ _OaksAideUhOhText::
 	cont "caught only @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
 	text_start
-	cont "kinds of #MON!"
+	cont "kinds of #MONS!"
 
 	para "You need @"
 	text_decimal hOaksAideRequirement, 1, 3

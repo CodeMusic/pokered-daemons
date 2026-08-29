@@ -25,7 +25,7 @@ _SilphCo4FRocket1AfterBattleText::
 	done
 
 _SilphCo4FScientistBattleText::
-	text "My #MON are my"
+	text "My #MONS are my"
 	line "loyal soldiers!"
 	done
 

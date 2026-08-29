@@ -9,7 +9,7 @@ _CeruleanGymMistyPreBattleText::
 
 	para "What is your"
 	line "approach when you"
-	cont "catch #MON?"
+	cont "catch #MONS?"
 
 	para "My policy is an"
 	line "all-out offensive"
@@ -27,7 +27,7 @@ _CeruleanGymMistyTM11ExplanationText::
 
 _CeruleanGymMistyCascadeBadgeInfoText::
 	text "The CASCADEBADGE"
-	line "makes all #MON"
+	line "makes all #MONS"
 	cont "up to L30 obey!"
 
 	para "That includes"

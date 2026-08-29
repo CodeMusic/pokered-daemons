@@ -29,7 +29,7 @@ _SilphCo9FRocket1AfterBattleText::
 	done
 
 _SilphCo9FScientistBattleText::
-	text "Your #MON have"
+	text "Your #MONS have"
 	line "weak points! I"
 	cont "can nail them!"
 	done

@@ -1,6 +1,6 @@
 _CeladonMart4FSuperNerdText::
 	text "I'm getting a"
-	line "# DOLL for my"
+	line "POKé DOLL for my"
 	cont "girl friend!"
 	done
 
@@ -11,7 +11,7 @@ _CeladonMart4FYoungsterText::
 	para "You can run from"
 	line "wild #MON by"
 	cont "distracting them"
-	cont "with a # DOLL!"
+	cont "with a POKé DOLL!"
 	done
 
 _CeladonMart4FCurrentFloorSignText::

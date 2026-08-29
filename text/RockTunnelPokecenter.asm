@@ -1,6 +1,6 @@
 _RockTunnelPokecenterGentlemanText::
 	text "The element types"
-	line "of #MON make"
+	line "of #MONS make"
 	cont "them stronger"
 	cont "than some types"
 	cont "and weaker than"

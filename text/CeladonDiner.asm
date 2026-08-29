@@ -6,7 +6,7 @@ _CeladonDinerCookText::
 	done
 
 _CeladonDinerMiddleAgedWomanText::
-	text "My #MON are"
+	text "My #MONS are"
 	line "weak, so I often"
 	cont "have to go to the"
 	cont "DRUG STORE."

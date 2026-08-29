@@ -63,7 +63,7 @@ _Route14CooltrainerM4EndBattleText::
 	prompt
 
 _Route14CooltrainerM4AfterBattleText::
-	text "Bird #MON are"
+	text "Bird #MONS are"
 	line "my true love!"
 	done
 
@@ -80,7 +80,7 @@ _Route14CooltrainerM5EndBattleText::
 
 _Route14CooltrainerM5AfterBattleText::
 	text "The 3 legendary"
-	line "#MON are all"
+	line "#MONS are all"
 	cont "birds of prey."
 	done
 

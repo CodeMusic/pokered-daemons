@@ -127,7 +127,7 @@ _VermilionGymGymGuideChampInMakingText::
 	line "electric #MON!"
 
 	para "Birds and water"
-	line "#MON are at"
+	line "#MONS are at"
 	cont "risk! Beware of"
 	cont "paralysis too!"
 

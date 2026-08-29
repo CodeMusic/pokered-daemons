@@ -60,7 +60,7 @@ _Route12CooltrainerMEndBattleText::
 
 _Route12CooltrainerMAfterBattleText::
 	text "I could have made"
-	line "my #MON evolve"
+	line "my #MONS evolve"
 	cont "with MOON STONE!"
 	done
 

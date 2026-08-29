@@ -40,7 +40,7 @@ _SilphCo5FPokemonReport2Text::
 	text "It's a #MON"
 	line "REPORT!"
 
-	para "Over 160 #MON"
+	para "Over 160 #MONS"
 	line "techniques have"
 	cont "been confirmed."
 	done
@@ -49,7 +49,7 @@ _SilphCo5FPokemonReport3Text::
 	text "It's a #MON"
 	line "REPORT!"
 
-	para "4 #MON evolve"
+	para "4 #MONS evolve"
 	line "only when traded"
 	cont "by link-cable."
 	done

@@ -119,7 +119,7 @@ _YeahText::
 	text_end
 
 _DexSeenOwnedText::
-	text "#DEX   Seen:@"
+	text "INDEX   Seen:@"
 	text_decimal wDexRatingNumMonsSeen, 1, 3
 	text_start
 	line "         Owned:@"
@@ -127,7 +127,7 @@ _DexSeenOwnedText::
 	text_end
 
 _DexRatingText::
-	text "#DEX Rating<COLON>"
+	text "INDEX Rating<COLON>"
 	done
 
 _GymStatueText1::
@@ -166,7 +166,7 @@ _PewterCityPokecenterGuyText::
 	text "Yawn!"
 
 	para "When JIGGLYPUFF"
-	line "sings, #MON"
+	line "sings, #MONS"
 	cont "get drowsy..."
 
 	para "...Me too..."
@@ -175,7 +175,7 @@ _PewterCityPokecenterGuyText::
 
 _CeruleanPokecenterGuyText::
 	text "BILL has lots of"
-	line "#MON!"
+	line "#MONS!"
 
 	para "He collects rare"
 	line "ones too!"
@@ -191,7 +191,7 @@ _LavenderPokecenterGuyText::
 
 _MtMoonPokecenterBenchGuyText::
 	text "If you have too"
-	line "many #MON, you"
+	line "many #MONS, you"
 	cont "should store them"
 	cont "via PC!"
 	done
@@ -204,7 +204,7 @@ _RockTunnelPokecenterGuyText::
 
 _UnusedBenchGuyText1::
 	text "I wish I could"
-	line "catch #MON."
+	line "catch #MONS."
 	done
 
 _UnusedBenchGuyText2::
@@ -224,7 +224,7 @@ _VermilionPokecenterGuyText::
 	cont "#MON will be"
 	cont "more powerful..."
 
-	para "But, all #MON"
+	para "But, all #MONS"
 	line "will have weak"
 	cont "points against"
 	cont "specific types."
@@ -242,7 +242,7 @@ _CeladonCityPokecenterGuyText::
 
 _FuchsiaCityPokecenterGuyText::
 	text "If you're studying "
-	line "#MON, visit"
+	line "#MONS, visit"
 	cont "the SAFARI ZONE."
 
 	para "It has all sorts"
@@ -301,7 +301,7 @@ _SaveOptionText::
 	done
 
 _StrengthsAndWeaknessesText::
-	text "All #MON types"
+	text "All #MONS types"
 	line "have strong and"
 	cont "weak points"
 	cont "against others."
@@ -420,7 +420,7 @@ _OakLabEmailText::
 	para "..."
 
 	para "Calling all"
-	line "#MON trainers!"
+	line "#MONS trainers!"
 
 	para "The elite trainers"
 	line "of #MON LEAGUE"
@@ -428,7 +428,7 @@ _OakLabEmailText::
 	cont "on all comers!"
 
 	para "Bring your best"
-	line "#MON and see"
+	line "#MONS and see"
 	cont "how you rate as a"
 	cont "trainer!"
 
@@ -500,11 +500,11 @@ _ViridianSchoolNotebookText1::
 
 	para "First page..."
 
-	para "# BALLs are"
+	para "POKé BALLs are"
 	line "used to catch"
-	cont "#MON."
+	cont "#MONS."
 
-	para "Up to 6 #MON"
+	para "Up to 6 #MONS"
 	line "can be carried."
 
 	para "People who raise"
@@ -1663,7 +1663,7 @@ _OhFineThenText::
 
 _GetDexRatedText::
 	text "Want to get your"
-	line "#DEX rated?"
+	line "INDEX rated?"
 	done
 
 _ClosedOaksPCText::
@@ -1675,7 +1675,7 @@ _AccessedOaksPCText::
 	text "Accessed"
 	line "CRYSTAL's PC."
 
-	para "Accessed #DEX"
+	para "Accessed INDEX"
 	line "Rating System."
 	prompt
 
@@ -1715,7 +1715,7 @@ _OakSpeechText2B::
 	text_start
 
 	para "For some people,"
-	line "#MON are"
+	line "#MONS are"
 	cont "pets. Others use"
 	cont "them for fights."
 

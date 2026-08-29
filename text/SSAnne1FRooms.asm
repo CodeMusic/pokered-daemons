@@ -7,7 +7,7 @@ _SSAnne1FRoomsGentleman1BattleText::
 	text "I travel alone"
 	line "on my journeys!"
 
-	para "My #MON are my"
+	para "My #MONS are my"
 	line "only friends!"
 	done
 
@@ -51,12 +51,12 @@ _SSAnne1FRoomsYoungsterAfterBattleText::
 	line "friend, OK?"
 
 	para "Then we can trade"
-	line "#MON!"
+	line "#MONS!"
 	done
 
 _SSAnne1FRoomsCooltrainerFBattleText::
 	text "I collected these"
-	line "#MON from all"
+	line "#MONS from all"
 	cont "around the world!"
 	done
 

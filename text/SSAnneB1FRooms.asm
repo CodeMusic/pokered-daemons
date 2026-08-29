@@ -62,7 +62,7 @@ _SSAnneB1FRoomsSailor4EndBattleText::
 	prompt
 
 _SSAnneB1FRoomsSailor4AfterBattleText::
-	text "Sea #MON live"
+	text "Sea #MONS live"
 	line "in deep water."
 	cont "You'll need a ROD!"
 	done
@@ -88,7 +88,7 @@ _SSAnneB1FRoomsFisherBattleText::
 	text "Hello stranger!"
 	line "Stop and chat!"
 
-	para "All my #MON"
+	para "All my #MONS"
 	line "are from the sea!"
 	done
 

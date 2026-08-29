@@ -39,11 +39,11 @@ _CeruleanCityRivalIWentToBillsText::
 
 	para "That added a lot"
 	line "of pages to my"
-	cont "#DEX!"
+	cont "INDEX!"
 
 	para "After all, BILL's"
 	line "world famous as a"
-	cont "#MANIAC!"
+	cont "POKéMANIAC!"
 
 	para "He invented the"
 	line "#MON Storage"
@@ -194,7 +194,7 @@ _CeruleanCityCooltrainerF2Text::
 _CeruleanCitySuperNerd3Text::
 	text "This is CERULEAN"
 	line "CAVE! Horribly"
-	cont "strong #MON"
+	cont "strong #MONS"
 	cont "live in there!"
 
 	para "The #MON LEAGUE"

@@ -9,7 +9,7 @@ _Route20Swimmer1EndBattleText::
 
 _Route20Swimmer1AfterBattleText::
 	text "I wish I could"
-	line "ride my #MON."
+	line "ride my #MONS."
 	done
 
 _Route20Swimmer2BattleText::
@@ -68,7 +68,7 @@ _Route20Swimmer5EndBattleText::
 _Route20Swimmer5AfterBattleText::
 	text "I should've been"
 	line "buffing up my"
-	cont "#MON, not me!"
+	cont "#MONS, not me!"
 	done
 
 _Route20Swimmer6BattleText::
@@ -129,7 +129,7 @@ _Route20Swimmer8EndBattleText::
 	prompt
 
 _Route20Swimmer8AfterBattleText::
-	text "#MON have"
+	text "#MONS have"
 	line "taken over an"
 	cont "abandoned mansion"
 	cont "on CINNABAR!"

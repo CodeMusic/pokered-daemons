@@ -1,5 +1,5 @@
 _Route12Gate2FBrunetteGirlYouCanHaveThisText::
-	text "My #MON's"
+	text "My #MONS's"
 	line "ashes are stored"
 	cont "in #MON TOWER."
 

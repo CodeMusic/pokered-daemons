@@ -101,7 +101,7 @@ _Route9Hiker2AfterBattleText::
 _Route9Youngster1BattleText::
 	text "I got up early"
 	line "every day to"
-	cont "raise my #MON"
+	cont "raise my #MONS"
 	cont "from cocoons!"
 	done
 

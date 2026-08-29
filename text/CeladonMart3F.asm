@@ -27,7 +27,7 @@ _CeladonMart3FClerkTM18NoRoomText::
 	done
 
 _CeladonMart3FGameBoyKid1Text::
-	text "Captured #MON"
+	text "Captured #MONS"
 	line "are registered"
 	cont "with an ID No."
 	cont "and OT, the name"

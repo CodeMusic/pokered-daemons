@@ -18,7 +18,7 @@ _RedsHouse1FMomYouShouldRestText::
 _RedsHouse1FMomLookingGreatText::
 	text "MOM: Oh good!"
 	line "You and your"
-	cont "#MON are"
+	cont "#MONS are"
 	cont "looking great!"
 	cont "Take care now!"
 	done

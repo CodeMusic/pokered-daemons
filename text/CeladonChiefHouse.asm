@@ -8,7 +8,7 @@ _CeladonChiefHouseRocketText::
 	text "CHIEF!"
 
 	para "We just shipped"
-	line "2000 #MON as"
+	line "2000 #MONS as"
 	cont "slot prizes!"
 	done
 

@@ -25,7 +25,7 @@ _CeruleanBadgeHouseMiddleAgedManVisitAnyTimeText::
 
 _CeruleanBadgeHouseBoulderBadgeText::
 	text "The ATTACK of all"
-	line "#MON increases"
+	line "#MONS increases"
 	cont "a little bit."
 
 	para "It also lets you"
@@ -47,7 +47,7 @@ _CeruleanBadgeHouseCascadeBadgeText::
 
 _CeruleanBadgeHouseThunderBadgeText::
 	text "The SPEED of all"
-	line "#MON increases"
+	line "#MONS increases"
 	cont "a little bit."
 
 	para "It also lets you"
@@ -69,7 +69,7 @@ _CeruleanBadgeHouseRainbowBadgeText::
 
 _CeruleanBadgeHouseSoulBadgeText::
 	text "The DEFENSE of all"
-	line "#MON increases"
+	line "#MONS increases"
 	cont "a little bit."
 
 	para "It also lets you"
@@ -92,6 +92,6 @@ _CeruleanBadgeHouseVolcanoBadgeText::
 	prompt
 
 _CeruleanBadgeHouseEarthBadgeText::
-	text "All #MON will"
+	text "All #MONS will"
 	line "obey you!"
 	prompt

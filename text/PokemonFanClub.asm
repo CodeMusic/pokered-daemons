@@ -39,7 +39,7 @@ _PokemonFanClubChairmanIntroText::
 	line "#MON Fan Club!"
 
 	para "I have collected"
-	line "over 100 #MON!"
+	line "over 100 #MONS!"
 
 	para "I'm very fussy"
 	line "when it comes to"
@@ -49,7 +49,7 @@ _PokemonFanClubChairmanIntroText::
 
 	para "Did you come"
 	line "visit to hear"
-	cont "about my #MON?"
+	cont "about my #MONS?"
 	done
 
 _PokemonFanClubChairmanStoryText::
@@ -117,7 +117,7 @@ _PokemonFanClubChairFinalText::
 
 	para "Did you come see"
 	line "me about my"
-	cont "#MON again?"
+	cont "#MONS again?"
 
 	para "No? Too bad!"
 	done

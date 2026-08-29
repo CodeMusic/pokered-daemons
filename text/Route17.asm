@@ -75,7 +75,7 @@ _Route17Biker5AfterBattleText::
 	done
 
 _Route17Biker6BattleText::
-	text "My #MON won't"
+	text "My #MONS won't"
 	line "evolve! Why?"
 	done
 
@@ -85,7 +85,7 @@ _Route17Biker6EndBattleText::
 	prompt
 
 _Route17Biker6AfterBattleText::
-	text "Maybe some #MON"
+	text "Maybe some #MONS"
 	line "need element"
 	cont "STONEs to evolve."
 	done
@@ -157,7 +157,7 @@ _Route17NoticeSign1Text::
 _Route17TrainerTips1Text::
 	text "TRAINER TIPS"
 
-	para "All #MON are"
+	para "All #MONS are"
 	line "unique."
 
 	para "Even #MON of"
@@ -185,7 +185,7 @@ _Route17NoticeSign2Text::
 	text "It's a notice!"
 
 	para "Don't throw the"
-	line "game, throw #"
+	line "game, throw POKé"
 	cont "BALLs instead!"
 	done
 

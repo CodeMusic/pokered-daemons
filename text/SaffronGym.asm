@@ -82,7 +82,7 @@ _SaffronGymGuideChampInMakingText::
 	line "use psychic power"
 	cont "instead of force!"
 
-	para "Fighting #MON"
+	para "Fighting #MONS"
 	line "are weak against"
 	cont "psychic #MON!"
 
@@ -155,7 +155,7 @@ _SaffronGymChanneler2EndBattleText::
 _SaffronGymChanneler2AfterBattleText::
 	text "I must teach"
 	line "better techniques"
-	cont "to my #MON!"
+	cont "to my #MONS!"
 	done
 
 _SaffronGymYoungster2BattleText::

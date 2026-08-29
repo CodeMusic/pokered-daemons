@@ -32,7 +32,7 @@ _CinnabarLabMetronomeRoomScientist1TM35NoRoomText::
 _CinnabarLabMetronomeRoomScientist2Text::
 	text "EEVEE can evolve"
 	line "into 1 of 3 kinds"
-	cont "of #MON."
+	cont "of #MONS."
 	done
 
 _CinnabarLabMetronomeRoomPCText::
@@ -42,7 +42,7 @@ _CinnabarLabMetronomeRoomPCText::
 	para "..."
 
 	para "The 3 legendary"
-	line "bird #MON are"
+	line "bird #MONS are"
 	cont "ARTICUNO, ZAPDOS"
 	cont "and MOLTRES."
 

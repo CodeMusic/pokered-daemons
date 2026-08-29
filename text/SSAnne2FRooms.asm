@@ -10,7 +10,7 @@ _SSAnne2FRoomsGentleman3Text::
 
 _SSAnne2FRoomsGentleman4Text::
 	text "Ah yes, I have"
-	line "seen some #MON"
+	line "seen some #MONS"
 	cont "ferry people"
 	cont "across the water!"
 	done
@@ -26,7 +26,7 @@ _SSAnne2FRoomsGentleman5Text::
 	cont "in FUCHSIA CITY?"
 
 	para "It had many rare"
-	line "kinds of #MON!!"
+	line "kinds of #MONS!!"
 	done
 
 _SSAnne2FRoomsLittleBoyText::

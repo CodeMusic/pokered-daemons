@@ -54,7 +54,7 @@ _PokemonTower7FRocket2EndBattleText::
 	prompt
 
 _PokemonTower7FRocket2AfterBattleText::
-	text "#MON are only"
+	text "#MONS are only"
 	line "good for making"
 	cont "money!"
 

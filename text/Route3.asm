@@ -20,7 +20,7 @@ _Route3Youngster1EndBattleText::
 
 _Route3Youngster1AfterBattleText::
 	text "There are other"
-	line "kinds of #MON"
+	line "kinds of #MONS"
 	cont "than those found"
 	cont "in the forest!"
 	done
@@ -40,7 +40,7 @@ _Route3Youngster2AfterBattleText::
 	text "Are you storing"
 	line "your #MON on"
 	cont "PC? Each BOX can"
-	cont "hold 20 #MON!"
+	cont "hold 20 #MONS!"
 	done
 
 _Route3CooltrainerF1BattleText::
@@ -120,7 +120,7 @@ _Route3Youngster5EndBattleText::
 	prompt
 
 _Route3Youngster5AfterBattleText::
-	text "Trained #MON"
+	text "Trained #MONS"
 	line "are stronger than"
 	cont "the wild ones!"
 	done

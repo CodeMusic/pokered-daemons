@@ -188,7 +188,7 @@ _SilphCo7FRivalGoodLuckToYouText::
 	line "and ahead!"
 
 	para "By checking my"
-	line "#DEX, I'm"
+	line "INDEX, I'm"
 	cont "starting to see"
 	cont "what's strong and"
 	cont "how they evolve!"

@@ -54,7 +54,7 @@ _MtMoon1FSuperNerdBattleText::
 
 _MtMoon1FSuperNerdEndBattleText::
 	text "My"
-	line "#MON won't do!"
+	line "#MONS won't do!"
 	prompt
 
 _MtMoon1FSuperNerdAfterBattleText::

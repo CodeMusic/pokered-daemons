@@ -178,7 +178,7 @@ _NeedYourPokemonText::
 
 _PokemonFightingFitText::
 	text "Thank you!"
-	line "Your #MON are"
+	line "Your #MONS are"
 	cont "fighting fit!"
 	prompt
 

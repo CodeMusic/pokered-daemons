@@ -85,7 +85,7 @@ _Route6Youngster2EndBattleText::
 	prompt
 
 _Route6Youngster2AfterBattleText::
-	text "Are my #MON"
+	text "Are my #MONS"
 	line "weak? Or, am I"
 	cont "just bad?"
 	done

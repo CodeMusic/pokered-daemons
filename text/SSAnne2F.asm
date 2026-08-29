@@ -19,7 +19,7 @@ _SSAnne2FRivalText::
 	line "really invited?"
 
 	para "So how's your"
-	line "#DEX coming?"
+	line "INDEX coming?"
 
 	para "I already caught"
 	line "40 kinds, pal!"

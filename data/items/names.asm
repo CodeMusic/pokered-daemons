@@ -69,7 +69,7 @@ ItemNames::
 	li "X SPEED"
 	li "X SPECIAL"
 	li "COIN CASE"
-	li "PARCEL"
+	li "PACKAGE"
 	li "ITEMFINDER"
 	li "SILPH SCOPE"
 	li "POKé FLUTE"

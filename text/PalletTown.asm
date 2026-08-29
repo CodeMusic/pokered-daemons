@@ -6,7 +6,7 @@ _PalletTownOakHeyWaitDontGoOutText::
 _PalletTownOakItsUnsafeText::
 	text "CRYSTAL: It's"
 	line "unsafe! Wild"
-	cont "#MON live in"
+	cont "#MONS live in"
 	cont "tall grass!"
 
 	para "You need your own"

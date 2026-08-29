@@ -130,7 +130,7 @@ _SaffronCityTrainerTips2Text::
 
 	para "Try it on those"
 	line "hard-to-catch"
-	cont "#MON."
+	cont "#MONS."
 	done
 
 _SaffronCitySilphCoSignText::

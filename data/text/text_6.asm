@@ -49,7 +49,7 @@ _ItemUseBallText08::
 	prompt
 
 _ItemUseBallText06::
-	text "New #DEX data"
+	text "New INDEX data"
 	line "will be added for"
 	cont "@"
 	text_ram wEnemyMonNick
@@ -92,7 +92,7 @@ _ThrewRockText::
 	done
 
 _PlayedFluteNoEffectText::
-	text "Played the #"
+	text "Played the POKé"
 	line "FLUTE."
 
 	para "Now, that's a"
@@ -106,7 +106,7 @@ _FluteWokeUpText::
 
 _PlayedFluteHadEffectText::
 	text "<PLAYER> played the"
-	line "# FLUTE.@"
+	line "POKé FLUTE.@"
 	text_end
 
 _CoinCaseNumCoinsText::

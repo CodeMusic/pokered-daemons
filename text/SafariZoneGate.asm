@@ -18,7 +18,7 @@ _SafariZoneGateSafariZoneWorker1ThatllBe500PleaseText::
 	line "please!"
 
 	para "We only use a"
-	line "special # BALL"
+	line "special POKé BALL"
 	cont "here."
 
 	para "<PLAYER> received"
@@ -75,7 +75,7 @@ _SafariZoneGateSafariZoneWorker2SafariZoneExplanationText::
 
 	para "Each zone has"
 	line "different kinds"
-	cont "of #MON. Use"
+	cont "of #MONS. Use"
 	cont "SAFARI BALLs to"
 	cont "catch them!"
 

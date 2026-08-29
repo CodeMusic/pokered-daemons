@@ -9,7 +9,7 @@ _Route13CooltrainerM1EndBattleText::
 	prompt
 
 _Route13CooltrainerM1AfterBattleText::
-	text "My #MON look"
+	text "My #MONS look"
 	line "happy even though"
 	cont "they lost."
 	done
@@ -76,7 +76,7 @@ _Route13CooltrainerF4EndBattleText::
 _Route13CooltrainerF4AfterBattleText::
 	text "CARBOS boosted"
 	line "the SPEED of my"
-	cont "#MON."
+	cont "#MONS."
 	done
 
 _Route13CooltrainerM2BattleText::

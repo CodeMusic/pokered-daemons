@@ -1,6 +1,6 @@
 _Route10SuperNerd1BattleText::
 	text "Wow, are you a"
-	line "#MANIAC too?"
+	line "POKéMANIAC too?"
 	cont "Want to see my"
 	cont "collection?"
 	done
@@ -34,12 +34,12 @@ _Route10Hiker1AfterBattleText::
 
 _Route10SuperNerd2BattleText::
 	text "Hi kid, want to"
-	line "see my #MON?"
+	line "see my #MONS?"
 	done
 
 _Route10SuperNerd2EndBattleText::
 	text "Oh no!"
-	line "My #MON!"
+	line "My #MONS!"
 	prompt
 
 _Route10SuperNerd2AfterBattleText::
@@ -61,7 +61,7 @@ _Route10CooltrainerF1EndBattleText::
 
 _Route10CooltrainerF1AfterBattleText::
 	text "I noticed some"
-	line "#MANIACs"
+	line "POKéMANIACs"
 	cont "prowling around."
 	done
 

@@ -5,7 +5,7 @@ _BillsHouseBillImNotAPokemonText::
 
 	para "Call me BILL!"
 	line "I'm a true blue"
-	cont "#MANIAC! Hey!"
+	cont "POKéMANIAC! Hey!"
 	cont "What's with that"
 	cont "skeptical look?"
 
@@ -43,7 +43,7 @@ _BillsHouseBillThankYouText::
 	cont "owe you one!"
 
 	para "So, did you come"
-	line "to see my #MON"
+	line "to see my #MONS"
 	cont "collection?"
 	cont "You didn't?"
 	cont "That's a bummer."

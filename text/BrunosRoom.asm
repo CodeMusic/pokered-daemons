@@ -9,7 +9,7 @@ _BrunoBeforeBattleText::
 
 	para "I've weight"
 	line "trained with"
-	cont "my #MON!"
+	cont "my #MONS!"
 
 	para "<PLAYER>!"
 

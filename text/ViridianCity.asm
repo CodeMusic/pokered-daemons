@@ -1,5 +1,5 @@
 _ViridianCityYoungster1Text::
-	text "Those # BALLs"
+	text "Those POKé BALLs"
 	line "at your waist!"
 	cont "You have #MON!"
 
@@ -112,16 +112,16 @@ _ViridianCityOldManHadMyCoffeeNowText::
 
 _ViridianCityOldManKnowHowToCatchPokemonText::
 	text "I see you're using"
-	line "a #DEX."
+	line "a INDEX."
 
 	para "When you catch a"
-	line "#MON, #DEX"
+	line "#MON, INDEX"
 	cont "is automatically"
 	cont "updated."
 
 	para "What? Don't you"
 	line "know how to catch"
-	cont "#MON?"
+	cont "#MONS?"
 
 	para "I'll show you"
 	line "how to then."
@@ -147,7 +147,7 @@ _ViridianCitySignText::
 _ViridianCityTrainerTips1Text::
 	text "TRAINER TIPS"
 
-	para "Catch #MON"
+	para "Catch #MONS"
 	line "and expand your"
 	cont "collection!"
 
@@ -160,7 +160,7 @@ _ViridianCityTrainerTips2Text::
 	text "TRAINER TIPS"
 
 	para "The battle moves"
-	line "of #MON are"
+	line "of #MONS are"
 	cont "limited by their"
 	cont "POWER POINTs, PP."
 

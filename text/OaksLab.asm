@@ -20,7 +20,7 @@ _OaksLabRivalMyPokemonLooksStrongerText::
 	done
 
 _OaksLabThoseArePokeBallsText::
-	text "Those are #"
+	text "Those are POKé"
 	line "BALLs. They"
 	cont "contain #MON!"
 	done
@@ -99,14 +99,14 @@ _OaksLabOak1DeliverParcelText::
 	line "something for me?"
 
 	para "<PLAYER> delivered"
-	line "the PARCEL.@"
+	line "the PACKAGE.@"
 	text_end
 
 _OaksLabOak1ParcelThanksText::
 	text_start
 
 	para "Ah! This is the"
-	line "custom # BALL"
+	line "custom POKé BALL"
 	cont "I ordered!"
 	cont "Thank you!"
 	done
@@ -129,7 +129,7 @@ _OaksLabOak1ReceivedPokeballsText::
 	cont "#MON."
 
 	para "<PLAYER> got 5"
-	line "# BALLs!@"
+	line "POKé BALLs!@"
 	text_end
 
 _OaksLabGivePokeballsExplanationText::
@@ -139,7 +139,7 @@ _OaksLabGivePokeballsExplanationText::
 	line "#MON appears,"
 	cont "it's fair game."
 
-	para "Just throw a #"
+	para "Just throw a POKé"
 	line "BALL at it and try"
 	line "to catch it!"
 
@@ -156,14 +156,14 @@ _OaksLabOak1ComeSeeMeSometimesText::
 	line "me sometimes."
 
 	para "I want to know how"
-	line "your #DEX is"
+	line "your INDEX is"
 	cont "coming along."
 	done
 
 _OaksLabOak1HowIsYourPokedexComingText::
 	text "CRYSTAL: Good to"
 	line "see you! How is"
-	cont "your #DEX"
+	cont "your INDEX"
 	cont "coming?"
 	cont "Here, let me take"
 	cont "a look!"
@@ -184,7 +184,7 @@ _OaksLabGirlText::
 	line "the authority on"
 	cont "#MON!"
 
-	para "Many #MON"
+	para "Many #MONS"
 	line "trainers hold him"
 	cont "in high regard!"
 	done
@@ -206,12 +206,12 @@ _OaksLabOakChooseMonText::
 	para "Here, <PLAYER>!"
 
 	para "There are 3"
-	line "#MON here!"
+	line "#MONS here!"
 
 	para "Haha!"
 
 	para "They are inside"
-	line "the # BALLs."
+	line "the POKé BALLs."
 
 	para "When I was young,"
 	line "I was a serious"
@@ -278,7 +278,7 @@ _OaksLabRivalAmIGreatOrWhatText::
 _OaksLabRivalSmellYouLaterText::
 	text "<RIVAL>: Okay!"
 	line "I'll make my"
-	cont "#MON fight to"
+	cont "#MONS fight to"
 	cont "toughen it up!"
 
 	para "<PLAYER>! Gramps!"
@@ -303,7 +303,7 @@ _OaksLabOakIHaveARequestText::
 _OaksLabOakMyInventionPokedexText::
 	text "On the desk there"
 	line "is my invention,"
-	cont "#DEX!"
+	cont "INDEX!"
 
 	para "It automatically"
 	line "records data on"
@@ -320,7 +320,7 @@ _OaksLabOakGotPokedexText::
 	cont "these with you!"
 
 	para "<PLAYER> got"
-	line "#DEX from"
+	line "INDEX from"
 	cont "CRYSTAL!@"
 	text_end
 

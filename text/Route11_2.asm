@@ -9,7 +9,7 @@ _Route11SuperNerd2AfterBattleText::
 	done
 
 _Route11Youngster4BattleText::
-	text "My #MON should"
+	text "My #MONS should"
 	line "be ready by now!"
 	done
 

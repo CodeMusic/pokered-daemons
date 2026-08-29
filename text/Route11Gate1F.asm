@@ -1,6 +1,6 @@
 _Route11Gate1FGuardText::
 	text "When you catch"
-	line "lots of #MON,"
+	line "lots of #MONS,"
 	cont "isn't it hard to"
 	cont "think up names?"
 

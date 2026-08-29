@@ -50,7 +50,7 @@ _CinnabarLabFossilRoomScientist1SeesFossilText::
 
 	para "My Resurrection"
 	line "Machine will make"
-	cont "that #MON live"
+	cont "that #MONS live"
 	cont "again!"
 	done
 

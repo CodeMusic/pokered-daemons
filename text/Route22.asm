@@ -13,7 +13,7 @@ _Route22RivalBeforeBattleText1::
 	line "let you through!"
 
 	para "By the way, did"
-	line "your #MON"
+	line "your #MONS"
 	cont "get any stronger?"
 	done
 
@@ -40,7 +40,7 @@ _Route22Rival1DefeatedText::
 _Route22Rival1VictoryText::
 	text "<RIVAL>: What?"
 	line "Why do I have 2"
-	cont "#MON?"
+	cont "#MONS?"
 
 	para "You should catch"
 	cont "some more too!"

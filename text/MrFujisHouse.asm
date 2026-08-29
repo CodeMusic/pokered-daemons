@@ -23,7 +23,7 @@ _MrFujisHouseLittleGirlThisIsMrFujisHouseText::
 
 _MrFujisHouseLittleGirlPokemonAreNiceToHugText::
 	text "It's so warm!"
-	line "#MON are so"
+	line "#MONS are so"
 	cont "nice to hug!"
 	done
 
@@ -38,7 +38,7 @@ _MrFujisHouseNidorinoText::
 _MrFujisHouseMrFujiIThinkThisMayHelpYourQuestText::
 	text "MR.FUJI: <PLAYER>."
 
-	para "Your #DEX quest"
+	para "Your INDEX quest"
 	line "may fail without"
 	cont "love for your"
 	cont "#MON."
@@ -57,7 +57,7 @@ _MrFujisHouseMrFujiReceivedPokeFluteText::
 _MrFujisHouseMrFujiPokeFluteExplanationText::
 	text_start
 
-	para "Upon hearing #"
+	para "Upon hearing POKé"
 	line "FLUTE, sleeping"
 	cont "#MON will"
 	cont "spring awake."

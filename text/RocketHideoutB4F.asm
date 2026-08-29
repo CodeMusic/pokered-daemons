@@ -11,7 +11,7 @@ _RocketHideoutB4FGiovanniWhatCannotBeText::
 
 _RocketHideoutB4FGiovanniHopeWeMeetAgainText::
 	text "I see that you"
-	line "raise #MON"
+	line "raise #MONS"
 	cont "with utmost care."
 
 	para "A child like you"

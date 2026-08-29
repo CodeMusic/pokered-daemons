@@ -10,7 +10,7 @@ _Route25Youngster1EndBattleText::
 	prompt
 
 _Route25Youngster1AfterBattleText::
-	text "All #MON have"
+	text "All #MONS have"
 	line "weaknesses. It's"
 	cont "best to raise"
 	cont "different kinds."
@@ -130,7 +130,7 @@ _Route25Hiker2EndBattleText::
 _Route25Hiker2AfterBattleText::
 	text "The collector has"
 	line "many rare kinds"
-	cont "of #MON."
+	cont "of #MONS."
 	done
 
 _Route25Hiker3BattleText::

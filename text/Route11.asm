@@ -68,7 +68,7 @@ _Route11Youngster2BattleText::
 
 _Route11Youngster2EndBattleText::
 	text "My"
-	line "#MON couldn't!"
+	line "#MONS couldn't!"
 	prompt
 
 _Route11Youngster2AfterBattleText5::
@@ -114,7 +114,7 @@ _Route11Youngster3BattleText::
 _Route11Youngster3EndBattleText::
 	text "Darn!"
 	line "I need to make my"
-	cont "#MON stronger!"
+	cont "#MONS stronger!"
 	prompt
 
 _Route11Youngster3AfterBattleText::

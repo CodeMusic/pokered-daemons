@@ -1,6 +1,6 @@
 _RockTunnelB1FHiker3AfterBattleText::
 	text "I'll raise my"
-	line "#MON to beat"
+	line "#MONS to beat"
 	cont "yours, kid!"
 	done
 

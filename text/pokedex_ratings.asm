@@ -1,5 +1,5 @@
 _DexCompletionText::
-	text "#DEX comp-"
+	text "INDEX comp-"
 	line "letion is:"
 
 	para "@"
@@ -111,7 +111,7 @@ _DexRatingText_Own140To149::
 	done
 
 _DexRatingText_Own150To151::
-	text "Your #DEX is"
+	text "Your INDEX is"
 	line "entirely complete!"
 	cont "Congratulations!"
 	done

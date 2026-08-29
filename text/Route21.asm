@@ -60,7 +60,7 @@ _Route21Swimmer2AfterBattleText::
 
 _Route21Swimmer3BattleText::
 	text "I caught all my"
-	line "#MON at sea!"
+	line "#MONS at sea!"
 	done
 
 _Route21Swimmer3EndBattleText::

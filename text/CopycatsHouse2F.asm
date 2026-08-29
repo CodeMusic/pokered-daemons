@@ -17,7 +17,7 @@ _CopycatsHouse2FCopycatDoYouLikePokemonText::
 
 _CopycatsHouse2FCopycatTM31PreReceiveText::
 	text "Oh wow!"
-	line "A # DOLL!"
+	line "A POKé DOLL!"
 
 	para "For me?"
 	line "Thank you!"

@@ -90,7 +90,7 @@ _SilphCo11FGiovanniYouRuinedOurPlansText::
 
 	para "<PLAYER>! Never"
 	line "forget that all"
-	cont "#MON exist"
+	cont "#MONS exist"
 	cont "for TEAM ROCKET!"
 
 	para "I must go, but I"

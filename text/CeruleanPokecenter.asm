@@ -12,7 +12,7 @@ _CeruleanPokecenterGentlemanText::
 	line "about BILL?"
 
 	para "Everyone calls"
-	line "him a #MANIAC!"
+	line "him a POKéMANIAC!"
 
 	para "I think people"
 	line "are just jealous"

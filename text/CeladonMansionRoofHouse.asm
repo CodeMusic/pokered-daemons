@@ -6,5 +6,5 @@ _CeladonMansionRoofHouseHikerText::
 
 	para "Get together with"
 	line "your friends and"
-	cont "trade #MON!"
+	cont "trade #MONS!"
 	done
