@@ -11,16 +11,19 @@ _CinnabarIslandGirlText::
 	done
 
 _CinnabarIslandGamblerText::
-	text "Scientists conduct"
-	line "experiments in"
-	cont "the burned out"
-	cont "building."
+	text "That burned out"
+	line "building still"
+	cont "has its new sign."
+
+	para "Gold leaf, dated."
+	line "You can see the"
+	cont "old name under it."
 	done
 
 _CinnabarIslandSignText::
 	text "QUICKSILVER"
-	line "The Fiery Town of"
-	cont "Burning Desire"
+	line "The Metal That"
+	cont "Will Not Set"
 	done
 
 _CinnabarIslandPokemonLabSignText::
