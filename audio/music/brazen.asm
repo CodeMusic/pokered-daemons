@@ -37,22 +37,32 @@ Music_Brazen_Ch1::
 	note G_, 8
 	note D#, 8
 
-; -- the directive, a semitone under the city it runs
+; -- the directive, a semitone under the city it runs.
+;    Re-scanned 2026-08-30. The first transcription of this hook was
+;    superseded and three findings were struck with it (7.7, 7.10, 7.11);
+;    the music was still playing the retracted version until now.
+	octave 5
+	note D_, 12
+	note E_, 4
+	note F_, 12
+	note E_, 4
 	note D_, 8
+	octave 4
+	note A_, 8
+	octave 5
+	note C_, 8
 	note D_, 8
-	note F_, 8
-	note F_, 8
-	note G_, 8
-	note G_, 8
-	note A_, 16
 
+	note D_, 12
+	note E_, 4
+	note F_, 12
+	note E_, 4
 	note D_, 8
+	octave 4
+	note A_, 8
+	octave 5
+	note C_, 8
 	note D_, 8
-	note F_, 8
-	note F_, 8
-	note G_, 8
-	note G_, 8
-	note A_, 16
 	sound_loop 0, .mainloop
 
 	sound_ret
