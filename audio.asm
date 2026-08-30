@@ -427,7 +427,6 @@ SECTION "Music 3", ROMX
 INCLUDE "audio/music/bikeriding.asm"
 INCLUDE "audio/music/dungeon1.asm"
 INCLUDE "audio/music/gamecorner.asm"
-INCLUDE "audio/music/titlescreen.asm"
 INCLUDE "audio/sfx/get_item1_3.asm"
 INCLUDE "audio/music/dungeon2.asm"
 INCLUDE "audio/music/dungeon3.asm"

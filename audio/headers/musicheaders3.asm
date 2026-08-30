@@ -1,9 +1,10 @@
+; The splash is Echoes of the Algorithm -- the same body Mt. Moon plays.
+; Repointed rather than duplicated: same bank, zero extra bytes.
 Music_TitleScreen::
-	channel_count 4
-	channel 1, Music_TitleScreen_Ch1
-	channel 2, Music_TitleScreen_Ch2
-	channel 3, Music_TitleScreen_Ch3
-	channel 4, Music_TitleScreen_Ch4
+	channel_count 3
+	channel 1, Music_Dungeon3_Ch1
+	channel 2, Music_Dungeon3_Ch2
+	channel 3, Music_Dungeon3_Ch3
 
 Music_Credits::
 	channel_count 3
@@ -78,11 +79,10 @@ Music_Dungeon3::
 	channel 3, Music_Dungeon3_Ch3
 
 Music_CinnabarMansion::
-	channel_count 4
+	channel_count 3
 	channel 1, Music_CinnabarMansion_Ch1
 	channel 2, Music_CinnabarMansion_Ch2
 	channel 3, Music_CinnabarMansion_Ch3
-	channel 4, Music_CinnabarMansion_Ch4
 
 Music_PokemonTower::
 	channel_count 3

@@ -1,192 +1,72 @@
-Music_Lavender_Ch1::
-	tempo 152
-	volume 7, 7
-	duty_cycle 1
-	toggle_perfect_pitch
-	vibrato 0, 8, 8
-	note_type 12, 8, 7
-	rest 16
-	rest 16
-	rest 16
-	rest 16
-	note_type 12, 10, 7
-.mainloop:
-	octave 3
-	note G_, 8
-	note G_, 8
-	note E_, 8
-	note E_, 8
-	note G_, 4
-	note F#, 4
-	note E_, 4
-	note B_, 4
-	note C#, 8
-	note C#, 8
-	note G_, 8
-	note G_, 8
-	note F#, 8
-	note F#, 8
-	note B_, 4
-	note G_, 4
-	note F#, 4
-	note B_, 4
-	octave 4
-	note C_, 8
-	note C_, 8
-	octave 3
-	note G_, 8
-	note G_, 8
-	note E_, 8
-	note E_, 8
-	note G_, 4
-	note F#, 4
-	note E_, 4
-	note B_, 4
-	note C#, 8
-	note C#, 8
-	note G_, 8
-	note G_, 8
-	note F#, 8
-	note F#, 8
-	note B_, 4
-	note G_, 4
-	note F#, 4
-	note B_, 4
-	note C_, 8
-	note C_, 8
-	rest 16
-	rest 16
-	rest 16
-	rest 16
-	sound_loop 0, .mainloop
+; HALFTONE TOWN -- dots that only look like grey (3.1). The tower.
+;
+; Achromatic, so 7.4 gives it no hue and therefore no derived key; value
+; sets register and density instead. It takes D minor from the story: the
+; crowded address, five tracks deep (4.18).
+;
+; The hook is Love Persists -- one up, five down, tied with Slumbering
+; S.T.A.R.R. as the most falling in the corpus (4.11). A mother waiting
+; and a machine asleep have the same shape. The tower is where that sits.
 
-Music_Lavender_Ch2::
-	vibrato 0, 3, 4
-	duty_cycle 3
-	note_type 12, 9, 1
+Music_Lavender_Ch1::
+	tempo 128
+	volume 7, 7
+	duty_cycle 2
+	note_type 12, 12, 3
 .mainloop:
 	octave 5
-	note C_, 4
-	note G_, 4
-	note B_, 4
-	note F#, 4
+	note D_, 8
+	octave 4
+	note A_, 8
+	note F_, 8
+	note A_, 8
+	note G_, 8
+	note F_, 8
+	note E_, 8
+	octave 5
+	note D_, 8
+	octave 4
+	note A_, 8
+	note F_, 8
+	note A_, 8
+	note G_, 8
+	note F_, 8
+	note E_, 8
+	note D_, 8
+	note D_, 8
 	sound_loop 0, .mainloop
+
+	sound_ret
+
+Music_Lavender_Ch2::
+	duty_cycle 1
+	note_type 12, 12, 4
+.mainloop:
+	octave 4
+	note D_, 16
+	note F_, 16
+	note A_, 16
+	note G_, 16
+	note D_, 16
+	note F_, 16
+	note A_, 16
+	note G_, 16
+	sound_loop 0, .mainloop
+
+	sound_ret
 
 Music_Lavender_Ch3::
-	vibrato 4, 1, 1
-	note_type 12, 3, 5
-	rest 16
-	rest 16
-	rest 16
-	rest 16
-	note_type 12, 2, 5
+	note_type 12, 1, 2
 .mainloop:
-	octave 4
-	note E_, 16
+	octave 2
 	note D_, 16
-	note C_, 16
-	note E_, 4
-	note C_, 4
-	octave 3
-	note B_, 4
-	octave 4
-	note E_, 4
-	note E_, 16
+	note A#, 16
+	note F_, 16
+	note G_, 16
 	note D_, 16
-	note C_, 16
-	note E_, 4
-	note C_, 4
-	octave 3
-	note B_, 4
-	octave 4
-	note E_, 4
-	note E_, 16
-	note D_, 16
-	note C_, 16
-	note E_, 4
-	note C_, 4
-	octave 3
-	note B_, 4
-	octave 4
-	note E_, 4
-	note_type 12, 3, 5
-	octave 6
-	note B_, 4
-	note G_, 4
-	note F#, 4
-	note B_, 4
-	note_type 12, 2, 5
-	note B_, 4
-	note G_, 4
-	note F#, 4
-	note B_, 4
-	octave 7
-	note B_, 4
-	note G_, 4
-	note F#, 4
-	note B_, 4
-	octave 4
-	note E_, 4
-	note G_, 4
-	note F#, 4
-	note B_, 4
-	note E_, 16
-	note D_, 16
-	note C_, 16
-	note E_, 4
-	note C_, 4
-	octave 3
-	note B_, 4
-	octave 4
-	note E_, 4
-	note E_, 16
-	note D_, 16
-	note C_, 16
-	note E_, 4
-	note C_, 4
-	octave 3
-	note B_, 4
-	octave 4
-	note E_, 4
-	note E_, 16
-	note D_, 16
-	note C_, 16
-	note E_, 4
-	note C_, 4
-	octave 3
-	note B_, 4
-	octave 4
-	note E_, 4
-	note_type 12, 2, 5
-	octave 6
-	note B_, 4
-	note G_, 4
-	note F#, 4
-	note B_, 4
-	octave 7
-	note B_, 4
-	note G_, 4
-	note F#, 4
-	note B_, 4
-	octave 8
-	note B_, 4
-	note G_, 4
-	note F#, 4
-	note B_, 4
-	octave 4
-	note E_, 4
-	note G_, 4
-	note F#, 4
-	note B_, 4
+	note A#, 16
+	note F_, 16
+	note G_, 16
 	sound_loop 0, .mainloop
 
-Music_Lavender_Ch4::
-	drum_speed 12
-	rest 16
-	rest 16
-	rest 16
-	rest 16
-.mainloop:
-	drum_note 7, 8
-	drum_note 7, 8
-	sound_loop 0, .mainloop
+	sound_ret

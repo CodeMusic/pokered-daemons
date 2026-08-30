@@ -44,18 +44,16 @@ Music_Cinnabar::
 	channel 3, Music_Cinnabar_Ch3
 
 Music_Vermilion::
-	channel_count 4
+	channel_count 3
 	channel 1, Music_Vermilion_Ch1
 	channel 2, Music_Vermilion_Ch2
 	channel 3, Music_Vermilion_Ch3
-	channel 4, Music_Vermilion_Ch4
 
 Music_Lavender::
-	channel_count 4
+	channel_count 3
 	channel 1, Music_Lavender_Ch1
 	channel 2, Music_Lavender_Ch2
 	channel 3, Music_Lavender_Ch3
-	channel 4, Music_Lavender_Ch4
 
 Music_SSAnne::
 	channel_count 3
