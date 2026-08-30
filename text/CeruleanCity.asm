@@ -127,7 +127,7 @@ _CeruleanCityGuardText::
 	line "were robbed."
 
 	para "It's obvious that"
-	line "TEAM ROCKET is"
+	line "TEAM CORPUS is"
 	cont "behind this most"
 	cont "heinous crime!"
 

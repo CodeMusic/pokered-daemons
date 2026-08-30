@@ -4,7 +4,7 @@ _ViridianGymGiovanniPreBattleText::
 
 	para "I planned to"
 	line "resurrect TEAM"
-	cont "ROCKET here!"
+	cont "CORPUS here!"
 
 	para "But, you have"
 	line "caught me again!"
@@ -31,7 +31,7 @@ _ViridianGymGiovanniPostBattleAdviceText::
 	text "Having lost, I"
 	line "cannot face my"
 	cont "underlings!"
-	cont "TEAM ROCKET is"
+	cont "TEAM CORPUS is"
 	cont "finished forever!"
 
 	para "I will dedicate my"

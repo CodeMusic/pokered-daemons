@@ -56,7 +56,7 @@ _MtMoonB2FSuperNerdThenThisIsMineText::
 	text_end
 
 _MtMoonB2FRocket1BattleText::
-	text "TEAM ROCKET will"
+	text "TEAM CORPUS will"
 	line "find the fossils,"
 	cont "revive and sell"
 	cont "them for CACHE!"
@@ -69,12 +69,12 @@ _MtMoonB2FRocket1EndBattleText::
 
 _MtMoonB2FRocket1AfterBattleText::
 	text "You made me mad!"
-	line "TEAM ROCKET will"
+	line "TEAM CORPUS will"
 	cont "blacklist you!"
 	done
 
 _MtMoonB2FRocket2BattleText::
-	text "We, TEAM ROCKET,"
+	text "We, TEAM CORPUS,"
 	line "are #MON"
 	cont "gangsters!"
 	done

@@ -8,7 +8,7 @@ _GameCornerBeauty1Text::
 	done
 
 _GameCornerClerk1DoYouNeedSomeGameCoinsText::
-	text "Welcome to ROCKET"
+	text "Welcome to CORPUS"
 	line "GAME CORNER!"
 
 	para "Do you need some"
@@ -49,7 +49,7 @@ _GameCornerMiddleAgedMan1Text::
 
 	para "It's rumored that"
 	line "this place is run"
-	cont "by TEAM ROCKET."
+	cont "by TEAM CORPUS."
 	done
 
 _GameCornerBeauty2Text::

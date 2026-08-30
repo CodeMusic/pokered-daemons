@@ -31,14 +31,14 @@ _SilphCo6FSilphWorkerF1HaveToMarryHimText::
 	done
 
 _SilphCo6FSilphWorkerF2TeamRocketConquerWorldText::
-	text "TEAM ROCKET is"
+	text "TEAM CORPUS is"
 	line "trying to conquer"
 	cont "the world with"
 	cont "#MON!"
 	done
 
 _SilphCo6FSilphWorkerF2TeamRocketRanText::
-	text "TEAM ROCKET ran"
+	text "TEAM CORPUS ran"
 	line "because of you!"
 	done
 
@@ -57,7 +57,7 @@ _SilphCo6FSilphWorkerM3WorkForSilphText::
 
 _SilphCo6FRocket1BattleText::
 	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	line "CORPUS BROTHERS!"
 	done
 
 _SilphCo6FRocket1EndBattleText::
@@ -92,7 +92,7 @@ _SilphCo6FScientistAfterBattleText::
 
 _SilphCo6FRocket2BattleText::
 	text "You dare betray"
-	line "TEAM ROCKET?"
+	line "TEAM CORPUS?"
 	done
 
 _SilphCo6FRocket2EndBattleText::

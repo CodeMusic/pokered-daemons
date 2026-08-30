@@ -101,5 +101,5 @@ _SSAnne1FRoomsGentleman3Text::
 	line "POLICE agent!"
 
 	para "I'm on the trail"
-	line "of TEAM ROCKET!"
+	line "of TEAM CORPUS!"
 	done

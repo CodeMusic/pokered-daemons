@@ -11,7 +11,7 @@ _LavenderCuboneHouseBrunetteGirlPoorCubonesMotherText::
 
 	para "It was killed"
 	line "trying to escape"
-	cont "from TEAM ROCKET!"
+	cont "from TEAM CORPUS!"
 	done
 
 _LavenderCuboneHouseBrunetteGirlGhostIsGoneText::

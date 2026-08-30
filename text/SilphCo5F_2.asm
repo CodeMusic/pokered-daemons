@@ -10,7 +10,7 @@ _SilphCo5FRockerAfterBattleText::
 	done
 
 _SilphCo5FRocket2BattleText::
-	text "Show TEAM ROCKET"
+	text "Show TEAM CORPUS"
 	line "a little respect!"
 	done
 

@@ -15,7 +15,7 @@ _SaffronCityRocket3Text::
 
 _SaffronCityRocket4Text::
 	text "BRAZEN belongs"
-	line "to TEAM ROCKET!"
+	line "to TEAM CORPUS!"
 	done
 
 _SaffronCityRocket5Text::
@@ -37,12 +37,12 @@ _SaffronCityRocket7Text::
 
 _SaffronCityScientistText::
 	text "You beat TEAM"
-	line "ROCKET all alone?"
+	line "CORPUS all alone?"
 	cont "That's amazing!"
 	done
 
 _SaffronCitySilphWorkerMText::
-	text "Yeah! TEAM ROCKET"
+	text "Yeah! TEAM CORPUS"
 	line "is gone!"
 	cont "It's safe to go"
 	cont "out again!"
@@ -69,7 +69,7 @@ _SaffronCityPidgeotText::
 	text_end
 
 _SaffronCityRockerText::
-	text "I saw ROCKET"
+	text "I saw CORPUS"
 	line "BOSS escaping"
 	cont "SILPH's building."
 	done

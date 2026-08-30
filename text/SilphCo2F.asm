@@ -3,7 +3,7 @@ SilphCo2FSilphWorkerFPleaseTakeThisText::
 	line "No! Stop! Help!"
 
 	para "Oh, you're not"
-	line "with TEAM ROCKET."
+	line "with TEAM CORPUS."
 	cont "I thought..."
 	cont "I'm sorry. Here,"
 	cont "please take this!"
@@ -39,13 +39,13 @@ _SilphCo2FScientist1BattleText::
 _SilphCo2FScientist1EndBattleText::
 	text "How"
 	line "did you know I"
-	cont "was a ROCKET?"
+	cont "was CORPUS?"
 	prompt
 
 _SilphCo2FScientist1AfterBattleText::
 	text "I work for both"
 	line "SILPH and TEAM"
-	cont "ROCKET!"
+	cont "CORPUS!"
 	done
 
 _SilphCo2FScientist2BattleText::
@@ -93,5 +93,5 @@ _SilphCo2FRocket2EndBattleText::
 _SilphCo2FRocket2AfterBattleText::
 	text "SILPH CO. will"
 	line "be merged with"
-	cont "TEAM ROCKET!"
+	cont "TEAM CORPUS!"
 	done

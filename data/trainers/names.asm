@@ -29,7 +29,7 @@ TrainerNames::
 	li "CHIEF"
 	li "SCIENTIST"
 	li "GIOVANNI"
-	li "ROCKET"
+	li "CORPUS"
 	li "COOLTRAINER♂"
 	li "COOLTRAINER♀"
 	li "BRUNO"

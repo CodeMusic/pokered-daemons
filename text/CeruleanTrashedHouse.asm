@@ -24,13 +24,13 @@ _CeruleanTrashedHouseFishingGuruWhatsLostIsLostText::
 	done
 
 _CeruleanTrashedHouseGirlText::
-	text "TEAM ROCKET must"
+	text "TEAM CORPUS must"
 	line "be trying to DIG"
 	cont "their way into no"
 	cont "good!"
 	done
 
 _CeruleanTrashedHouseWallHoleText::
-	text "TEAM ROCKET left"
+	text "TEAM CORPUS left"
 	line "a way out!"
 	done

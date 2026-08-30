@@ -15,7 +15,7 @@ _VermilionPidgeyHouseLetterText::
 
 	para "I heard BRAZEN"
 	line "has problems with"
-	cont "TEAM ROCKET."
+	cont "TEAM CORPUS."
 
 	para "ARDOR appears"
 	line "to be safe."

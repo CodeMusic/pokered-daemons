@@ -14,7 +14,7 @@ _RocketHideoutB1FRocket1EndBattleText::
 
 _RocketHideoutB1FRocket1AfterBattleText::
 	text "Are you dissing"
-	line "TEAM ROCKET?"
+	line "TEAM CORPUS?"
 	done
 
 _RocketHideoutB1FRocket2BattleText::

@@ -4,7 +4,7 @@ _VermilionMartCooltrainerMText::
 	cont "use #MON for"
 	cont "criminal acts."
 
-	para "TEAM ROCKET"
+	para "TEAM CORPUS"
 	line "traffics in rare"
 	cont "#MON."
 

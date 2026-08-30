@@ -27,7 +27,7 @@ _SilphCo3FRocketAfterBattleText::
 
 _SilphCo3FScientistBattleText::
 	text "I support TEAM"
-	line "ROCKET more than"
+	line "CORPUS more than"
 	cont "I support SILPH!"
 	done
 
@@ -39,7 +39,7 @@ _SilphCo3FScientistEndBattleText::
 _SilphCo3FScientistAfterBattleText::
 	text "Humph..."
 
-	para "TEAM ROCKET said"
+	para "TEAM CORPUS said"
 	line "that if I helped"
 	cont "them, they'd let"
 	cont "me study #MON!"
