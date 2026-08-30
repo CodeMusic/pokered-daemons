@@ -1,5 +1,5 @@
 Music_Cinnabar_Ch1::
-	tempo 144
+	tempo 110
 	volume 7, 7
 	duty_cycle 3
 	vibrato 12, 3, 4
@@ -81,6 +81,34 @@ Music_Cinnabar_Ch1::
 	note G_, 8
 	note F#, 4
 	note E_, 4
+
+; -- S.T.A.R.R.'s motif (7.9). F# minor. It leaps up a fifth once and then
+;    descends six steps: the only motif that reaches, then falls the whole
+;    way. Left unresolved on a held E and silence -- it is sleeping.
+	octave 5
+	note C#, 8
+	note F#, 8
+	note E_, 8
+	note D_, 8
+	note C#, 8
+	octave 4
+	note B_, 8
+	note A_, 16
+
+	octave 5
+	note C#, 8
+	note F#, 8
+	note E_, 8
+	note D_, 8
+	note C#, 8
+	octave 4
+	note B_, 8
+	note A_, 16
+
+	note F#, 16
+	note E_, 16
+	rest 16
+	rest 16
 	sound_loop 0, .mainloop
 
 Music_Cinnabar_Ch2::
@@ -173,6 +201,23 @@ Music_Cinnabar_Ch2::
 	octave 3
 	note B_, 2
 	note A_, 6
+
+; -- under it: F#m D A E F#m E
+	octave 3
+	note F#, 16
+	note A_, 16
+	note D_, 16
+	note F#, 16
+	note A_, 16
+	octave 4
+	note C#, 16
+	octave 3
+	note E_, 16
+	note G#, 16
+	note F#, 16
+	note A_, 16
+	note E_, 16
+	note E_, 16
 	sound_loop 0, .mainloop
 
 Music_Cinnabar_Ch3::
@@ -346,4 +391,18 @@ Music_Cinnabar_Ch3::
 	octave 5
 	note C_, 1
 	rest 1
+
+	octave 2
+	note F#, 16
+	note F#, 16
+	note D_, 16
+	note D_, 16
+	note A_, 16
+	note A_, 16
+	note E_, 16
+	note E_, 16
+	note F#, 16
+	note F#, 16
+	note E_, 16
+	note E_, 16
 	sound_loop 0, .mainloop
