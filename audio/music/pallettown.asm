@@ -46,6 +46,33 @@ Music_PalletTown_Ch1::
 	note D_, 4
 	note E_, 12
 	rest 4
+
+; -- Crystal's motif (7.6). A minor is C's relative minor, so it enters
+;    without modulation. It brings B, the one note the A-section's
+;    pentatonic does not contain.
+	octave 4
+	note A_, 8
+	octave 5
+	note E_, 8
+	note D_, 8
+	note C_, 8
+	octave 4
+	note B_, 8
+	octave 5
+	note C_, 8
+	note D_, 16
+
+	octave 4
+	note A_, 8
+	octave 5
+	note E_, 8
+	note D_, 8
+	note C_, 8
+	octave 4
+	note B_, 8
+	octave 5
+	note C_, 8
+	note D_, 16
 	sound_loop 0, .mainloop
 
 	sound_ret ; unused
@@ -74,6 +101,19 @@ Music_PalletTown_Ch2::
 	note A_, 8
 	octave 3
 	note C_, 8
+
+; -- under the motif: F G Am Am, from Crystal's own progression
+	octave 3
+	note F_, 16
+	note A_, 16
+	note G_, 16
+	note B_, 16
+	note A_, 16
+	octave 4
+	note C_, 16
+	octave 3
+	note E_, 16
+	note A_, 16
 	sound_loop 0, .mainloop
 
 	sound_ret ; unused
@@ -95,6 +135,16 @@ Music_PalletTown_Ch3::
 	octave 3
 	note G_, 16
 	note C_, 16
+
+	octave 2
+	note F_, 16
+	note F_, 16
+	note G_, 16
+	note G_, 16
+	note A_, 16
+	note A_, 16
+	note A_, 16
+	note A_, 16
 	sound_loop 0, .mainloop
 
 	sound_ret ; unused
