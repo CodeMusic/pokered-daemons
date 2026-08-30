@@ -3,8 +3,8 @@ _LavenderCuboneHouseCuboneText::
 	text_end
 
 _LavenderCuboneHouseBrunetteGirlPoorCubonesMotherText::
-	text "I hate those"
-	line "horrible ROCKETs!"
+	text "CORPUS did it."
+	line "I hate them."
 
 	para "That poor CUBONE's"
 	line "mother..."

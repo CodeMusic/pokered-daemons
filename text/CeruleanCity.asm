@@ -133,7 +133,7 @@ _CeruleanCityGuardText::
 
 	para "Even our POLICE"
 	line "force has trouble"
-	cont "with the ROCKETs!"
+	cont "with CORPUS!"
 	done
 
 _CeruleanCityCooltrainerF1SlowbroUseSonicboomText::

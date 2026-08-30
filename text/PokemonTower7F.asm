@@ -25,54 +25,52 @@ _PokemonTower7FMrFujiRescueText::
 	done
 
 _PokemonTower7FRocket1BattleText::
-	text "What do you want?"
-	line "Why are you here?"
+	text "Are you here"
+	line "about the site?"
 	done
 
 _PokemonTower7FRocket1EndBattleText::
-	text "I give up!"
+	text "Conceding."
 	prompt
 
 _PokemonTower7FRocket1AfterBattleText::
-	text "I'm not going to"
-	line "forget this!"
+	text "This will be in"
+	line "my notes."
 	done
 
 _PokemonTower7FRocket2BattleText::
-	text "This old guy came"
-	line "and complained"
-	cont "about us harming"
-	cont "useless #MON!"
+	text "A member of the"
+	line "public raised a"
+	cont "concern about"
+	cont "our methods."
 
-	para "We're talking it"
-	line "over as adults!"
+	para "We're resolving"
+	line "it internally!"
 	done
 
 _PokemonTower7FRocket2EndBattleText::
-	text "Please!"
-	line "No more!"
+	text "Withdrawing"
+	line "the objection."
 	prompt
 
 _PokemonTower7FRocket2AfterBattleText::
-	text "#MONS are only"
-	line "good for making"
-	cont "money!"
+	text "#MONS are an"
+	line "asset class."
 
-	para "Stay out of our"
-	line "business!"
+	para "Nothing personal!"
 	done
 
 _PokemonTower7FRocket3BattleText::
-	text "You're not saving"
-	line "anyone, kid!"
+	text "There's nothing"
+	line "here to save."
 	done
 
 _PokemonTower7FRocket3EndBattleText::
 	text "Don't"
-	line "fight us ROCKETs!"
+	line "obstruct CORPUS."
 	prompt
 
 _PokemonTower7FRocket3AfterBattleText::
-	text "You're not getting"
-	line "away with this!"
+	text "This will be"
+	line "escalated."
 	done

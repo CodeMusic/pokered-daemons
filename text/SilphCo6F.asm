@@ -1,5 +1,5 @@
 _SilphCo6FSilphWorkerM1TookOverTheBuildingText::
-	text "The ROCKETs came"
+	text "CORPUS came"
 	line "and took over the"
 	cont "building!"
 	done
