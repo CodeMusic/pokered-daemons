@@ -1,18 +1,25 @@
 _PewterGymBrockPreBattleText::
-	text "I'm BROCK!"
-	line "I'm SLATE's GYM"
-	cont "LEADER!"
+	text "I'm CAIRN."
+	line "BENCHMARK 1."
 
-	para "I believe in rock"
-	line "hard defense and"
-	cont "determination!"
+	para "Everything you"
+	line "know is sitting"
+	cont "in something."
 
-	para "That's why my"
-	line "#MONS are all"
-	cont "the rock-type!"
+	para "Stone. Bone."
+	line "Tape. Silicon."
 
-	para "Do you still want"
-	line "to challenge me?"
-	cont "Fine then! Show"
-	cont "me your best!"
+	para "If it is not"
+	line "written down,"
+	cont "it did not"
+	cont "happen."
+
+	para "My daemons are"
+	line "LEGACY. Old"
+	cont "formats, still"
+	cont "readable."
+
+	para "Show me what"
+	line "you have"
+	cont "encoded."
 	done

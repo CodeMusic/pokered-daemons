@@ -1,15 +1,15 @@
 _PewterGymBrockPostBattleAdviceText::
-	text "There are all"
-	line "kinds of USERS"
-	cont "in the world!"
+	text "You encoded"
+	line "something I"
+	cont "could not read."
 
-	para "You appear to be"
-	line "very gifted as a"
-	cont "#MON USER!"
+	para "That is not a"
+	line "defeat. It is a"
+	cont "format I do not"
+	cont "have."
 
-	para "Go to the GYM in"
-	line "DOLDRUM and test"
-	cont "your abilities!"
+	para "DOLDRUM is next."
+	line "BENCHMARK 2."
 	done
 
 _PewterGymBrockWaitTakeThisText::
@@ -55,58 +55,56 @@ _PewterGymBrockReceivedBoulderBadgeText::
 	text "I took"
 	line "you for granted."
 
-	para "As proof of your"
-	line "victory, here's"
-	cont "the BOULDERBADGE!"
+	para "Proof, then."
+	line "Something you"
+	cont "can hold."
 
 	para "<PLAYER> received"
-	line "the BOULDERBADGE!@"
+	line "the SLATE MARK!@"
 	text_end
 
 _PewterGymBrockBoulderBadgeInfoText::
 	text_start
 
-	para "That's an official"
-	line "#MON LEAGUE"
-	cont "BADGE!"
+	para "An official mark"
+	line "from BENCHMARK 1."
 
 	para "Its bearer's"
-	line "#MON become"
-	cont "more powerful!"
+	line "daemons become"
+	cont "more powerful."
 
-	para "The technique"
-	line "FLASH can now be"
-	cont "used any time!"
+	para "FLASH can now be"
+	line "used any time."
 	prompt
 
 _PewterGymCooltrainerMBattleText::
-	text "Stop right there,"
-	line "kid!"
+	text "Stop there."
 
-	para "You're still light"
-	line "years from facing"
-	cont "BROCK!"
+	para "You have not"
+	line "written down"
+	cont "enough yet."
 	done
 
 _PewterGymCooltrainerMEndBattleText::
-	text "Darn!"
+	text "Noted."
 
-	para "Light years isn't"
-	line "time! It measures"
-	cont "distance!"
+	para "It will be in"
+	line "the record by"
+	cont "tonight."
 	prompt
 
 _PewterGymCooltrainerMAfterBattleText::
-	text "You're pretty hot,"
-	line "but not as hot"
-	cont "as BROCK!"
+	text "CAIRN keeps a"
+	line "record of every"
+	cont "match in here."
+
+	para "Every one."
 	done
 
 _PewterGymGuidePreAdviceText::
 	text "Hiya! I can tell"
 	line "you have what it"
-	cont "takes to become a"
-	cont "#MON champ!"
+	cont "takes."
 
 	para "I'm no USER,"
 	line "but I can tell"
@@ -122,15 +120,14 @@ _PewterGymGuideBeginAdviceText::
 	prompt
 
 _PewterGymGuideAdviceText::
-	text "The 1st #MON"
-	line "out in a match is"
-	cont "at the top of the"
-	cont "#MON LIST!"
+	text "The 1st daemon"
+	line "out in a match"
+	cont "is at the top of"
+	cont "your list."
 
-	para "By changing the"
-	line "order of #MON,"
-	cont "matches could be"
-	cont "made easier!"
+	para "Change the order"
+	line "and the match"
+	cont "changes with it."
 	done
 
 _PewterGymGuideFreeServiceText::
@@ -141,6 +138,6 @@ _PewterGymGuideFreeServiceText::
 
 _PewterGymGuidePostBattleText::
 	text "Just as I thought!"
-	line "You're #MON"
-	cont "champ material!"
+	line "You're champ"
+	cont "material!"
 	done
