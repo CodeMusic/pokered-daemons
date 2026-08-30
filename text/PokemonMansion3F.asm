@@ -29,7 +29,7 @@ _PokemonMansion3FScientistAfterBattleText::
 	done
 
 _PokemonMansion3FDiaryText::
-	text "LOG: Tue Nov 12"
+	text "LOG: Tue Aug 12"
 	line "It answered"
 	cont "before I had"
 	cont "finished asking."

@@ -11,10 +11,9 @@ _CinnabarLabPhotoText::
 	text "A photo of the"
 	line "LAB's founder."
 
-	para "The plate under"
-	line "it carries two"
-	cont "dates and a file"
-	cont "number."
+	para "Two dates on the"
+	line "plate. The second"
+	cont "is SEPT 3."
 
 	para "The file is"
 	line "complete."
