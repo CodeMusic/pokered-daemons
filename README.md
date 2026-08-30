@@ -35,6 +35,26 @@ make vanilla-check  # prove the toolchain against pristine upstream
 `red` and `blue` still work as aliases. Setup is unchanged from upstream — see
 [**INSTALL.md**](INSTALL.md) for the toolchain.
 
+### Debug mode
+
+`pokered` has always carried a full debug mode behind its `_DEBUG` define, and
+upstream only ever wired it to a Blue build. **Both editions can now use it:**
+
+```sh
+make content-debug   # -> daemonsContentDebug.gbc
+make context-debug   # -> daemonsContextDebug.gbc
+```
+
+- **SELECT on the title screen** opens the debug menu — start a game with a
+  party in hand and fly-anywhere enabled
+- **Hold B** to skip trainer battles, the Safari step counter, and some NPC
+  scripts
+
+These are **separate ROMs with their own saves**, so a debug run never touches a
+real playthrough, and they are deliberately **not part of `make all`**. The
+starting party is upstream's, so expect Kanto names in it — this is a build for
+reaching places quickly, not for judging how the game feels.
+
 **`make vanilla-check` is the first thing to run when a build breaks.** It builds
 pristine `upstream/master` in a throwaway worktree and checks the hashes without
 touching your branch. If vanilla matches, the toolchain is fine and the break is
