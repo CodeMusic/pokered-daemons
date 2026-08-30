@@ -63,8 +63,8 @@ _ViridianForestYoungster4AfterBattleText::
 	done
 
 _ViridianForestYoungster5Text::
-	text "I ran out of POKé"
-	line "BALLs to catch"
+	text "I ran out of"
+	line "USERBOXes to bind"
 	cont "#MONS with!"
 
 	para "You should carry"

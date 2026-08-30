@@ -21,7 +21,7 @@ _Route1Youngster1GotPotionText::
 
 _Route1Youngster1AlsoGotPokeballsText::
 	text "We also carry"
-	line "POKé BALLs for"
+	line "USERBOXes for"
 	cont "catching #MON!"
 	done
 

@@ -1,13 +1,14 @@
 _PalletTownOakHeyWaitDontGoOutText::
-	text "CRYSTAL: Hey! Wait!"
-	line "Don't go out!@"
+	text "CRYSTAL: Hey!"
+	line "Wait! Don't go"
+	cont "out!@"
 	text_end
 
 _PalletTownOakItsUnsafeText::
 	text "CRYSTAL: It's"
-	line "unsafe! Wild"
-	cont "#MONS live in"
-	cont "tall grass!"
+	line "unsafe! UNBOUND"
+	cont "#MONS run loose"
+	cont "out here!"
 
 	para "You need your own"
 	line "#MON for your"

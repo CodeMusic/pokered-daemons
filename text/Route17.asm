@@ -185,8 +185,8 @@ _Route17NoticeSign2Text::
 	text "It's a notice!"
 
 	para "Don't throw the"
-	line "game, throw POKé"
-	cont "BALLs instead!"
+	line "game, throw"
+	cont "USERBOXes instead!"
 	done
 
 _Route17CyclingRoadEndsSignText::

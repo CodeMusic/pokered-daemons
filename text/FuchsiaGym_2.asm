@@ -158,7 +158,7 @@ _FuchsiaGymRocker6BattleText::
 
 _FuchsiaGymRocker6EndBattleText::
 	text "Dropped"
-	line "my balls!"
+	line "my boxes!"
 	prompt
 
 _FuchsiaGymRocker6AfterBattleText::

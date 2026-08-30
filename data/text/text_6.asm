@@ -1,6 +1,6 @@
 _ItemUseBallText00::
 	text "It dodged the"
-	line "thrown BALL!"
+	line "thrown BOX!"
 
 	para "This #MON"
 	line "can't be caught!"
@@ -205,7 +205,7 @@ _ItemUseNoEffectText::
 
 _ThrowBallAtTrainerMonText1::
 	text "The USER"
-	line "blocked the BALL!"
+	line "blocked the BOX!"
 	prompt
 
 _ThrowBallAtTrainerMonText2::

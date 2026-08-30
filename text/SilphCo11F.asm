@@ -32,8 +32,8 @@ _SilphCo11FSilphPresidentMasterBallDescriptionText::
 	cont "anywhere!"
 
 	para "It's our secret"
-	line "prototype MASTER"
-	cont "BALL!"
+	line "prototype"
+	cont "ROOTBOX!"
 
 	para "It will catch any"
 	line "#MON without"

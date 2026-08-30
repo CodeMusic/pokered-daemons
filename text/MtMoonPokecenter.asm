@@ -1,5 +1,5 @@
 _MtMoonPokecenterYoungsterText::
-	text "I've 6 POKé BALLs"
+	text "I've 6 USERBOXes"
 	line "set in my belt."
 
 	para "At most, you can"

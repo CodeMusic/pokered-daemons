@@ -27,8 +27,8 @@ _SilphCo5FRocket1AfterBattleText::
 	done
 
 _SilphCo5FScientistBattleText::
-	text "We study POKé"
-	line "BALL technology"
+	text "We study BOX"
+	line "technology"
 	cont "on this floor!"
 	done
 
@@ -39,8 +39,8 @@ _SilphCo5FScientistEndBattleText::
 
 _SilphCo5FScientistAfterBattleText::
 	text "We worked on the"
-	line "ultimate POKé"
-	cont "BALL which would"
+	line "ultimate BOX"
+	cont "which would"
 	cont "catch anything!"
 	done
 

@@ -1,13 +1,13 @@
 ItemNames::
 	list_start ITEM_NAME_LENGTH - 1
-	li "MASTER BALL"
-	li "ULTRA BALL"
-	li "GREAT BALL"
-	li "POKé BALL"
+	li "ROOTBOX"
+	li "SUPERBOX"
+	li "ADMINBOX"
+	li "USERBOX"
 	li "TOWN MAP"
 	li "BICYCLE"
 	li "?????" ; SURFBOARD
-	li "SAFARI BALL"
+	li "GUESTBOX"
 	li "POKéDEX"
 	li "MOON STONE"
 	li "ANTIDOTE"

@@ -5,7 +5,7 @@ _SSAnneKitchenCook1Text::
 	done
 
 _SSAnneKitchenCook2Text::
-	text "I saw an odd ball"
+	text "I saw an odd box"
 	line "in the trash."
 	done
 

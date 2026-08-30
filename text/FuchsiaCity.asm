@@ -22,7 +22,7 @@ _FuchsiaCityErikText::
 	done
 
 _FuchsiaCityYoungster2Text::
-	text "That item ball in"
+	text "That item box in"
 	line "there is really a"
 	cont "#MON."
 	done
@@ -72,7 +72,7 @@ _FuchsiaCityVoltorbSignText::
 	text "Name: VOLTORB"
 
 	para "The very image of"
-	line "a POKé BALL."
+	line "a USERBOX."
 	prompt
 
 _FuchsiaCityKangaskhanSignText::

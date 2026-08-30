@@ -18,11 +18,11 @@ _SafariZoneGateSafariZoneWorker1ThatllBe500PleaseText::
 	line "please!"
 
 	para "We only use a"
-	line "special POKé BALL"
+	line "special GUESTBOX"
 	cont "here."
 
 	para "<PLAYER> received"
-	line "30 SAFARI BALLs!@"
+	line "30 GUESTBOXes!@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1CallYouOnThePAText::
@@ -31,7 +31,7 @@ _SafariZoneGateSafariZoneWorker1CallYouOnThePAText::
 	para "We'll call you on"
 	line "the PA when you"
 	cont "run out of time"
-	cont "or SAFARI BALLs!"
+	cont "or GUESTBOXes!"
 	done
 
 _SafariZoneGateSafariZoneWorker1PleaseComeAgainText::
@@ -50,7 +50,7 @@ _SafariZoneGateSafariZoneWorker1LeavingEarlyText::
 
 _SafariZoneGateSafariZoneWorker1ReturnSafariBallsText::
 	text "Please return any"
-	line "SAFARI BALLs you"
+	line "GUESTBOXes you"
 	cont "have left."
 	done
 
@@ -76,13 +76,13 @@ _SafariZoneGateSafariZoneWorker2SafariZoneExplanationText::
 	para "Each zone has"
 	line "different kinds"
 	cont "of #MONS. Use"
-	cont "SAFARI BALLs to"
+	cont "GUESTBOXes to"
 	cont "catch them!"
 
 	para "When you run out"
-	line "of time or SAFARI"
-	cont "BALLs, it's game"
-	cont "over for you!"
+	line "of time or"
+	cont "GUESTBOXes, it's"
+	cont "game over for you!"
 
 	para "Before you go,"
 	line "open an unused"

@@ -500,8 +500,8 @@ _ViridianSchoolNotebookText1::
 
 	para "First page..."
 
-	para "POKé BALLs are"
-	line "used to catch"
+	para "USERBOXes are"
+	line "used to bind"
 	cont "#MONS."
 
 	para "Up to 6 #MONS"
@@ -826,7 +826,7 @@ _OutOfSafariBallsText::
 	text "PA: Ding-dong!"
 
 	para "You are out of"
-	line "SAFARI BALLs!"
+	line "GUESTBOXes!"
 	prompt
 
 _WildRanText::

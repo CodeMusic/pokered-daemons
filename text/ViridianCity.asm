@@ -1,5 +1,5 @@
 _ViridianCityYoungster1Text::
-	text "Those POKé BALLs"
+	text "Those USERBOXes"
 	line "at your waist!"
 	cont "You have #MON!"
 

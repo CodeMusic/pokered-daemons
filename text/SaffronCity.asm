@@ -124,7 +124,7 @@ _SaffronCityTrainerTips1Text::
 _SaffronCityTrainerTips2Text::
 	text "USER TIPS"
 
-	para "New GREAT BALL"
+	para "New ADMINBOX"
 	line "offers improved"
 	cont "capture rates."
 

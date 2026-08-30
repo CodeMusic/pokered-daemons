@@ -41,14 +41,14 @@ _SilphCo7FSilphWorkerM1SavedText::
 
 _SilphCo7FSilphWorkerM2AfterTheMasterBallText::
 	text "TEAM ROCKET was"
-	line "after the MASTER"
-	cont "BALL which will"
+	line "after the ROOTBOX"
+	cont "which will"
 	cont "catch any #MON!"
 	done
 
 _SilphCo7FSilphWorkerM2CancelledMasterBallText::
 	text "We canceled the"
-	line "MASTER BALL"
+	line "ROOTBOX"
 	cont "project because"
 	cont "of TEAM ROCKET."
 	done
