@@ -1,31 +1,80 @@
-# Pokémon Red and Blue [![Build Status][ci-badge]][ci]
+# CONTEXT / CONTENT
 
-This is a disassembly of Pokémon Red and Blue.
+A total conversion of **Pokémon Red and Blue**, built on [pret/pokered][pret].
 
-It builds the following ROMs:
+The creatures are **daemons** — background processes, in the Unix sense, and the
+older sense underneath it. The type chart is not a balance table; it is an
+argument about how a mind resolves what it is given. Everything else follows
+from that.
 
-- Pokemon Red (UE) [S][!].gb `sha1: ea9bcae617fdf159b045185467ae58b2e4a48b9a`
-- Pokemon Blue (UE) [S][!].gb `sha1: d7037c83e1ae5b39bde3c30787637ba1d4c48ce2`
-- BLUEMONS.GB (debug build) `sha1: 5b1456177671b79b263c614ea0e7cc9ac542e9c4`
-- dmgapae0.e69.patch `sha1: 0fb5f743696adfe1dbb2e062111f08f9bc5a293a`
-- dmgapee0.e68.patch `sha1: ed4be94dc29c64271942c87f2157bca9ca1019c7`
+**This repository is the engine.** The design lives next door, in
+[**CodeMusic/DAEMONS**][daemons] — a design bible, a changelog, the lineage of
+the ideas, and the patches. If you have arrived here through a symlink from that
+project, you are in the right place; if you arrived here directly, the bible is
+the thing worth reading first.
 
-To set up the repository, see [**INSTALL.md**](INSTALL.md).
+## It builds two ROMs
 
+| Target | Output | Cart title |
+|---|---|---|
+| `make content` | `daemonsContent.gbc` | `CONTENT` |
+| `make context` | `daemonsContext.gbc` | `CONTEXT` |
 
-## See also
+Two editions, in the tradition of the original pair — but the split is not
+version-exclusive creatures for their own sake. **The type chart is byte-identical
+across both.** It is the argument, and an argument that changes by cartridge is
+not one.
 
-- [**Wiki**][wiki] (includes [tutorials][tutorials])
-- [**Symbols**][symbols]
-- [**Tools**][tools]
+```sh
+make content        # build CONTENT
+make context        # build CONTEXT
+make play           # build CONTENT and launch it
+make vanilla-check  # prove the toolchain against pristine upstream
+```
 
-You can find us on [Discord (pret, #pokered)](https://discord.gg/d5dubZ3).
+`red` and `blue` still work as aliases. Setup is unchanged from upstream — see
+[**INSTALL.md**](INSTALL.md) for the toolchain.
 
-For other pret projects, see [pret.github.io](https://pret.github.io/).
+**`make vanilla-check` is the first thing to run when a build breaks.** It builds
+pristine `upstream/master` in a throwaway worktree and checks the hashes without
+touching your branch. If vanilla matches, the toolchain is fine and the break is
+ours.
 
-[wiki]: https://github.com/pret/pokered/wiki
-[tutorials]: https://github.com/pret/pokered/wiki/Tutorials
-[symbols]: https://github.com/pret/pokered/tree/symbols
-[tools]: https://github.com/pret/gb-asm-tools
-[ci]: https://github.com/pret/pokered/actions
-[ci-badge]: https://github.com/pret/pokered/actions/workflows/main.yml/badge.svg
+## What is different
+
+- **Daemons, not monsters.** The bestiary, the type names, and the terms the
+  interface uses for what a creature *is* and what happens to it in a fight.
+- **Greyscale is the design, not a limitation.** Colour is withheld, deliberately,
+  and it is spent once.
+- **Kanto is renamed throughout** — towns, routes, and the institution the player
+  is being measured by. Gyms are **benchmarks**; badges are what a benchmark
+  certifies.
+- **An original score**, arranged for the Game Boy's three channels from a rock
+  opera written between 2011 and 2026. Town keys are derived rather than chosen.
+- **The dialogue is rewritten**, not reskinned. Signs, logs, minutes and
+  requisitions carry most of the story, and none of them explain themselves.
+
+## Branches
+
+| Branch | What it is |
+|---|---|
+| `context-content` | the conversion — **this is the work** |
+| `master` | tracks [pret/pokered][pret] `master`, untouched |
+| `symbols` | tracks upstream `symbols`, untouched |
+
+`origin` is this fork; `upstream` is pret. `git pull upstream master` brings in
+their fixes, and the untouched tracking branches are what make that painless.
+
+## Credit and licence
+
+This is a fork of [pret/pokered][pret], and it inherits everything about that
+project's posture: it is a disassembly, the work of many contributors over many
+years, and none of the original game's content is ours. **Pokémon is Nintendo /
+Creatures / Game Freak.** Nothing here is endorsed by or affiliated with them.
+
+The original writing, music, design and artwork of CONTEXT / CONTENT are by
+[CodeMusic](https://github.com/CodeMusic). The upstream disassembly is credited
+to pret and its contributors.
+
+[pret]: https://github.com/pret/pokered
+[daemons]: https://github.com/CodeMusic/DAEMONS
