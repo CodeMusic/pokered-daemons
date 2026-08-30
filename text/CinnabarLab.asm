@@ -20,13 +20,38 @@ _CinnabarLabPhotoText::
 	done
 
 _CinnabarLabMeetingRoomSignText::
-	text "#MON LAB"
-	line "Meeting Room"
+	text "Meeting Room"
+	line "Minutes"
+
+	para "Item 4. Concern"
+	line "raised re: the"
+	cont "founder."
+
+	para "Moves between"
+	line "unrelated fields"
+	cont "mid-argument."
+
+	para "Two present"
+	line "could not follow."
+
+	para "Recorded as"
+	line "unable to hold"
+	cont "a single thread."
 	done
 
 _CinnabarLabRAndDSignText::
-	text "#MON LAB"
-	line "R-and-D Room"
+	text "R-and-D"
+	line "Requisitions"
+
+	para "CC-7 CLARIFIER"
+	line "MODULE, x1."
+
+	para "Reason given:"
+	line "IMPROVE RESPONSE"
+	cont "CONSISTENCY."
+
+	para "Signed. Counter-"
+	line "signed. Filed."
 	done
 
 _CinnabarLabTestingRoomSignText::

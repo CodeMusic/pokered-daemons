@@ -96,13 +96,23 @@ _ViridianForestTrainerTips2Text::
 	done
 
 _ViridianForestTrainerTips3Text::
-	text "USER TIPS"
+	text "Cut stone, half"
+	line "under the moss."
 
-	para "No stealing of"
-	line "#MON from"
-	cont "other USERS!"
-	cont "Catch only wild"
-	cont "#MON!"
+	para "A small figure"
+	line "carved above,"
+	cont "hands folded."
+
+	para "Symbols in rows,"
+	line "older than the"
+	cont "path."
+
+	para "Read across: each"
+	line "thing, and what"
+	cont "it does to each"
+	cont "other thing."
+
+	para "Nobody signed it."
 	done
 
 _ViridianForestTrainerTips4Text::

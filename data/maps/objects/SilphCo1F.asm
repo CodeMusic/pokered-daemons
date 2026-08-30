@@ -12,6 +12,7 @@ SilphCo1F_Object:
 	warp_event 16, 10, SILPH_CO_3F, 7 ; inaccessible
 
 	def_bg_events
+	bg_event 11, 16, TEXT_SILPHCO1F_ENGRAVING
 
 	def_object_events
 	object_event  4,  2, SPRITE_LINK_RECEPTIONIST, STAY, DOWN, TEXT_SILPHCO1F_LINK_RECEPTIONIST
