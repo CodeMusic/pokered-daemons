@@ -11,7 +11,7 @@ _PokemonTower3FChanneler1EndBattleText::
 _PokemonTower3FChanneler1AfterBattleText::
 	text "The GHOSTs can be"
 	line "identified by the"
-	cont "SILPH SCOPE."
+	cont "RESOLVER."
 	done
 
 _PokemonTower3FChanneler2BattleText::

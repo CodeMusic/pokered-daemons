@@ -71,7 +71,7 @@ ItemNames::
 	li "COIN CASE"
 	li "PACKAGE"
 	li "ITEMFINDER"
-	li "SILPH SCOPE"
+	li "RESOLVER"
 	li "INTERRUPT"
 	li "LIFT KEY"
 	li "EXP.ALL"

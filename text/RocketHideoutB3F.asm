@@ -10,7 +10,7 @@ _RocketHideoutB3FRocket1EndBattleText::
 	prompt
 
 _RocketHideoutB3FRocket1AfterBattleText::
-	text "SILPH SCOPE?"
+	text "RESOLVER?"
 	line "The machine the"
 	cont "BOSS stole. It's"
 	cont "here somewhere."

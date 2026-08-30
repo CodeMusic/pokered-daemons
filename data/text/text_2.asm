@@ -1262,7 +1262,7 @@ _TrainerWantsToFightText::
 	prompt
 
 _UnveiledGhostText::
-	text "SILPH SCOPE"
+	text "RESOLVER"
 	line "unveiled the"
 	cont "GHOST's identity!"
 	prompt

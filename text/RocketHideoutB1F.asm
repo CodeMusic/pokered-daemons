@@ -42,7 +42,7 @@ _RocketHideoutB1FRocket3EndBattleText::
 	prompt
 
 _RocketHideoutB1FRocket3AfterBattleText::
-	text "SILPH SCOPE?"
+	text "RESOLVER?"
 	line "I don't know"
 	cont "where it is!"
 	done

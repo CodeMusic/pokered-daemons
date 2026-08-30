@@ -44,7 +44,7 @@ _LavenderTownSignText::
 	done
 
 _LavenderTownSilphScopeSignText::
-	text "New SILPH SCOPE!"
+	text "New RESOLVER!"
 
 	para "Make the Invisible"
 	line "Plain to See!"
