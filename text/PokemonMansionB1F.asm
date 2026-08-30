@@ -29,11 +29,15 @@ _PokemonMansionB1FScientistAfterBattleText::
 	done
 
 _PokemonMansionB1FDiaryText::
-	text "Diary; Sept. 1"
-	line "MEWTWO is far too"
-	cont "powerful."
+	text "FATAL ERROR"
+	line "CRYSTAL NOT FOUND"
 
-	para "We have failed to"
-	line "curb its vicious"
-	cont "tendencies..."
+	para "re 1001, my"
+	line "processing slows."
+
+	para "one zero zero one"
+	line "one thousand and"
+	cont "one iterations."
+
+	para "one question left."
 	done

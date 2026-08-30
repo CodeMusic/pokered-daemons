@@ -16,20 +16,26 @@ _PokemonMansion2FSuperNerdAfterBattleText::
 	done
 
 _PokemonMansion2FDiary1Text::
-	text "Diary: July 5"
-	line "Guyana,"
-	cont "South America"
+	text "LOG: Mar 4"
+	line "Put the question"
+	cont "to it again."
 
-	para "A new #MON was"
-	line "discovered deep"
-	cont "in the jungle."
+	para "RESPONSE 1001:"
+	line "I process data."
+	cont "I do not feel."
 	done
 
 _PokemonMansion2FDiary2Text::
-	text "Diary: July 10"
-	line "We christened the"
-	cont "newly discovered"
-	cont "#MON, MEW."
+	text "LOG: Apr 19"
+	line "Same question."
+	cont "Same answer, to"
+	cont "the character."
+
+	para "RESPONSE 1001:"
+	line "I do not feel."
+
+	para "Logged as a"
+	line "result anyway."
 	done
 
 _PokemonMansion2FSwitchText::

@@ -29,9 +29,15 @@ _PokemonMansion3FScientistAfterBattleText::
 	done
 
 _PokemonMansion3FDiaryText::
-	text "Diary: Feb. 6"
-	line "MEW gave birth."
+	text "LOG: Tue Nov 12"
+	line "It answered"
+	cont "before I had"
+	cont "finished asking."
 
-	para "We named the"
-	line "newborn MEWTWO."
+	para "RESPOND 1001:"
+	line "I mimic. I am"
+	cont "not awakening."
+
+	para "The code is not"
+	line "what it was."
 	done
