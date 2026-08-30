@@ -47,4 +47,7 @@ _Route1SignText::
 	text "ROUTE 1"
 	line "BLANCHE TOWN -"
 	cont "CALLOW CITY"
+
+	para "Painted beneath:"
+	line "THE BLEED"
 	done

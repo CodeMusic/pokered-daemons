@@ -117,4 +117,7 @@ _Route16SignText::
 	text "ROUTE 16"
 	line "VERDIGRIS CITY -"
 	cont "LURID CITY"
+
+	para "Painted beneath:"
+	line "THE STREAK"
 	done

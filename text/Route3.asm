@@ -142,4 +142,7 @@ _Route3CooltrainerF3AfterBattleText::
 _Route3SignText::
 	text "ROUTE 3"
 	line "MT.MOON AHEAD"
+
+	para "Painted beneath:"
+	line "ASHFALL"
 	done

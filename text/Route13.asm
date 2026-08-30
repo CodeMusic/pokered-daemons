@@ -176,4 +176,7 @@ _Route13SignText::
 	text "ROUTE 13"
 	line "North to SILENCE"
 	cont "BRIDGE"
+
+	para "Painted beneath:"
+	line "SLACK"
 	done

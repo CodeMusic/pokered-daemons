@@ -154,4 +154,7 @@ _Route9SignText::
 	text "ROUTE 9"
 	line "DOLDRUM CITY-"
 	cont "THE BLACKOUT"
+
+	para "Painted beneath:"
+	line "THE DAPPLE"
 	done

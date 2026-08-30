@@ -154,4 +154,7 @@ _Route19SignText::
 	text "SEA ROUTE 19"
 	line "LURID CITY -"
 	cont "SEAFOAM ISLANDS"
+
+	para "Painted beneath:"
+	line "SEAFADE"
 	done

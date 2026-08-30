@@ -170,4 +170,7 @@ _Route14SignText::
 	text "ROUTE 14"
 	line "West to LURID"
 	cont "CITY"
+
+	para "Painted beneath:"
+	line "BRACKISH"
 	done

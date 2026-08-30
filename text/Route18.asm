@@ -49,6 +49,9 @@ _Route18SignText::
 	text "ROUTE 18"
 	line "VERDIGRIS CITY -"
 	cont "LURID CITY"
+
+	para "Painted beneath:"
+	line "THE STREAK"
 	done
 
 _Route18CyclingRoadSignText::

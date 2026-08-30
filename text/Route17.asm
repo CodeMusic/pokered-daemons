@@ -179,6 +179,9 @@ _Route17SignText::
 	text "ROUTE 17"
 	line "VERDIGRIS CITY -"
 	cont "LURID CITY"
+
+	para "Painted beneath:"
+	line "THE STREAK"
 	done
 
 _Route17NoticeSign2Text::

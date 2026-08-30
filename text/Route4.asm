@@ -32,4 +32,7 @@ _Route4SignText::
 	text "ROUTE 4"
 	line "MT.MOON -"
 	cont "DOLDRUM CITY"
+
+	para "Painted beneath:"
+	line "THE WASH"
 	done

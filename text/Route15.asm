@@ -169,4 +169,7 @@ _Route15SignText::
 	text "ROUTE 15"
 	line "West to LURID"
 	cont "CITY"
+
+	para "Painted beneath:"
+	line "THE MUDDLE"
 	done
