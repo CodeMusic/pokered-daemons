@@ -56,70 +56,76 @@ _MtMoonB2FSuperNerdThenThisIsMineText::
 	text_end
 
 _MtMoonB2FRocket1BattleText::
-	text "TEAM CORPUS will"
-	line "find the fossils,"
-	cont "revive and sell"
-	cont "them for CACHE!"
+	text "We're monetising"
+	line "the fossil layer!"
+
+	para "Ground floor"
+	line "opportunity!"
 	done
 
 _MtMoonB2FRocket1EndBattleText::
-	text "Urgh!"
-	line "Now I'm mad!"
+	text "Noted."
+	line "Escalating."
 	prompt
 
 _MtMoonB2FRocket1AfterBattleText::
-	text "You made me mad!"
-	line "TEAM CORPUS will"
-	cont "blacklist you!"
+	text "I've flagged you"
+	line "internally."
+
+	para "CORPUS has a"
+	line "process for this."
 	done
 
 _MtMoonB2FRocket2BattleText::
-	text "We, TEAM CORPUS,"
-	line "are #MON"
-	cont "gangsters!"
+	text "CORPUS is a"
+	line "people-first"
+	cont "organisation!"
+
+	para "The #MONS are"
+	line "inventory."
 	done
 
 _MtMoonB2FRocket2EndBattleText::
-	text "I blew"
-	line "it!"
+	text "Missed"
+	line "target."
 	prompt
 
 _MtMoonB2FRocket2AfterBattleText::
-	text "Darn it all! My"
-	line "associates won't"
-	cont "stand for this!"
+	text "I'll be raising"
+	line "this at standup."
 	done
 
 _MtMoonB2FRocket3BattleText::
-	text "We're pulling a"
-	line "big job here!"
-	cont "Get lost, kid!"
+	text "This site is"
+	line "under review!"
+
+	para "Please respect"
+	line "the cordon!"
 	done
 
 _MtMoonB2FRocket3EndBattleText::
-	text "So, you"
-	line "are good."
+	text "Strong"
+	line "performance."
 	prompt
 
 _MtMoonB2FRocket3AfterBattleText::
-	text "If you find a"
-	line "fossil, give it"
-	cont "to me and scram!"
+	text "Any fossils you"
+	line "recover belong to"
+	cont "CORPUS. Thanks!"
 	done
 
 _MtMoonB2FRocket4BattleText::
-	text "Little kids"
-	line "should leave"
-	cont "grown-ups alone!"
+	text "You are not on"
+	line "the access list!"
 	done
 
 _MtMoonB2FRocket4EndBattleText::
-	text "I'm"
-	line "steamed!"
+	text "That's"
+	line "disappointing."
 	prompt
 
 _MtMoonB2FRocket4AfterBattleText::
-	text "#MONS lived"
-	line "here long before"
-	cont "people came."
+	text "#MONS lived here"
+	line "long before we"
+	cont "opened the site."
 	done
