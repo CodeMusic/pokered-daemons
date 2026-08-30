@@ -9,8 +9,15 @@ _CinnabarLabFishingGuruText::
 
 _CinnabarLabPhotoText::
 	text "A photo of the"
-	line "LAB's founder,"
-	cont "DR.FUJI!"
+	line "LAB's founder."
+
+	para "The plate under"
+	line "it carries two"
+	cont "dates and a file"
+	cont "number."
+
+	para "The file is"
+	line "complete."
 	done
 
 _CinnabarLabMeetingRoomSignText::

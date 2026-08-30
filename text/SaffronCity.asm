@@ -144,9 +144,13 @@ _SaffronCityMrPsychicsHouseSignText::
 	done
 
 _SaffronCitySilphCoLatestProductSignText::
-	text "SILPH's latest"
-	line "product!"
+	text "CORPUS NOTICE"
+	line "REVIEW SCORES"
 
-	para "Release to be"
-	line "determined..."
+	para "Three at 30/100."
+	line "One at 94/100."
+
+	para "Congratulations"
+	line "to our top"
+	cont "performer!"
 	done
