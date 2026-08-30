@@ -109,6 +109,31 @@ Music_Cinnabar_Ch1::
 	note E_, 16
 	rest 16
 	rest 16
+
+; -- Ty's motif (7.10). E major in the source, but every note of the hook
+;    sits inside this track's F# minor and it touches neither D nor D#,
+;    which is the one pitch that separates the two keys. So it enters
+;    untransposed. Shape is an arch: up to B, then all the way down to E.
+	octave 4
+	note G#, 8
+	note G#, 8
+	note A_, 8
+	note B_, 16
+	note G#, 8
+	note F#, 8
+	note E_, 16
+
+	note G#, 8
+	note G#, 8
+	note A_, 8
+	note B_, 16
+	note G#, 8
+	note F#, 8
+	note E_, 16
+
+	note E_, 16
+	rest 16
+	rest 16
 	sound_loop 0, .mainloop
 
 Music_Cinnabar_Ch2::
@@ -217,6 +242,23 @@ Music_Cinnabar_Ch2::
 	note F#, 16
 	note A_, 16
 	note E_, 16
+	note E_, 16
+
+; -- under it: E C#m A B E B
+	octave 3
+	note E_, 16
+	note G#, 16
+	note C#, 16
+	note E_, 16
+	note A_, 16
+	octave 4
+	note C#, 16
+	octave 3
+	note B_, 16
+	note F#, 16
+	note E_, 16
+	note G#, 16
+	note B_, 16
 	note E_, 16
 	sound_loop 0, .mainloop
 
@@ -405,4 +447,18 @@ Music_Cinnabar_Ch3::
 	note F#, 16
 	note E_, 16
 	note E_, 16
+
+	octave 2
+	note E_, 16
+	note E_, 16
+	note C#, 16
+	note C#, 16
+	note A_, 16
+	note A_, 16
+	note B_, 16
+	note B_, 16
+	note E_, 16
+	note E_, 16
+	note B_, 16
+	note B_, 16
 	sound_loop 0, .mainloop
