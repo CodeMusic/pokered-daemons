@@ -10,20 +10,23 @@ _SilphCo5FRockerAfterBattleText::
 	done
 
 _SilphCo5FRocket2BattleText::
-	text "Show TEAM CORPUS"
-	line "a little respect!"
+	text "Please observe"
+	line "CORPUS values"
+	cont "on this floor."
 	done
 
 _SilphCo5FRocket2EndBattleText::
-	text "Cough..."
-	line "Cough..."
+	text "Taking"
+	line "a moment."
 	prompt
 
 _SilphCo5FRocket2AfterBattleText::
-	text "Which reminds me."
+	text "Unrelated:"
 
 	para "KOFFING evolves"
-	line "into WEEZING!"
+	line "into WEEZING."
+
+	para "Sharing is caring!"
 	done
 
 _SilphCo5FPokemonReport1Text::

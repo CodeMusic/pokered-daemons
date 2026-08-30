@@ -79,19 +79,19 @@ _SilphCo7FSilphWorkerM4SafeAtLastText::
 	done
 
 _SilphCo7FRocket1BattleText::
-	text "Oh ho! I smell a"
-	line "little rat!"
+	text "Someone's badge"
+	line "isn't scanning."
 	done
 
 _SilphCo7FRocket1EndBattleText::
-	text "Lights"
-	line "out!"
+	text "Closing"
+	line "the ticket."
 	prompt
 
 _SilphCo7FRocket1AfterBattleText::
-	text "You won't find my"
-	line "BOSS by just"
-	cont "scurrying around!"
+	text "The BOSS takes"
+	line "meetings by"
+	cont "appointment only."
 	done
 
 _SilphCo7FScientistBattleText::
@@ -113,35 +113,33 @@ _SilphCo7FScientistAfterBattleText::
 	done
 
 _SilphCo7FRocket2BattleText::
-	text "I am one of the 4"
-	line "CORPUS BROTHERS!"
+	text "Second of four"
+	line "on this account!"
 	done
 
 _SilphCo7FRocket2EndBattleText::
-	text "Aack!"
-	line "Brothers, I lost!"
+	text "Escalating to"
+	line "the others."
 	prompt
 
 _SilphCo7FRocket2AfterBattleText::
-	text "Doesn't matter."
-	line "My brothers will"
-	cont "repay the favor!"
+	text "The account is"
+	line "well staffed."
 	done
 
 _SilphCo7FRocket3BattleText::
-	text "A child intruder?"
-	line "That must be you!"
+	text "You're not on"
+	line "today's calendar."
 	done
 
 _SilphCo7FRocket3EndBattleText::
-	text "Fine!"
-	line "I lost!"
+	text "Understood."
 	prompt
 
 _SilphCo7FRocket3AfterBattleText::
-	text "Go on home"
-	line "before my BOSS"
-	cont "gets ticked off!"
+	text "You should go."
+	line "The BOSS dislikes"
+	cont "surprises."
 	done
 
 _SilphCo7FRivalText::

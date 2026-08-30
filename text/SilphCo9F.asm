@@ -14,12 +14,15 @@ SilphCo9FNurseThankYouText::
 	done
 
 _SilphCo9FRocket1BattleText::
-	text "Your #MON seem"
-	line "to adore you, kid!"
+	text "Your #MONS seem"
+	line "engaged."
+
+	para "Ours are"
+	line "resources."
 	done
 
 _SilphCo9FRocket1EndBattleText::
-	text "Ghaaah!"
+	text "Logged."
 	prompt
 
 _SilphCo9FRocket1AfterBattleText::
@@ -47,16 +50,16 @@ _SilphCo9FScientistAfterBattleText::
 	done
 
 _SilphCo9FRocket2BattleText::
-	text "I am one of the 4"
-	line "CORPUS BROTHERS!"
+	text "Last of four"
+	line "on this account!"
 	done
 
 _SilphCo9FRocket2EndBattleText::
-	text "Warg!"
-	line "Brothers, I lost!"
+	text "That's the"
+	line "account, then."
 	prompt
 
 _SilphCo9FRocket2AfterBattleText::
-	text "My brothers will"
-	line "avenge me!"
+	text "Someone will"
+	line "pick this up."
 	done

@@ -98,8 +98,9 @@ _SilphCo11FGiovanniYouRuinedOurPlansText::
 	done
 
 _SilphCo11FRocket1BattleText::
-	text "Stop right there!"
-	line "Don't you move!"
+	text "Please wait here."
+	line "Someone will be"
+	cont "with you shortly."
 	done
 
 _SilphCo11FRocket1EndBattleText::
@@ -108,25 +109,25 @@ _SilphCo11FRocket1EndBattleText::
 	prompt
 
 _SilphCo11FRocket1AfterBattleText::
-	text "So, you want to"
-	line "see my BOSS?"
+	text "You'd like to see"
+	line "the BOSS."
 	done
 
 _SilphCo11FRocket2BattleText::
-	text "Halt! Do you have"
-	line "an appointment"
-	cont "with my BOSS?"
+	text "Do you have an"
+	line "appointment with"
+	cont "the BOSS?"
 	done
 
 _SilphCo11FRocket2EndBattleText::
-	text "Gaah!"
-	line "Demolished!"
+	text "Off"
+	line "the roadmap."
 	prompt
 
 _SilphCo11FRocket2AfterBattleText::
-	text "Watch your step,"
-	line "my BOSS likes his"
-	cont "#MON tough!"
+	text "Mind how you go."
+	line "The BOSS sets a"
+	cont "high bar."
 	done
 
 _SilphCo11FPorygonText::

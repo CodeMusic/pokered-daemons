@@ -31,10 +31,9 @@ _SilphCo6FSilphWorkerF1HaveToMarryHimText::
 	done
 
 _SilphCo6FSilphWorkerF2TeamRocketConquerWorldText::
-	text "TEAM CORPUS is"
-	line "trying to conquer"
-	cont "the world with"
-	cont "#MON!"
+	text "CORPUS wants"
+	line "every #MON"
+	cont "on their books!"
 	done
 
 _SilphCo6FSilphWorkerF2TeamRocketRanText::
@@ -56,19 +55,18 @@ _SilphCo6FSilphWorkerM3WorkForSilphText::
 	done
 
 _SilphCo6FRocket1BattleText::
-	text "I am one of the 4"
-	line "CORPUS BROTHERS!"
+	text "I'm one of four"
+	line "on this account!"
 	done
 
 _SilphCo6FRocket1EndBattleText::
-	text "Flame"
-	line "out!"
+	text "Deprioritised."
 	prompt
 
 _SilphCo6FRocket1AfterBattleText::
-	text "No matter!"
-	line "My brothers will"
-	cont "avenge me!"
+	text "No matter."
+	line "My colleagues"
+	cont "will follow up."
 	done
 
 _SilphCo6FScientistBattleText::
@@ -91,17 +89,19 @@ _SilphCo6FScientistAfterBattleText::
 	done
 
 _SilphCo6FRocket2BattleText::
-	text "You dare betray"
-	line "TEAM CORPUS?"
+	text "Are you aligned"
+	line "with CORPUS?"
 	done
 
 _SilphCo6FRocket2EndBattleText::
-	text "You"
-	line "traitor!"
+	text "Not"
+	line "aligned."
 	prompt
 
 _SilphCo6FRocket2AfterBattleText::
-	text "If you stand for"
-	line "justice, you"
-	cont "betray evil!"
+	text "Standing for one"
+	line "thing means"
+	cont "leaving another."
+
+	para "That's synergy!"
 	done

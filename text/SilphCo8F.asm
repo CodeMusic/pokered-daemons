@@ -9,19 +9,20 @@ _SilphCo8FSilphWorkerMThanksForSavingUsText::
 	done
 
 _SilphCo8FRocket1BattleText::
-	text "That's as far as"
-	line "you'll go!"
+	text "This is as far"
+	line "as your badge"
+	cont "will take you."
 	done
 
 _SilphCo8FRocket1EndBattleText::
-	text "Not"
-	line "enough grit!"
+	text "Under"
+	line "resourced."
 	prompt
 
 _SilphCo8FRocket1AfterBattleText::
-	text "If you don't turn"
-	line "back, I'll call"
-	cont "for backup!"
+	text "If you continue"
+	line "I will have to"
+	cont "raise a ticket."
 	done
 
 _SilphCo8FScientistBattleText::
@@ -41,16 +42,16 @@ _SilphCo8FScientistAfterBattleText::
 	done
 
 _SilphCo8FRocket2BattleText::
-	text "I am one of the 4"
-	line "CORPUS BROTHERS!"
+	text "Third of four"
+	line "on this account!"
 	done
 
 _SilphCo8FRocket2EndBattleText::
-	text "Whoo!"
-	line "Oh brothers!"
+	text "Handing"
+	line "off."
 	prompt
 
 _SilphCo8FRocket2AfterBattleText::
-	text "I'll leave you up"
-	line "to my brothers!"
+	text "I'll leave this"
+	line "with the team."
 	done

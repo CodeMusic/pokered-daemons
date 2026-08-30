@@ -10,19 +10,21 @@ _SilphCo3FSilphWorkerMYouSavedUsText::
 	done
 
 _SilphCo3FRocketBattleText::
-	text "Quit messing with"
-	line "us, kid!"
+	text "You are"
+	line "disrupting the"
+	cont "rollout."
 	done
 
 _SilphCo3FRocketEndBattleText::
-	text "I give"
-	line "up!"
+	text "Withdrawing."
 	prompt
 
 _SilphCo3FRocketAfterBattleText::
-	text "A hint? You can"
-	line "open doors with a"
-	cont "CARD KEY!"
+	text "Doors need a"
+	line "CARD KEY."
+
+	para "Ask your manager"
+	line "for one!"
 	done
 
 _SilphCo3FScientistBattleText::

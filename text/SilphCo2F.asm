@@ -64,34 +64,40 @@ _SilphCo2FScientist2AfterBattleText::
 	done
 
 _SilphCo2FRocket1BattleText::
-	text "No kids are"
-	line "allowed in here!"
+	text "This floor is"
+	line "badged access."
+
+	para "Do you have a"
+	line "badge?"
 	done
 
 _SilphCo2FRocket1EndBattleText::
-	text "Tough!"
+	text "Escalated."
 	prompt
 
 _SilphCo2FRocket1AfterBattleText::
-	text "Diamond shaped"
-	line "tiles are"
-	cont "teleport blocks!"
+	text "Diamond tiles are"
+	line "transport pads."
 
-	para "They're hi-tech"
-	line "transporters!"
+	para "Facilities put"
+	line "them in. Very"
+	cont "efficient!"
 	done
 
 _SilphCo2FRocket2BattleText::
-	text "Hey kid! What are"
-	line "you doing here?"
+	text "Do you have a"
+	line "meeting on this"
+	cont "floor?"
 	done
 
 _SilphCo2FRocket2EndBattleText::
-	text "I goofed!"
+	text "My error."
 	prompt
 
 _SilphCo2FRocket2AfterBattleText::
-	text "SILPH CO. will"
-	line "be merged with"
-	cont "TEAM CORPUS!"
+	text "SILPH CO. is"
+	line "joining the"
+	cont "CORPUS family!"
+
+	para "Exciting times!"
 	done

@@ -12,18 +12,22 @@ _SilphCo5FSilphWorkerMYoureOurHeroText::
 	done
 
 _SilphCo5FRocket1BattleText::
-	text "I heard a kid was"
-	line "wandering around."
+	text "Reception logged"
+	line "an unbadged"
+	cont "visitor."
 	done
 
 _SilphCo5FRocket1EndBattleText::
-	text "Boom!"
+	text "Noted."
 	prompt
 
 _SilphCo5FRocket1AfterBattleText::
-	text "It's not smart"
-	line "to pick a fight"
-	cont "with TEAM CORPUS!"
+	text "Disputes with"
+	line "CORPUS go to"
+	cont "arbitration."
+
+	para "We draft the"
+	line "terms!"
 	done
 
 _SilphCo5FScientistBattleText::

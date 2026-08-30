@@ -9,20 +9,20 @@ _SilphCo10FSilphWorkerFQuietAboutMyCryingText::
 	done
 
 _SilphCo10FRocketBattleText::
-	text "Welcome to the"
-	line "10F! So good of"
-	cont "you to join me!"
+	text "Welcome to 10F!"
+	line "So glad you could"
+	cont "make it!"
 	done
 
 _SilphCo10FRocketEndBattleText::
-	text "I'm"
-	line "stunned!"
+	text "Unexpected."
 	prompt
 
 _SilphCo10FRocketAfterBattleText::
-	text "Nice try, but the"
-	line "boardroom is up"
-	cont "one more floor!"
+	text "The boardroom is"
+	line "one floor up."
+
+	para "Do go through!"
 	done
 
 _SilphCo10FScientistBattleText::

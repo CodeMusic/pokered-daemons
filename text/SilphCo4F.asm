@@ -9,19 +9,19 @@ _SilphCo4FSilphWorkerMTeamRocketIsGoneText::
 	done
 
 _SilphCo4FRocket1BattleText::
-	text "TEAM CORPUS has"
-	line "taken command of"
-	cont "SILPH CO.!"
+	text "CORPUS has"
+	line "acquired SILPH"
+	cont "CO. as of today!"
 	done
 
 _SilphCo4FRocket1EndBattleText::
-	text "Arrgh!"
+	text "Regrettable."
 	prompt
 
 _SilphCo4FRocket1AfterBattleText::
-	text "Fwahahaha!"
-	line "My BOSS has been"
-	cont "after this place!"
+	text "This was on our"
+	line "roadmap for"
+	cont "some time!"
 	done
 
 _SilphCo4FScientistBattleText::
@@ -42,15 +42,15 @@ _SilphCo4FScientistAfterBattleText::
 	done
 
 _SilphCo4FRocket2BattleText::
-	text "Intruder spotted!"
+	text "Unbadged visitor!"
 	done
 
 _SilphCo4FRocket2EndBattleText::
-	text "Who"
-	line "are you?"
+	text "Are you"
+	line "with us?"
 	prompt
 
 _SilphCo4FRocket2AfterBattleText::
-	text "I better tell the"
-	line "BOSS on 11F!"
+	text "I'll raise this"
+	line "with 11F."
 	done
