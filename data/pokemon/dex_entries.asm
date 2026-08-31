@@ -779,28 +779,28 @@ WigglytuffDexEntry:
 	text_end
 
 EeveeDexEntry:
-	db "EVOLUTION@"
+	db "GENERAL@"
 	db 1,0
 	dw 140
 	text_far _EeveeDexEntry
 	text_end
 
 FlareonDexEntry:
-	db "FLAME@"
+	db "DEDUCTIVE@"
 	db 2,11
 	dw 550
 	text_far _FlareonDexEntry
 	text_end
 
 JolteonDexEntry:
-	db "LIGHTNING@"
+	db "RETRIEVAL@"
 	db 2,7
 	dw 540
 	text_far _JolteonDexEntry
 	text_end
 
 VaporeonDexEntry:
-	db "BUBBLE JET@"
+	db "AFFECTIVE@"
 	db 3,3
 	dw 640
 	text_far _VaporeonDexEntry

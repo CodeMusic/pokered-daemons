@@ -839,33 +839,33 @@ _EeveeDexEntry::
 	dex
 
 _FlareonDexEntry::
-	text "When storing"
-	next "thermal energy in"
-	next "its body, its"
+	text "Given a rule, it"
+	next "will not stop"
+	next "until the rule"
 
-	page "temperature could"
-	next "soar to over 1600"
-	next "degrees"
+	page "is met. It does"
+	next "not ask where the"
+	next "rule came from"
 	dex
 
 _JolteonDexEntry::
-	text "It accumulates"
-	next "negative ions in"
-	next "the atmosphere to"
+	text "Finds the nearest"
+	next "match to anything"
+	next "it is shown."
 
-	page "blast out 10000-"
-	next "volt lightning"
-	next "bolts"
+	page "Nearest is not the"
+	next "same as right."
+	next "Nobody told it"
 	dex
 
 _VaporeonDexEntry::
-	text "Lives close to"
-	next "water. Its long"
-	next "tail is ridged"
+	text "Reads the room"
+	next "before it reads"
+	next "the problem."
 
-	page "with a fin which"
-	next "is often mistaken"
-	next "for a mermaid's"
+	page "Often correct."
+	next "Cannot show its"
+	next "working"
 	dex
 
 _MachopDexEntry::
