@@ -31,7 +31,7 @@ _Route13CooltrainerF1AfterBattleText::
 	done
 
 _Route13CooltrainerF2BattleText::
-	text "Wow! Your BADGEs"
+	text "Wow! Your MARKs"
 	line "are too cool!"
 	done
 
@@ -42,7 +42,7 @@ _Route13CooltrainerF2EndBattleText::
 
 _Route13CooltrainerF2AfterBattleText::
 	text "You got those"
-	line "BADGEs from GYM"
+	line "MARKs from GYM"
 	cont "LEADERs. I know!"
 	done
 

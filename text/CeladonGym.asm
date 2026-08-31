@@ -33,7 +33,7 @@ _CeladonGymErikaReceivedRainbowBadgeText::
 	line "strong."
 
 	para "I must confer you"
-	line "the RAINBOWBADGE."
+	line "the FIT MARK."
 	prompt
 
 _CeladonGymErikaPostBattleAdviceText::
@@ -48,7 +48,7 @@ _CeladonGymErikaPostBattleAdviceText::
 	done
 
 _CeladonGymRainbowBadgeInfoText::
-	text "The RAINBOWBADGE"
+	text "The FIT MARK"
 	line "will make #MON"
 	cont "up to L50 obey."
 

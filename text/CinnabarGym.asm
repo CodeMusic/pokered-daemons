@@ -18,7 +18,7 @@ _CinnabarGymBlaineReceivedVolcanoBadgeText::
 	line "burnt out!"
 
 	para "You have earned"
-	line "the VOLCANOBADGE!@"
+	line "the HEAT MARK!@"
 	text_end
 
 _CinnabarGymBlainePostBattleAdviceText::
@@ -33,7 +33,7 @@ _CinnabarGymBlainePostBattleAdviceText::
 _CinnabarGymBlaineVolcanoBadgeInfoText::
 	text "Hah!"
 
-	para "The VOLCANOBADGE"
+	para "The HEAT MARK"
 	line "heightens the"
 	cont "SPECIAL abilities"
 	cont "of your #MON!"

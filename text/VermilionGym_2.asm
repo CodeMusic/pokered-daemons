@@ -11,7 +11,7 @@ _VermilionGymLTSurgePostBattleAdviceText::
 	done
 
 _VermilionGymLTSurgeThunderBadgeInfoText::
-	text "The THUNDERBADGE"
+	text "The SENSE MARK"
 	line "cranks up your"
 	cont "#MON's SPEED!"
 
@@ -52,7 +52,7 @@ _VermilionGymLTSurgeReceivedThunderBadgeText::
 	line "deal, kid!"
 
 	para "Fine then, take"
-	line "the THUNDERBADGE!"
+	line "the SENSE MARK!"
 	prompt
 
 _VermilionGymGentlemanBattleText::

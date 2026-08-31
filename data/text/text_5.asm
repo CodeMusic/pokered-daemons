@@ -58,13 +58,13 @@ _NotHealthyEnoughText::
 	prompt
 
 _NewBadgeRequiredText::
-	text "No! A new BADGE"
-	line "is required."
+	text "A new MARK is"
+	line "required."
 	prompt
 
 _CannotUseItemsHereText::
-	text "You can't use items"
-	line "here."
+	text "You cannot use"
+	line "items here."
 	prompt
 
 _CannotGetOffHereText::

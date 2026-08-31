@@ -1,12 +1,12 @@
 _CeruleanBadgeHouseMiddleAgedManText::
-	text "#MON BADGEs"
+	text "#MON MARKs"
 	line "are owned only by"
 	cont "skilled USERS."
 
 	para "I see you have"
 	line "at least one."
 
-	para "Those BADGEs have"
+	para "Those MARKs have"
 	line "amazing secrets!"
 	prompt
 
@@ -14,7 +14,7 @@ _CeruleanBadgeHouseMiddleAgedManWhichBadgeText::
 	text "Now then..."
 
 	para "Which of the 8"
-	line "BADGEs should I"
+	line "MARKs should I"
 	cont "describe?"
 	done
 

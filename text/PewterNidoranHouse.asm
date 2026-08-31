@@ -21,5 +21,5 @@ _PewterNidoranHouseMiddleAgedManText::
 	cont "in battle!"
 
 	para "If only we had"
-	line "some BADGEs..."
+	line "some MARKs..."
 	done

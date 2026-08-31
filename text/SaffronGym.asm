@@ -27,7 +27,7 @@ _SaffronGymSabrinaReceivedMarshBadgeText::
 	cont "to win!"
 
 	para "You earned the"
-	line "MARSHBADGE!@"
+	line "FRAME MARK!@"
 	text_end
 
 _SaffronGymSabrinaPostBattleAdviceText::
@@ -38,7 +38,7 @@ _SaffronGymSabrinaPostBattleAdviceText::
 	done
 
 _SaffronGymSabrinaMarshBadgeInfoText::
-	text "The MARSHBADGE"
+	text "The FRAME MARK"
 	line "makes #MON up"
 	cont "to L70 obey you!"
 

@@ -345,7 +345,7 @@ _CinnabarQuizQuestionsText1::
 _CinnabarQuizQuestionsText2::
 	text "There are 9"
 	line "certified #MON"
-	cont "LEAGUE BADGEs?"
+	cont "LEAGUE MARKs?"
 	done
 
 _CinnabarQuizQuestionsText3::

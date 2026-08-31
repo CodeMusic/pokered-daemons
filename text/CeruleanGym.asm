@@ -26,7 +26,7 @@ _CeruleanGymMistyTM11ExplanationText::
 	done
 
 _CeruleanGymMistyCascadeBadgeInfoText::
-	text "The CASCADEBADGE"
+	text "The SLOPE MARK"
 	line "makes all #MONS"
 	cont "up to L30 obey!"
 
@@ -62,7 +62,7 @@ _CeruleanGymMistyReceivedCascadeBadgeText::
 	para "All right!"
 
 	para "You can have the"
-	line "CASCADEBADGE to"
+	line "SLOPE MARK to"
 	cont "show you beat me!@"
 	text_end
 

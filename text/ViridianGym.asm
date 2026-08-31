@@ -24,7 +24,7 @@ _ViridianGymGiovanniReceivedEarthBadgeText::
 	cont "intense fight!"
 	cont "You have won!"
 	cont "As proof, here is"
-	cont "the EARTHBADGE!@"
+	cont "the TRUE MARK!@"
 	text_end
 
 _ViridianGymGiovanniPostBattleAdviceText::
@@ -44,7 +44,7 @@ _ViridianGymGiovanniPostBattleAdviceText::
 	text_end
 
 _ViridianGymGiovanniEarthBadgeInfoText::
-	text "The EARTHBADGE"
+	text "The TRUE MARK"
 	line "makes #MON of"
 	cont "any level obey!"
 
