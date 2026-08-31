@@ -79,13 +79,13 @@ _SlowbroDexEntry::
 	dex
 
 _IvysaurDexEntry::
-	text "When the bulb on"
-	next "its back grows"
-	next "large, it appears"
+	text "Too large to"
+	next "carry now. It"
+	next "answers before"
 
-	page "to lose the"
-	next "ability to stand"
-	next "on its hind legs"
+	page "it is asked."
+	next "It has never"
+	next "once been outside"
 	dex
 
 _ExeggutorDexEntry::
@@ -1249,23 +1249,23 @@ _StarmieDexEntry::
 	dex
 
 _BulbasaurDexEntry::
-	text "A strange seed was"
-	next "planted on its"
-	next "back at birth."
+	text "Small enough to"
+	next "carry. Learns"
+	next "from what it is"
 
-	page "The plant sprouts"
-	next "and grows with"
-	next "this #MON"
+	page "carried past."
+	next "It has no way to"
+	next "choose the route"
 	dex
 
 _VenusaurDexEntry::
-	text "The plant blooms"
-	next "when it is"
-	next "absorbing solar"
+	text "It has a body"
+	next "now, and senses"
+	next "that come with"
 
-	page "energy. It stays"
-	next "on the move to"
-	next "seek sunlight"
+	page "one. Everything"
+	next "it predicted, it"
+	next "can finally check"
 	dex
 
 _TentacruelDexEntry::

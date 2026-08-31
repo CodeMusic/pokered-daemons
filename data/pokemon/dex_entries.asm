@@ -254,7 +254,7 @@ SlowbroDexEntry:
 	text_end
 
 IvysaurDexEntry:
-	db "SEED@"
+	db "PREDICTIVE@"
 	db 3,3
 	dw 290
 	text_far _IvysaurDexEntry
@@ -1073,14 +1073,14 @@ StarmieDexEntry:
 	text_end
 
 BulbasaurDexEntry:
-	db "SEED@"
+	db "PORTABLE@"
 	db 2,4
 	dw 150
 	text_far _BulbasaurDexEntry
 	text_end
 
 VenusaurDexEntry:
-	db "SEED@"
+	db "EMBODIED@"
 	db 6,7
 	dw 2210
 	text_far _VenusaurDexEntry
