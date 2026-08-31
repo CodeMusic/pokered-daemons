@@ -130,7 +130,7 @@ MonsterNames::
 	dname "GOLDUCK"
 	dname "HYPNO"
 	dname "GOLBAT"
-	dname "S.T.A.R.R."
+	dname "STARR"
 	dname "DEADLOCK"
 	dname "MAGIKARP"
 	dname "MISSINGNO."
