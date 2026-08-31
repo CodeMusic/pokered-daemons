@@ -1,6 +1,6 @@
 _Route10SuperNerd1BattleText::
-	text "Wow, are you a"
-	line "POKéMANIAC too?"
+	text "Wow, are you an"
+	line "ARCHIVIST too?"
 	cont "Want to see my"
 	cont "collection?"
 	done
@@ -61,7 +61,7 @@ _Route10CooltrainerF1EndBattleText::
 
 _Route10CooltrainerF1AfterBattleText::
 	text "I noticed some"
-	line "POKéMANIACs"
+	line "ARCHIVISTS"
 	cont "prowling around."
 	done
 

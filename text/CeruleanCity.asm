@@ -42,8 +42,8 @@ _CeruleanCityRivalIWentToBillsText::
 	cont "INDEX!"
 
 	para "After all, HOLT's"
-	line "world famous as a"
-	cont "POKéMANIAC!"
+	line "world famous as"
+	cont "an ARCHIVIST!"
 
 	para "He invented the"
 	line "storage system"
