@@ -109,7 +109,7 @@ MarshBadgeText:
 	db "FRAME MARK@"
 
 SoulBadgeText:
-	db "TAINT MARK@"
+	db "SKEW MARK@"
 
 RainbowBadgeText:
 	db "FIT MARK@"

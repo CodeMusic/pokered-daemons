@@ -22,5 +22,5 @@ _FuchsiaGymKogaReceivedSoulBadgeText::
 	cont "your worth!"
 
 	para "Here! Take the"
-	line "TAINT MARK!"
+	line "SKEW MARK!"
 	prompt

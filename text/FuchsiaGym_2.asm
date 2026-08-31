@@ -11,7 +11,7 @@ _FuchsiaGymKogaPostBattleAdviceText::
 
 _FuchsiaGymKogaSoulBadgeInfoText::
 	text "Now that you have"
-	line "the TAINT MARK,"
+	line "the SKEW MARK,"
 	cont "the DEFENSE of"
 	cont "your #MON"
 	cont "increases!"

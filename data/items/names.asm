@@ -24,7 +24,7 @@ ItemNames::
 	li "SLOPE MARK"
 	li "SENSE MARK"
 	li "FIT MARK"
-	li "TAINT MARK"
+	li "SKEW MARK"
 	li "FRAME MARK"
 	li "HEAT MARK"
 	li "TRUE MARK"

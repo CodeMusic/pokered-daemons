@@ -27,7 +27,16 @@ _CinnabarIslandSignText::
 	done
 
 _CinnabarIslandPokemonLabSignText::
-	text "#MON LAB"
+	text "SCORN SOLUTIONS"
+
+	para "Gold leaf, laid"
+	line "over something."
+
+	para "Where it has"
+	line "lifted, the older"
+	cont "letters show."
+
+	para "CLEAR LABORATORY"
 	done
 
 _CinnabarIslandGymSignText::
