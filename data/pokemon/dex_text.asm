@@ -199,13 +199,13 @@ _ArcanineDexEntry::
 	dex
 
 _MewDexEntry::
-	text "So rare that it"
-	next "is still said to"
-	next "be a mirage by"
+	text "Observed once, at"
+	next "a facility, by"
+	next "five people."
 
-	page "many experts. Only"
-	next "a few people have"
-	next "seen it worldwide"
+	page "No two accounts"
+	next "agree. The record"
+	next "is filed complete"
 	dex
 
 _GyaradosDexEntry::
@@ -1079,13 +1079,13 @@ _GolbatDexEntry::
 	dex
 
 _MewtwoDexEntry::
-	text "It was created by"
-	next "a scientist after"
-	next "years of horrific"
+	text "Assembled from a"
+	next "study of a single"
+	next "prior event."
 
-	page "gene splicing and"
-	next "DNA engineering"
-	next "experiments"
+	page "Not derived from"
+	next "a sample. Built"
+	next "to specification"
 	dex
 
 _SnorlaxDexEntry::

@@ -3,7 +3,9 @@
 	db 106, 110,  90, 130, 154
 	;   hp  atk  def  spd  spc
 
-	db PSYCHIC_TYPE, PSYCHIC_TYPE ; type
+	db PSYCHIC_TYPE, DRAGON ; type -- CONTEXT/EMERGENT. 4.7: a comprehension,
+; not a clone. ARTSAI is pure CONTEXT; this is her mechanism with something
+; added deliberately, and the difference is visible on the status screen.
 	db 3 ; catch rate
 	db 220 ; base exp
 
