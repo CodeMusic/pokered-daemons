@@ -17,6 +17,7 @@ PokemonMansion1F_Object:
 	warp_event 27, 27, LAST_MAP, 1
 
 	def_bg_events
+	bg_event 17, 16, TEXT_POKEMONMANSION1F_ITER_LOG
 
 	def_object_events
 	object_event 17, 17, SPRITE_SCIENTIST, STAY, LEFT, TEXT_POKEMONMANSION1F_SCIENTIST, OPP_SCIENTIST, 4

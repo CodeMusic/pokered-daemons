@@ -1,11 +1,17 @@
 _PewterCityCooltrainerFText::
-	text "It's rumored that"
-	line "CLEFAIRYs came"
-	cont "from the moon!"
+	text "Morning, it"
+	line "happened. Six"
+	cont "people signed in."
 
-	para "They appeared "
-	line "after MOON STONE"
-	cont "fell on MT.MOON."
+	para "Coolant failure,"
+	line "I was told."
+
+	para "Purple thing. All"
+	line "flat faces, like"
+	cont "cut glass."
+
+	para "West side of the"
+	line "building."
 	done
 
 _PewterCityCooltrainerMText::

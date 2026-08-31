@@ -67,6 +67,7 @@ PokemonMansion1F_TextPointers:
 	dw_const PickUpItemText,                TEXT_POKEMONMANSION1F_ESCAPE_ROPE
 	dw_const PickUpItemText,                TEXT_POKEMONMANSION1F_CARBOS
 	dw_const PokemonMansion1FSwitchText,    TEXT_POKEMONMANSION1F_SWITCH
+	dw_const PokemonMansion1FIterLogText,   TEXT_POKEMONMANSION1F_ITER_LOG
 
 Mansion1TrainerHeaders:
 	def_trainers
@@ -128,4 +129,8 @@ PokemonMansion1FSwitchText:
 
 .NotPressedText:
 	text_far _PokemonMansion1FSwitchNotPressedText
+	text_end
+
+PokemonMansion1FIterLogText:
+	text_far _PokemonMansion1FIterLogText
 	text_end

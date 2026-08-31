@@ -1,10 +1,17 @@
 _VermilionCityBeautyText::
-	text "We're careful"
-	line "about pollution!"
+	text "Afternoon. One"
+	line "man, on his own."
 
-	para "We've heard GRIMER"
-	line "multiplies in"
-	cont "toxic sludge!"
+	para "Left a door open."
+	line "That is all it"
+	cont "was."
+
+	para "A white rabbit"
+	line "sat there after."
+	cont "Just sat."
+
+	para "Below where the"
+	line "roof went in."
 	done
 
 _VermilionCityGambler1DidYouSeeText::

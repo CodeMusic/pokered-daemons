@@ -20,12 +20,20 @@ _PalletTownOakItsUnsafeText::
 	done
 
 _PalletTownGirlText::
-	text "I'm raising"
-	line "#MON too!"
+	text "The QUICKSILVER"
+	line "thing? Night, it"
+	cont "was. Two of them"
+	cont "in the room."
 
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	para "A surge, they"
+	line "said."
+
+	para "White, I heard."
+	line "Like an ordinary"
+	cont "hare."
+
+	para "Far room. The one"
+	line "past the stairs."
 	done
 
 _PalletTownFisherText::

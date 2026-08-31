@@ -183,12 +183,18 @@ _CeruleanCitySlowbroIgnoredOrdersText::
 	done
 
 _CeruleanCityCooltrainerF2Text::
-	text "I want a bright"
-	line "red BICYCLE!"
+	text "Everyone has the"
+	line "date wrong. Three"
+	cont "days before that."
 
-	para "I'll keep it at"
-	line "home, so it won't"
-	cont "get dirty!"
+	para "Nobody in the"
+	line "room at all. It"
+	cont "was a scheduled"
+	cont "test."
+
+	para "Against the outer"
+	line "wall. I am sure"
+	cont "of that much."
 	done
 
 _CeruleanCitySuperNerd3Text::

@@ -27,3 +27,23 @@ _PokemonMansion1FSwitchPressedText::
 _PokemonMansion1FSwitchNotPressedText::
 	text "Not quite yet!"
 	done
+
+_PokemonMansion1FIterLogText::
+	text "A terminal, still"
+	line "lit. The casing"
+	cont "is split."
+
+	para "ITER 33"
+	line "no retention"
+
+	para "ITER 34"
+	line "no retention"
+
+	para "ITER 35"
+	line "held two frames."
+	cont "did not come back"
+	cont "the same."
+
+	para "The log ends"
+	line "there."
+	done

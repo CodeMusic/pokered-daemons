@@ -1,10 +1,17 @@
 _CeladonCityLittleGirlText::
-	text "I got my KOFFING"
-	line "in QUICKSILVER!"
+	text "Winter, that was."
+	line "Four of them."
 
-	para "It's nice, but it"
-	line "breathes poison"
-	cont "when it's angry!"
+	para "An outside firm"
+	line "did the wiring."
+
+	para "My uncle saw it."
+	line "He says it"
+	cont "changed while he"
+	cont "was looking."
+
+	para "The room with no"
+	line "window."
 	done
 
 _CeladonCityGramps1Text::
