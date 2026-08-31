@@ -9,7 +9,7 @@ _FuchsiaBillsGrandpasHouseMiddleAgedWomanText::
 
 _FuchsiaBillsGrandpasHouseBillsGrandpaText::
 	text "Hmm? You've met"
-	line "BILL?"
+	line "HOLT?"
 
 	para "He's my grandson!"
 
@@ -19,7 +19,7 @@ _FuchsiaBillsGrandpasHouseBillsGrandpaText::
 	done
 
 _FuchsiaBillsGrandpasHouseYoungsterText::
-	text "BILL files his"
+	text "HOLT files his"
 	line "own #MON data"
 	cont "on his PC!"
 

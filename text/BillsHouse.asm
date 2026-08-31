@@ -1,56 +1,64 @@
 _BillsHouseBillImNotAPokemonText::
-	text "Hiya! I'm a"
-	line "#MON..."
-	cont "...No I'm not!"
+	text "...Which one am"
+	line "I. Ask the"
+	cont "machine."
 
-	para "Call me BILL!"
-	line "I'm a true blue"
-	cont "POKéMANIAC! Hey!"
-	cont "What's with that"
-	cont "skeptical look?"
+	para "It will not say."
+	line "It was not built"
+	cont "to say."
 
-	para "I'm not joshing"
-	line "you, I screwed up"
-	cont "an experiment and"
-	cont "got combined with"
-	cont "a #MON!"
+	para "I'm HOLT. I made"
+	line "the storage."
 
-	para "So, how about it?"
-	line "Help me out here!"
+	para "Two of us went"
+	line "in. It is holding"
+	cont "both."
+
+	para "It will hold both"
+	line "forever. That is"
+	cont "what it is for."
+
+	para "Help me make it"
+	line "choose."
 	done
 
 _BillsHouseBillUseSeparationSystemText::
-	text "When I'm in the"
-	line "TELEPORTER, go to"
-	cont "my PC and run the"
-	cont "Cell Separation"
-	cont "System!"
+	text "When I am in the"
+	line "chamber, run the"
+	cont "SEPARATION SYSTEM"
+	cont "from my PC."
+
+	para "It forces a read."
+	line "The store never"
+	cont "does that on its"
+	cont "own."
 	done
 
 _BillsHouseBillNoYouGottaHelpText::
-	text "No!? Come on, you"
-	line "gotta help a guy"
-	cont "in deep trouble!"
+	text "No? Then I stay"
+	line "held."
 
-	para "What do you say,"
-	line "chief? Please?"
-	cont "OK? All right!"
+	para "It does not hurt."
+	line "That is the part"
+	cont "I did not expect."
 	prompt
 
 _BillsHouseBillThankYouText::
-	text "BILL: Yeehah!"
-	line "Thanks, bud! I"
-	cont "owe you one!"
+	text "HOLT: It chose."
 
-	para "So, did you come"
-	line "to see my #MONS"
-	cont "collection?"
-	cont "You didn't?"
-	cont "That's a bummer."
+	para "I am not sure it"
+	line "chose correctly."
 
-	para "I've got to thank"
-	line "you... Oh here,"
-	cont "maybe this'll do."
+	para "I am sure it"
+	line "chose."
+
+	para "Those are not the"
+	line "same thing, and I"
+	cont "built the machine"
+	cont "that cannot tell"
+	cont "them apart."
+
+	para "Take this."
 	prompt
 
 _SSTicketReceivedText::
@@ -61,28 +69,32 @@ _SSTicketReceivedText::
 	text_end
 
 _SSTicketNoRoomText::
-	text "You've got too"
-	line "much stuff, bud!"
+	text "You are carrying"
+	line "too much."
 	done
 
 _BillsHouseBillWhyDontYouGoInsteadOfMeText::
-	text "That cruise ship,"
+	text "That ship, the"
 	line "S.S.ANNE, is in"
 	cont "ARDOR CITY."
-	cont "Its passengers"
-	cont "are all USERS!"
 
-	para "They invited me"
-	line "to their party,"
-	cont "but I can't stand"
-	cont "fancy do's. Why"
-	cont "don't you go"
-	cont "instead of me?"
+	para "They invited me."
+	line "I have been in a"
+	cont "room with no"
+	cont "outside for a"
+	cont "while."
+
+	para "You go."
 	done
 
 _BillsHouseBillCheckOutMyRarePokemonText::
-	text "BILL: Look, bud,"
-	line "just check out"
-	cont "some of my rare"
-	cont "#MON on my PC!"
+	text "HOLT: Go on. Look"
+	line "at what is in"
+	cont "the store."
+
+	para "None of them are"
+	line "running."
+
+	para "None of them are"
+	line "gone."
 	done

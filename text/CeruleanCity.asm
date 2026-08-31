@@ -32,7 +32,7 @@ _CeruleanCityRivalIWentToBillsText::
 	text "<RIVAL>: Hey,"
 	line "guess what?"
 
-	para "I went to BILL's"
+	para "I went to HOLT's"
 	line "and got him to"
 	cont "show me his rare"
 	cont "#MON!"
@@ -41,13 +41,13 @@ _CeruleanCityRivalIWentToBillsText::
 	line "of pages to my"
 	cont "INDEX!"
 
-	para "After all, BILL's"
+	para "After all, HOLT's"
 	line "world famous as a"
 	cont "POKéMANIAC!"
 
 	para "He invented the"
-	line "#MON Storage"
-	cont "System on PC!"
+	line "storage system"
+	cont "we all use!"
 
 	para "Since you're using"
 	line "his system, go"

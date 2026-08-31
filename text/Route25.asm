@@ -135,7 +135,7 @@ _Route25Hiker2AfterBattleText::
 
 _Route25Hiker3BattleText::
 	text "You're going to"
-	line "see BILL? First,"
+	line "see HOLT? First,"
 	cont "let's fight!"
 	done
 
@@ -152,5 +152,5 @@ _Route25Hiker3AfterBattleText::
 
 _Route25BillSignText::
 	text "SEA COTTAGE"
-	line "BILL lives here!"
+	line "HOLT lives here!"
 	done
