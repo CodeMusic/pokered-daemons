@@ -25,6 +25,9 @@
 # save game files
 *.sgm
 *.sav
+
+# emulator save states -- SameBoy writes .s0-.s9 beside the ROM
+*.s[0-9]
 *.rtc
 *.sn*
 *.sa*
