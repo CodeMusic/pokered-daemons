@@ -387,7 +387,7 @@ StaryuDexEntry:
 	text_end
 
 BlastoiseDexEntry:
-	db "SHELLFISH@"
+	db "SURFACE@"
 	db 5,3
 	dw 1890
 	text_far _BlastoiseDexEntry
@@ -1178,35 +1178,35 @@ MagnemiteDexEntry:
 	text_end
 
 CharmanderDexEntry:
-	db "LIZARD@"
+	db "EXAMPLE@"
 	db 2,0
 	dw 190
 	text_far _CharmanderDexEntry
 	text_end
 
 SquirtleDexEntry:
-	db "TINYTURTLE@"
+	db "GROUPING@"
 	db 1,8
 	dw 200
 	text_far _SquirtleDexEntry
 	text_end
 
 CharmeleonDexEntry:
-	db "FLAME@"
+	db "CRITERION@"
 	db 3,7
 	dw 420
 	text_far _CharmeleonDexEntry
 	text_end
 
 WartortleDexEntry:
-	db "TURTLE@"
+	db "CONDITION@"
 	db 3,3
 	dw 500
 	text_far _WartortleDexEntry
 	text_end
 
 CharizardDexEntry:
-	db "FLAME@"
+	db "SETTLED@"
 	db 5,7
 	dw 2000
 	text_far _CharizardDexEntry

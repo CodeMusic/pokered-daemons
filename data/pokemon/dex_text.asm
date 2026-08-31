@@ -269,13 +269,13 @@ _StaryuDexEntry::
 	dex
 
 _BlastoiseDexEntry::
-	text "A brutal #MON"
-	next "with pressurized"
-	next "water jets on its"
+	text "The scattered"
+	next "points were on a"
+	next "surface all"
 
-	page "shell. They are"
-	next "used for high"
-	next "speed tackles"
+	page "along. It can"
+	next "show you the"
+	next "shape, not a name"
 	dex
 
 _PinsirDexEntry::
@@ -1399,53 +1399,53 @@ _MagnemiteDexEntry::
 	dex
 
 _CharmanderDexEntry::
-	text "Obviously prefers"
-	next "hot places. When"
-	next "it rains, steam"
+	text "Holds one example"
+	next "and the answer"
+	next "that came with"
 
-	page "is said to spout"
-	next "from the tip of"
-	next "its tail"
+	page "it. Someone"
+	next "else decided"
+	next "what it means"
 	dex
 
 _SquirtleDexEntry::
-	text "After birth, its"
-	next "back swells and"
-	next "hardens into a"
+	text "Puts near things"
+	next "with near things."
+	next "Nobody told it"
 
-	page "shell. Powerfully"
-	next "sprays foam from"
-	next "its mouth"
+	page "which things"
+	next "matter. It has"
+	next "guessed"
 	dex
 
 _CharmeleonDexEntry::
-	text "When it swings"
-	next "its burning tail,"
-	next "it elevates the"
+	text "It no longer"
+	next "needs answers. It"
+	next "has the rule that"
 
-	page "temperature to"
-	next "unbearably high"
-	next "levels"
+	page "made them."
+	next "Nothing checks"
+	next "the rule"
 	dex
 
 _WartortleDexEntry::
-	text "Often hides in"
-	next "water to stalk"
-	next "unwary prey. For"
+	text "It found a rule"
+	next "the points obey."
+	next "It cannot say"
 
-	page "swimming fast, it"
-	next "moves its ears to"
-	next "maintain balance"
+	page "what the rule"
+	next "is for, only"
+	next "that it holds"
 	dex
 
 _CharizardDexEntry::
-	text "Spits fire that"
-	next "is hot enough to"
-	next "melt boulders."
+	text "Every case it"
+	next "meets is decided"
+	next "by cases it has"
 
-	page "Known to cause"
-	next "forest fires"
-	next "unintentionally"
+	page "already met."
+	next "New things are"
+	next "filed as errors"
 	dex
 
 _OddishDexEntry::

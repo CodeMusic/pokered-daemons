@@ -28,19 +28,19 @@ _OaksLabThoseArePokeBallsText::
 _OaksLabYouWantCharmanderText::
 	text "So! You want the"
 	line "CONTENT #MON,"
-	cont "CHARMANDER?"
+	cont "LABL?"
 	done
 
 _OaksLabYouWantSquirtleText::
 	text "So! You want the"
 	line "VECTOR #MON,"
-	cont "SQUIRTLE?"
+	cont "CLUSTR?"
 	done
 
 _OaksLabYouWantBulbasaurText::
 	text "So! You want the"
 	line "GROWTH #MON,"
-	cont "BULBASAUR?"
+	cont "ROVERCUB?"
 	done
 
 _OaksLabMonEnergeticText::
