@@ -110,7 +110,7 @@ _MtMoon1FYoungster3AfterBattleText::
 	text "ZUBAT is tough!"
 	line "But, it can be"
 	cont "useful if you"
-	cont "catch one."
+	cont "bind one."
 	done
 
 _MtMoon1FBewareZubatSign::

@@ -21,7 +21,7 @@ _SSAnne2FRivalText::
 	para "So how's your"
 	line "INDEX coming?"
 
-	para "I already caught"
+	para "I already bound"
 	line "40 kinds, pal!"
 
 	para "Different kinds"

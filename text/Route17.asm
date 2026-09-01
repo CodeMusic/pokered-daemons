@@ -143,7 +143,7 @@ _Route17Biker10EndBattleText::
 	prompt
 
 _Route17Biker10AfterBattleText::
-	text "I need to catch"
+	text "I need to bind"
 	line "a few Zs!"
 	done
 

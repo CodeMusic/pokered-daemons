@@ -9,7 +9,7 @@ _CeruleanGymMistyPreBattleText::
 
 	para "What is your"
 	line "approach when you"
-	cont "catch #MONS?"
+	cont "bind #MONS?"
 
 	para "My policy is an"
 	line "all-out offensive"

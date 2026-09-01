@@ -45,7 +45,7 @@ _SilphCo5FScientistAfterBattleText::
 	text "We worked on the"
 	line "ultimate BOX"
 	cont "which would"
-	cont "catch anything!"
+	cont "bind anything!"
 	done
 
 _SilphCo5FRockerBattleText::

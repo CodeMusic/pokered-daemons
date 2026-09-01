@@ -3,13 +3,13 @@ _SafariZoneWestRestHouseScientistText::
 	line "#MON might"
 	cont "make them run,"
 	cont "but they'll be"
-	cont "easier to catch."
+	cont "easier to bind."
 	done
 
 _SafariZoneWestRestHouseCooltrainerMText::
 	text "Using BAIT will"
 	line "make #MON"
-	cont "easier to catch."
+	cont "easier to bind."
 	done
 
 _SafariZoneWestRestHouseSilphWorkerFText::

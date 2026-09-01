@@ -5,7 +5,7 @@ _SafariZoneGateSafariZoneWorker1Text::
 
 _SafariZoneGateSafariZoneWorker1WouldYouLikeToJoinText::
 	text "For just ¥500,"
-	line "you can catch all"
+	line "you can bind all"
 	cont "the #MON you"
 	cont "want in the park!"
 
@@ -77,7 +77,7 @@ _SafariZoneGateSafariZoneWorker2SafariZoneExplanationText::
 	line "different kinds"
 	cont "of #MONS. Use"
 	cont "GUESTBOXes to"
-	cont "catch them!"
+	cont "bind them!"
 
 	para "When you run out"
 	line "of time or"

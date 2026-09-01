@@ -1,5 +1,5 @@
 _Route11Gate1FGuardText::
-	text "When you catch"
+	text "When you bind"
 	line "lots of #MONS,"
 	cont "isn't it hard to"
 	cont "think up names?"

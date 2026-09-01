@@ -7,12 +7,12 @@ _CeruleanCityRivalPreBattleText::
 	cont "back here?"
 
 	para "I'm doing great!"
-	line "I caught a bunch"
+	line "I bound a bunch"
 	cont "of strong and"
 	cont "smart #MON!"
 
 	para "Here, let me see"
-	line "what you caught,"
+	line "what you bound,"
 	cont "<PLAYER>!"
 	done
 

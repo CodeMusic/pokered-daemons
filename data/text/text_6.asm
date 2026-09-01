@@ -3,7 +3,7 @@ _ItemUseBallText00::
 	line "thrown BOX!"
 
 	para "This #MON"
-	line "can't be caught!"
+	line "can't be bound!"
 	prompt
 
 _ItemUseBallText01::
@@ -18,7 +18,7 @@ _ItemUseBallText02::
 
 _ItemUseBallText03::
 	text "Aww! It appeared"
-	line "to be caught! "
+	line "to be bound! "
 	prompt
 
 _ItemUseBallText04::
@@ -27,11 +27,10 @@ _ItemUseBallText04::
 	prompt
 
 _ItemUseBallText05::
-	text "All right!"
-	line "@"
+	text "@"
 	text_ram wEnemyMonNick
 	text " was"
-	cont "caught!@"
+	line "BOUND.@"
 	text_end
 
 _ItemUseBallText07::

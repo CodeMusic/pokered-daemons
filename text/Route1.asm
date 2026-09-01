@@ -22,7 +22,7 @@ _Route1Youngster1GotPotionText::
 _Route1Youngster1AlsoGotPokeballsText::
 	text "We also carry"
 	line "USERBOXes for"
-	cont "catching #MON!"
+	cont "binding #MON!"
 	done
 
 _Route1Youngster1NoRoomText::

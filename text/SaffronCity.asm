@@ -129,7 +129,7 @@ _SaffronCityTrainerTips2Text::
 	cont "capture rates."
 
 	para "Try it on those"
-	line "hard-to-catch"
+	line "hard-to-bind"
 	cont "#MONS."
 	done
 

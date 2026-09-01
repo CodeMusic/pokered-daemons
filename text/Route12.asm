@@ -45,7 +45,7 @@ _Route12Fisher2EndBattleText::
 
 _Route12Fisher2AfterBattleText::
 	text "With a better ROD,"
-	line "I could catch"
+	line "I could bind"
 	cont "better #MON!"
 	done
 
@@ -115,7 +115,7 @@ _Route12Fisher4AfterBattleText::
 _Route12Fisher5BattleText::
 	text "You never know"
 	line "what you could"
-	cont "catch!"
+	cont "bind!"
 	done
 
 _Route12Fisher5EndBattleText::
@@ -124,7 +124,7 @@ _Route12Fisher5EndBattleText::
 	prompt
 
 _Route12Fisher5AfterBattleText::
-	text "I catch MAGIKARP"
+	text "I bind MAGIKARP"
 	line "all the time, but"
 	cont "they're so weak!"
 	done

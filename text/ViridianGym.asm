@@ -7,7 +7,7 @@ _ViridianGymGiovanniPreBattleText::
 	cont "CORPUS here!"
 
 	para "But, you have"
-	line "caught me again!"
+	line "bound me again!"
 	cont "So be it! This"
 	cont "time, I'm not"
 	cont "holding back!"

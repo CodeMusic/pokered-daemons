@@ -43,7 +43,7 @@ _SilphCo7FSilphWorkerM2AfterTheMasterBallText::
 	text "TEAM CORPUS was"
 	line "after the ROOTBOX"
 	cont "which will"
-	cont "catch any #MON!"
+	cont "bind any #MON!"
 	done
 
 _SilphCo7FSilphWorkerM2CancelledMasterBallText::

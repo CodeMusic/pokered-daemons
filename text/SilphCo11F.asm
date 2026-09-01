@@ -35,7 +35,7 @@ _SilphCo11FSilphPresidentMasterBallDescriptionText::
 	line "prototype"
 	cont "ROOTBOX!"
 
-	para "It will catch any"
+	para "It will bind any"
 	line "#MON without"
 	cont "fail!"
 

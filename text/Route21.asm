@@ -9,7 +9,7 @@ _Route21Fisher1EndBattleText::
 	prompt
 
 _Route21Fisher1AfterBattleText::
-	text "I can't catch"
+	text "I can't bind"
 	line "anything good!"
 	done
 
@@ -25,7 +25,7 @@ _Route21Fisher2EndBattleText::
 
 _Route21Fisher2AfterBattleText::
 	text "I seem to only"
-	line "catch MAGIKARP!"
+	line "bind MAGIKARP!"
 	done
 
 _Route21Swimmer1BattleText::
@@ -59,7 +59,7 @@ _Route21Swimmer2AfterBattleText::
 	done
 
 _Route21Swimmer3BattleText::
-	text "I caught all my"
+	text "I bound all my"
 	line "#MONS at sea!"
 	done
 
@@ -69,7 +69,7 @@ _Route21Swimmer3EndBattleText::
 	prompt
 
 _Route21Swimmer3AfterBattleText::
-	text "Where'd you catch"
+	text "Where'd you bind"
 	line "your #MON?"
 	done
 
@@ -118,7 +118,7 @@ _Route21Fisher3EndBattleText::
 _Route21Fisher3AfterBattleText::
 	text "I was just angry"
 	line "that I couldn't"
-	cont "catch anything."
+	cont "bind anything."
 	done
 
 _Route21Fisher4BattleText::

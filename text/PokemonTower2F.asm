@@ -30,7 +30,7 @@ _PokemonTower2FRivalVictoryText::
 _PokemonTower2FRivalHowsYourDexText::
 	text "How's your INDEX"
 	line "coming, pal?"
-	cont "I just caught a"
+	cont "I just bound a"
 	cont "CUBONE!"
 
 	para "I can't find the"

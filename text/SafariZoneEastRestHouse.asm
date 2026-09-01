@@ -1,11 +1,11 @@
 _SafariZoneEastRestHouseScientistText::
 	text "How many did you"
-	line "catch? I'm bushed"
+	line "bind? I'm bushed"
 	cont "from the work!"
 	done
 
 _SafariZoneEastRestHouseRockerText::
-	text "I caught a"
+	text "I bound a"
 	line "CHANSEY!"
 
 	para "That makes this"

@@ -2,7 +2,7 @@ _FuchsiaCityYoungster1Text::
 	text "Did you try the"
 	line "SAFARI GAME? Some"
 	cont "#MONS can only"
-	cont "be caught there."
+	cont "be bound there."
 	done
 
 _FuchsiaCityGamblerText::
@@ -12,7 +12,7 @@ _FuchsiaCityGamblerText::
 
 	para "Out back is the"
 	line "SAFARI GAME for"
-	cont "catching #MON."
+	cont "binding #MON."
 	done
 
 _FuchsiaCityErikText::
@@ -39,7 +39,7 @@ _FuchsiaCitySignText::
 
 _FuchsiaCitySafariGameSignText::
 	text "SAFARI GAME"
-	line "#MON-U-CATCH!"
+	line "#MON-U-BIND!"
 	done
 
 _FuchsiaCityWardensHomeSignText::
@@ -64,7 +64,7 @@ _FuchsiaCityGymSignText::
 _FuchsiaCityChanseySignText::
 	text "Name: CHANSEY"
 
-	para "Catching one is"
+	para "Binding one is"
 	line "all up to chance."
 	prompt
 

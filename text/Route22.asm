@@ -42,7 +42,7 @@ _Route22Rival1VictoryText::
 	line "Why do I have 2"
 	cont "#MONS?"
 
-	para "You should catch"
+	para "You should bind"
 	cont "some more too!"
 	prompt
 

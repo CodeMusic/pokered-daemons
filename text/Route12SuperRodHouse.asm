@@ -45,7 +45,7 @@ _Route12SuperRodHouseFishingGuruTryFishingText::
 
 	para "Use the SUPER ROD"
 	line "in any water!"
-	cont "You can catch"
+	cont "You can bind"
 	cont "different kinds"
 	cont "of #MONS."
 

@@ -37,7 +37,7 @@ _ViridianForestYoungster3EndBattleText::
 
 _ViridianForestYoungster3AfterBattleText::
 	text "Darn! I'm going"
-	line "to catch some"
+	line "to bind some"
 	cont "stronger ones!"
 	done
 

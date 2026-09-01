@@ -74,7 +74,7 @@ _OaksAideHiText::
 	line "I'm CRYSTAL's"
 	cont "AIDE!"
 
-	para "If you caught @"
+	para "If you bound @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
 	line "kinds of #MONS,"
@@ -85,7 +85,7 @@ _OaksAideHiText::
 	text "!"
 
 	para "So, <PLAYER>! Have"
-	line "you caught at"
+	line "you bound at"
 	cont "least @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text " kinds of"
@@ -95,7 +95,7 @@ _OaksAideHiText::
 _OaksAideUhOhText::
 	text "Let's see..."
 	line "Uh-oh! You have"
-	cont "caught only @"
+	cont "bound only @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
 	text_start
 	cont "kinds of #MONS!"
@@ -123,7 +123,7 @@ _OaksAideComeBackText::
 
 _OaksAideHereYouGoText::
 	text "Great! You have"
-	line "caught @"
+	line "bound @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
 	text " kinds "
 	cont "of #MON!"

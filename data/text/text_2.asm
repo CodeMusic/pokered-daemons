@@ -204,7 +204,7 @@ _RockTunnelPokecenterGuyText::
 
 _UnusedBenchGuyText1::
 	text "I wish I could"
-	line "catch #MONS."
+	line "bind #MONS."
 	done
 
 _UnusedBenchGuyText2::
@@ -518,7 +518,7 @@ _ViridianSchoolNotebookText2::
 
 	para "A healthy #MON"
 	line "may be hard to"
-	cont "catch, so weaken"
+	cont "bind, so weaken"
 	cont "it first!"
 
 	para "Poison, burns and"

@@ -33,7 +33,7 @@ _CeladonMart3FGameBoyKid1Text::
 	cont "and OT, the name"
 	cont "of the Original"
 	cont "USER that"
-	cont "caught it!"
+	cont "bound it!"
 	done
 
 _CeladonMart3FGameBoyKid2Text::

@@ -114,13 +114,13 @@ _ViridianCityOldManKnowHowToCatchPokemonText::
 	text "I see you're using"
 	line "a INDEX."
 
-	para "When you catch a"
+	para "When you bind a"
 	line "#MON, INDEX"
 	cont "is automatically"
 	cont "updated."
 
 	para "What? Don't you"
-	line "know how to catch"
+	line "know how to bind"
 	cont "#MONS?"
 
 	para "I'll show you"
@@ -151,7 +151,7 @@ _ViridianCitySignText::
 _ViridianCityTrainerTips1Text::
 	text "USER TIPS"
 
-	para "Catch #MONS"
+	para "Bind #MONS"
 	line "and expand your"
 	cont "collection!"
 

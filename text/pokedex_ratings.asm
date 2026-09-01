@@ -30,7 +30,7 @@ _DexRatingText_Own10To19::
 _DexRatingText_Own20To29::
 	text "You still need"
 	line "more #MON!"
-	cont "Try to catch"
+	cont "Try to bind"
 	cont "other species!"
 	done
 

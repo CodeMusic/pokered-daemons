@@ -10,7 +10,7 @@ _PewterSpeechHouseGamblerText::
 
 _PewterSpeechHouseYoungsterText::
 	text "#MON become"
-	line "easier to catch"
+	line "easier to bind"
 	cont "when they are"
 	cont "hurt or asleep!"
 
