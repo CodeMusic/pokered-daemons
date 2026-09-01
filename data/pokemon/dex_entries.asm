@@ -226,7 +226,7 @@ ClefairyDexEntry:
 	text_end
 
 SpearowDexEntry:
-	db "TINY BIRD@"
+	db "DEMAND@"
 	db 1,0
 	dw 40
 	text_far _SpearowDexEntry
@@ -422,14 +422,14 @@ OnixDexEntry:
 	text_end
 
 FearowDexEntry:
-	db "BEAK@"
+	db "DENIAL@"
 	db 3,11
 	dw 840
 	text_far _FearowDexEntry
 	text_end
 
 PidgeyDexEntry:
-	db "TINY BIRD@"
+	db "IN TRANSIT@"
 	db 1,0
 	dw 40
 	text_far _PidgeyDexEntry
@@ -681,14 +681,14 @@ NinetalesDexEntry:
 	text_end
 
 PikachuDexEntry:
-	db "MOUSE@"
+	db "FIRING@"
 	db 1,4
 	dw 130
 	text_far _PikachuDexEntry
 	text_end
 
 RaichuDexEntry:
-	db "MOUSE@"
+	db "SUSTAINED@"
 	db 2,7
 	dw 660
 	text_far _RaichuDexEntry
@@ -849,21 +849,21 @@ PoliwrathDexEntry:
 	text_end
 
 WeedleDexEntry:
-	db "HAIRY BUG@"
+	db "UNLICENSED@"
 	db 1,0
 	dw 70
 	text_far _WeedleDexEntry
 	text_end
 
 KakunaDexEntry:
-	db "COCOON@"
+	db "HELD@"
 	db 2,0
 	dw 220
 	text_far _KakunaDexEntry
 	text_end
 
 BeedrillDexEntry:
-	db "POISON BEE@"
+	db "UNCHECKED@"
 	db 3,3
 	dw 650
 	text_far _BeedrillDexEntry
@@ -905,21 +905,21 @@ DewgongDexEntry:
 	text_end
 
 CaterpieDexEntry:
-	db "WORM@"
+	db "COLLECTOR@"
 	db 1,0
 	dw 60
 	text_far _CaterpieDexEntry
 	text_end
 
 MetapodDexEntry:
-	db "COCOON@"
+	db "QUEUED@"
 	db 2,4
 	dw 220
 	text_far _MetapodDexEntry
 	text_end
 
 ButterfreeDexEntry:
-	db "BUTTERFLY@"
+	db "FILING@"
 	db 3,7
 	dw 710
 	text_far _ButterfreeDexEntry
@@ -1052,14 +1052,14 @@ AlakazamDexEntry:
 	text_end
 
 PidgeottoDexEntry:
-	db "BIRD@"
+	db "HANDOFF@"
 	db 3,7
 	dw 660
 	text_far _PidgeottoDexEntry
 	text_end
 
 PidgeotDexEntry:
-	db "BIRD@"
+	db "TO ALL@"
 	db 4,11
 	dw 870
 	text_far _PidgeotDexEntry
@@ -1122,14 +1122,14 @@ RapidashDexEntry:
 	text_end
 
 RattataDexEntry:
-	db "RAT@"
+	db "UNIT@"
 	db 1,0
 	dw 80
 	text_far _RattataDexEntry
 	text_end
 
 RaticateDexEntry:
-	db "RAT@"
+	db "EXCEEDED@"
 	db 2,4
 	dw 410
 	text_far _RaticateDexEntry

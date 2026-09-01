@@ -56,7 +56,7 @@ _SaffronCitySilphWorkerFText::
 
 _SaffronCityGentlemanText::
 	text "I flew here on my"
-	line "PIDGEOT when I"
+	line "BROADCAST when I"
 	cont "read about SILPH."
 
 	para "It's already over?"
@@ -65,7 +65,7 @@ _SaffronCityGentlemanText::
 	done
 
 _SaffronCityPidgeotText::
-	text "PIDGEOT: Bi bibii!@"
+	text "BROADCAST: Bibii!@"
 	text_end
 
 _SaffronCityRockerText::

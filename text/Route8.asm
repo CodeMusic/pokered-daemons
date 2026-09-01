@@ -87,8 +87,8 @@ _Route8CooltrainerF2EndBattleText::
 	prompt
 
 _Route8CooltrainerF2AfterBattleText::
-	text "I think PIDGEY"
-	line "and RATTATA"
+	text "I think PACKET"
+	line "and NIBBLE"
 	cont "are cute too!"
 	done
 

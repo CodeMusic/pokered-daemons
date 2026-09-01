@@ -1,11 +1,11 @@
 _PokemonFanClubPikachuFanNormalText::
 	text "Won't you admire"
-	line "my PIKACHU's"
+	line "my SPIKE's"
 	cont "adorable tail?"
 	done
 
 _PokemonFanClubPikachuFanBetterText::
-	text "Humph! My PIKACHU"
+	text "Humph! My SPIKE"
 	line "is twice as cute"
 	cont "as that one!"
 	done
@@ -26,7 +26,7 @@ _PokemonFanClubSeelFanBetterText::
 	done
 
 _PokemonFanClubPikachuText::
-	text "PIKACHU: Chu!"
+	text "SPIKE: Chu!"
 	line "Pikachu!"
 	done
 
@@ -96,7 +96,7 @@ _PokemonFanClubExplainBikeVoucherText::
 	line "a BICYCLE!"
 
 	para "Don't worry, my"
-	line "FEAROW will FLY"
+	line "FLOOD will FLY"
 	cont "me anywhere!"
 
 	para "So, I don't need a"

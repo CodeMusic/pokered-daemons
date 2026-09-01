@@ -34,9 +34,9 @@ ViridianCityYoungster2OkThenText::
 	done
 
 ViridianCityYoungster2CaterpieAndWeedleDescriptionText::
-	text "CATERPIE has no"
+	text "CRAWLER has no"
 	line "poison, but"
-	cont "WEEDLE does."
+	cont "SCRAPER does."
 
 	para "Watch out for its"
 	line "POISON STING!"

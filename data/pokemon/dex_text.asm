@@ -39,13 +39,13 @@ _ClefairyDexEntry::
 	dex
 
 _SpearowDexEntry::
-	text "Eats bugs in"
-	next "grassy areas. It"
-	next "has to flap its"
+	text "Asks one question"
+	next "and requires an"
+	next "answer."
 
-	page "short wings at"
-	next "high speed to"
-	next "stay airborne"
+	page "The question is:"
+	next "are you there."
+	next "It asks again"
 	dex
 
 _VoltorbDexEntry::
@@ -319,23 +319,23 @@ _OnixDexEntry::
 	dex
 
 _FearowDexEntry::
-	text "With its huge and"
-	next "magnificent wings,"
-	next "it can keep aloft"
+	text "Many of them ask"
+	next "at once, and each"
+	next "one is owed a"
 
-	page "without ever"
-	next "having to land"
-	next "for rest"
+	page "reply."
+	next "Nothing is left"
+	next "to answer with"
 	dex
 
 _PidgeyDexEntry::
-	text "A common sight in"
-	next "forests and woods."
-	next "It flaps its"
+	text "Carries something"
+	next "it cannot read to"
+	next "somewhere it has"
 
-	page "wings at ground"
-	next "level to kick up"
-	next "blinding sand"
+	page "never been."
+	next "It does not ask"
+	next "what is inside"
 	dex
 
 _SlowpokeDexEntry::
@@ -689,23 +689,23 @@ _NinetalesDexEntry::
 	dex
 
 _PikachuDexEntry::
-	text "When several of"
-	next "these #MON"
-	next "gather, their"
+	text "A single burst,"
+	next "then nothing."
+	next "It means something"
 
-	page "electricity could"
-	next "build and cause"
-	next "lightning storms"
+	page "only if something"
+	next "was counting."
+	next "Usually nothing is"
 	dex
 
 _RaichuDexEntry::
-	text "Its long tail"
-	next "serves as a"
-	next "ground to protect"
+	text "It no longer stops"
+	next "between bursts."
+	next "What was a signal"
 
-	page "itself from its"
-	next "own high voltage"
-	next "power"
+	page "is now a"
+	next "condition."
+	next "Nothing reads it"
 	dex
 
 _DratiniDexEntry::
@@ -894,8 +894,8 @@ _EkansDexEntry::
 	next "Eats the eggs of"
 
 	page "birds, such as"
-	next "PIDGEY and"
-	next "SPEAROW, whole"
+	next "PACKET and"
+	next "PING, whole"
 	dex
 
 _ParasDexEntry::
@@ -929,33 +929,33 @@ _PoliwrathDexEntry::
 	dex
 
 _WeedleDexEntry::
-	text "Often found in"
-	next "forests, eating"
-	next "leaves."
+	text "Takes the same"
+	next "things a CRAWLER"
+	next "takes, by the same"
 
-	page "It has a sharp"
-	next "venomous stinger"
-	next "on its head"
+	page "method."
+	next "Nobody gave it"
+	next "permission"
 	dex
 
 _KakunaDexEntry::
-	text "Almost incapable"
-	next "of moving, this"
-	next "#MON can only"
+	text "Holds what was"
+	next "taken until there"
+	next "is somewhere to"
 
-	page "harden its shell"
-	next "to protect itself"
-	next "from predators"
+	page "put it."
+	next "It does not know"
+	next "where that is"
 	dex
 
 _BeedrillDexEntry::
-	text "Flies at high"
-	next "speed and attacks"
-	next "using its large"
+	text "Puts its own"
+	next "instructions where"
+	next "data was expected."
 
-	page "venomous stingers"
-	next "on its forelegs"
-	next "and tail"
+	page "The reader cannot"
+	next "tell the"
+	next "difference"
 	dex
 
 _DodrioDexEntry::
@@ -1009,33 +1009,33 @@ _DewgongDexEntry::
 	dex
 
 _CaterpieDexEntry::
-	text "Its short feet"
-	next "are tipped with"
-	next "suction pads that"
+	text "Follows every link"
+	next "it finds, then the"
+	next "links it finds"
 
-	page "enable it to"
-	next "tirelessly climb"
-	next "slopes and walls"
+	page "there."
+	next "It has no opinion"
+	next "about any of them"
 	dex
 
 _MetapodDexEntry::
-	text "This #MON is"
-	next "vulnerable to"
-	next "attack while its"
+	text "Waiting to be"
+	next "processed."
+	next "It has been"
 
-	page "shell is soft,"
-	next "exposing its weak"
-	next "and tender body"
+	page "waiting a while."
+	next "Nothing has told"
+	next "it how long"
 	dex
 
 _ButterfreeDexEntry::
-	text "In battle, it"
-	next "flaps its wings"
-	next "at high speed to"
+	text "Turns what was"
+	next "gathered into"
+	next "something that can"
 
-	page "release highly"
-	next "toxic dust into"
-	next "the air"
+	page "be found again."
+	next "What it cannot"
+	next "file, it drops"
 	dex
 
 _MachampDexEntry::
@@ -1219,23 +1219,23 @@ _AlakazamDexEntry::
 	dex
 
 _PidgeottoDexEntry::
-	text "Very protective"
-	next "of its sprawling"
-	next "territorial area,"
+	text "Takes what it is"
+	next "handed and hands"
+	next "it on."
 
-	page "this #MON will"
-	next "fiercely peck at"
-	next "any intruder"
+	page "It does not open"
+	next "it. That is the"
+	next "whole of the job"
 	dex
 
 _PidgeotDexEntry::
-	text "When hunting, it"
-	next "skims the surface"
-	next "of water at high"
+	text "Sends to everyone"
+	next "at once, because"
+	next "it cannot tell"
 
-	page "speed to pick off"
-	next "unwary prey such"
-	next "as MAGIKARP"
+	page "who needs it."
+	next "Most of what it"
+	next "says lands nowhere"
 	dex
 
 _StarmieDexEntry::
@@ -1319,23 +1319,23 @@ _RapidashDexEntry::
 	dex
 
 _RattataDexEntry::
-	text "Bites anything"
-	next "when it attacks."
-	next "Small and very"
+	text "Four bits. The"
+	next "smallest piece the"
+	next "Index will file"
 
-	page "quick, it is a"
-	next "common sight in"
-	next "many places"
+	page "on its own."
+	next "There are a great"
+	next "many of them"
 	dex
 
 _RaticateDexEntry::
-	text "It uses its whis-"
-	next "kers to maintain"
-	next "its balance."
+	text "It kept counting"
+	next "past the space it"
+	next "was given."
 
-	page "It apparently"
-	next "slows down if"
-	next "they are cut off"
+	page "Nothing stopped"
+	next "it. Nothing was"
+	next "watching"
 	dex
 
 _NidorinoDexEntry::

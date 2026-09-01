@@ -338,8 +338,8 @@ _CinnabarGymQuizIntroText::
 	prompt
 
 _CinnabarQuizQuestionsText1::
-	text "CATERPIE evolves"
-	line "into BUTTERFREE?"
+	text "CRAWLER evolves"
+	line "into INDEXER?"
 	done
 
 _CinnabarQuizQuestionsText2::
