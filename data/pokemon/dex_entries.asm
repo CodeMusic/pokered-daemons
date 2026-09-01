@@ -338,7 +338,7 @@ ArcanineDexEntry:
 	text_end
 
 MewDexEntry:
-	db "ACCIDENT@"
+	db "CHANCE@"
 	db 1,4
 	dw 90
 	text_far _MewDexEntry
@@ -954,7 +954,7 @@ GolbatDexEntry:
 	text_end
 
 MewtwoDexEntry:
-	db "DELIBERATE@"
+	db "INTENT@"
 	db 6,7
 	dw 2690
 	text_far _MewtwoDexEntry
