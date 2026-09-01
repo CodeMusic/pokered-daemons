@@ -8,6 +8,10 @@ PrintBeginningBattleText:
 	cp POKEMON_TOWER_7F + 1
 	jr c, .pokemonTower
 .notPokemonTower
+; An unbound daemon announces itself before it has a voice.
+	ld a, SFX_BATTLE_16
+	call PlaySound
+	call WaitForSoundToFinish
 	ld a, [wEnemyMonSpecies2]
 	call PlayCry
 	ld hl, WildMonAppearedText
@@ -64,14 +68,7 @@ PrintBeginningBattleText:
 	ld [wFrequencyModifier], a
 	ld a, $80
 	ld [wTempoModifier], a
-; Vanilla plays one cue for wild daemons and trainers alike. An unbound
-; daemon gets its own -- see audio/sfx/battle_16.asm.
-	ld a, [wIsInBattle]
-	dec a
 	ld a, SFX_TRAINER_APPEARED
-	jr nz, .gotAppearSFX
-	ld a, SFX_BATTLE_16
-.gotAppearSFX
 	call PlaySound
 	jp WaitForSoundToFinish
 .done
