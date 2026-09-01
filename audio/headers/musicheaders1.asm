@@ -138,3 +138,15 @@ Music_Brazen::
 	channel 1, Music_Brazen_Ch1
 	channel 2, Music_Brazen_Ch2
 	channel 3, Music_Brazen_Ch3
+
+Music_SlateCity::
+	channel_count 3
+	channel 1, Music_SlateCity_Ch1
+	channel 2, Music_SlateCity_Ch2
+	channel 3, Music_SlateCity_Ch3
+
+Music_TheBleed::
+	channel_count 3
+	channel 1, Music_TheBleed_Ch1
+	channel 2, Music_TheBleed_Ch2
+	channel 3, Music_TheBleed_Ch3

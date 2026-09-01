@@ -2,7 +2,7 @@ MapSongBanks::
 	table_width 2
 	db MUSIC_PALLET_TOWN, BANK(Music_PalletTown) ; PALLET_TOWN
 	db MUSIC_CITIES1, BANK(Music_Cities1) ; VIRIDIAN_CITY
-	db MUSIC_CITIES1, BANK(Music_Cities1) ; PEWTER_CITY
+	db MUSIC_SLATE_CITY, BANK(Music_SlateCity) ; PEWTER_CITY
 	db MUSIC_CITIES2, BANK(Music_Cities2) ; CERULEAN_CITY
 	db MUSIC_LAVENDER, BANK(Music_Lavender) ; LAVENDER_TOWN
 	db MUSIC_VERMILION, BANK(Music_Vermilion) ; VERMILION_CITY
@@ -12,7 +12,7 @@ MapSongBanks::
 	db MUSIC_INDIGO_PLATEAU, BANK(Music_IndigoPlateau) ; INDIGO_PLATEAU
 	db MUSIC_BRAZEN, BANK(Music_Brazen) ; SAFFRON_CITY
 	db MUSIC_CITIES1, BANK(Music_Cities1) ; UNUSED_MAP_0B
-	db MUSIC_ROUTES1, BANK(Music_Routes1) ; ROUTE_1
+	db MUSIC_THE_BLEED, BANK(Music_TheBleed) ; ROUTE_1
 	db MUSIC_ROUTES1, BANK(Music_Routes1) ; ROUTE_2
 	db MUSIC_ROUTES3, BANK(Music_Routes3) ; ROUTE_3
 	db MUSIC_ROUTES3, BANK(Music_Routes3) ; ROUTE_4
