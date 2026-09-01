@@ -73,12 +73,11 @@ Music_MeetRival::
 	channel 2, Music_MeetRival_Ch2
 	channel 3, Music_MeetRival_Ch3
 
-Music_MuseumGuy::
-	channel_count 4
-	channel 1, Music_MuseumGuy_Ch1
-	channel 2, Music_MuseumGuy_Ch2
-	channel 3, Music_MuseumGuy_Ch3
-	channel 4, Music_MuseumGuy_Ch4
+Music_SlateCity::
+	channel_count 3
+	channel 1, Music_SlateCity_Ch1
+	channel 2, Music_SlateCity_Ch2
+	channel 3, Music_SlateCity_Ch3
 
 Music_SafariZone::
 	channel_count 3
@@ -94,11 +93,10 @@ Music_PkmnHealed::
 
 ; Routes 1 and 2
 Music_Routes1::
-	channel_count 4
-	channel 1, Music_Routes1_Ch1
-	channel 2, Music_Routes1_Ch2
-	channel 3, Music_Routes1_Ch3
-	channel 4, Music_Routes1_Ch4
+	channel_count 3
+	channel 1, Music_TheBleed_Ch1
+	channel 2, Music_TheBleed_Ch2
+	channel 3, Music_TheBleed_Ch3
 
 ; Routes 24 and 25
 Music_Routes2::
@@ -139,14 +137,3 @@ Music_Brazen::
 	channel 2, Music_Brazen_Ch2
 	channel 3, Music_Brazen_Ch3
 
-Music_SlateCity::
-	channel_count 3
-	channel 1, Music_SlateCity_Ch1
-	channel 2, Music_SlateCity_Ch2
-	channel 3, Music_SlateCity_Ch3
-
-Music_TheBleed::
-	channel_count 3
-	channel 1, Music_TheBleed_Ch1
-	channel 2, Music_TheBleed_Ch2
-	channel 3, Music_TheBleed_Ch3

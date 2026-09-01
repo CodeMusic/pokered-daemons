@@ -18,7 +18,7 @@ ENDM
 	music_const MUSIC_SS_ANNE,             Music_SSAnne
 	music_const MUSIC_MEET_PROF_OAK,       Music_MeetProfOak
 	music_const MUSIC_MEET_RIVAL,          Music_MeetRival
-	music_const MUSIC_MUSEUM_GUY,          Music_MuseumGuy
+	music_const MUSIC_SLATE_CITY,          Music_SlateCity
 	music_const MUSIC_SAFARI_ZONE,         Music_SafariZone
 	music_const MUSIC_PKMN_HEALED,         Music_PkmnHealed
 	music_const MUSIC_ROUTES1,             Music_Routes1
@@ -27,8 +27,6 @@ ENDM
 	music_const MUSIC_ROUTES4,             Music_Routes4
 	music_const MUSIC_INDIGO_PLATEAU,      Music_IndigoPlateau
 	music_const MUSIC_BRAZEN,              Music_Brazen
-	music_const MUSIC_SLATE_CITY,          Music_SlateCity
-	music_const MUSIC_THE_BLEED,           Music_TheBleed
 
 	; AUDIO_2
 	music_const MUSIC_GYM_LEADER_BATTLE,   Music_GymLeaderBattle

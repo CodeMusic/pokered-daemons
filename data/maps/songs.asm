@@ -12,7 +12,7 @@ MapSongBanks::
 	db MUSIC_INDIGO_PLATEAU, BANK(Music_IndigoPlateau) ; INDIGO_PLATEAU
 	db MUSIC_BRAZEN, BANK(Music_Brazen) ; SAFFRON_CITY
 	db MUSIC_CITIES1, BANK(Music_Cities1) ; UNUSED_MAP_0B
-	db MUSIC_THE_BLEED, BANK(Music_TheBleed) ; ROUTE_1
+	db MUSIC_ROUTES1, BANK(Music_Routes1) ; ROUTE_1
 	db MUSIC_ROUTES1, BANK(Music_Routes1) ; ROUTE_2
 	db MUSIC_ROUTES3, BANK(Music_Routes3) ; ROUTE_3
 	db MUSIC_ROUTES3, BANK(Music_Routes3) ; ROUTE_4
