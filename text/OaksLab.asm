@@ -99,16 +99,14 @@ _OaksLabOak1DeliverParcelText::
 	line "something for me?"
 
 	para "<PLAYER> delivered"
-	line "the PACKAGE.@"
+	line "the CC-7.@"
 	text_end
 
 _OaksLabOak1ParcelThanksText::
 	text_start
 
-	para "Ah! This is the"
-	line "custom USERBOX"
-	cont "I ordered!"
-	cont "Thank you!"
+	para "Ah. The module."
+	line "Thank you."
 	done
 
 _OaksLabOak1PokemonAroundTheWorldText::

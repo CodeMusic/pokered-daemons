@@ -1,29 +1,34 @@
 _RocketHideoutB4FGiovanniImpressedYouGotHereText::
-	text "So! I must say, I"
-	line "am impressed you"
-	cont "got here!"
+	text "You got down here."
+	line "Good. Most don't."
+
+	para "Richard Scorn."
+	line "I run the numbers"
+	cont "upstairs."
+
+	para "Show me what you"
+	line "have. I like to"
+	cont "see it measured."
 	done
 
 _RocketHideoutB4FGiovanniWhatCannotBeText::
-	text "WHAT!"
-	line "This cannot be!"
+	text "Well measured."
 	prompt
 
 _RocketHideoutB4FGiovanniHopeWeMeetAgainText::
-	text "I see that you"
-	line "raise #MONS"
-	cont "with utmost care."
+	text "Take this. We"
+	line "used it for"
+	cont "inventory."
 
-	para "A child like you"
-	line "would never"
-	cont "understand what I"
-	cont "hope to achieve."
+	para "There's a tag on"
+	line "it. Some old"
+	cont "asset number."
 
-	para "I shall step"
-	line "aside this time!"
+	para "QS-LAB, I think."
+	line "Before my time."
 
-	para "I hope we meet"
-	line "again..."
+	para "Good luck at the"
+	line "tower."
 	done
 
 _RocketHideoutB4FRocket1BattleText::

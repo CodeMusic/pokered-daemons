@@ -13,11 +13,11 @@ _ViridianMartClerkParcelQuestText::
 	line "CLEAR, right?"
 
 	para "Her order came in."
-	line "Will you take it"
-	cont "to her?"
+	line "A CC-7. Will you"
+	cont "run it out?"
 
 	para "<PLAYER> got"
-	line "the PACKAGE!@"
+	line "the CC-7!@"
 	text_end
 
 _ViridianMartYoungsterText::

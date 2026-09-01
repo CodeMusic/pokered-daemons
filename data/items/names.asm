@@ -69,7 +69,7 @@ ItemNames::
 	li "X SPEED"
 	li "X SPECIAL"
 	li "COIN CASE"
-	li "PACKAGE"
+	li "CC-7"
 	li "ITEMFINDER"
 	li "RESOLVER"
 	li "INTERRUPT"

@@ -133,9 +133,13 @@ _ViridianCityOldManTimeIsMoneyText::
 	done
 
 _ViridianCityOldManYouNeedToWeakenTheTargetText::
-	text "First, you need"
-	line "to weaken the"
-	cont "target #MON."
+	text "Watch. You weaken"
+	line "it, then you"
+	cont "offer it a box."
+
+	para "It goes in on its"
+	line "own, or it does"
+	cont "not go in."
 	done
 
 _ViridianCitySignText::

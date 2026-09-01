@@ -28,19 +28,21 @@ _ViridianGymGiovanniReceivedEarthBadgeText::
 	text_end
 
 _ViridianGymGiovanniPostBattleAdviceText::
-	text "Having lost, I"
-	line "cannot face my"
-	cont "underlings!"
-	cont "TEAM CORPUS is"
-	cont "finished forever!"
+	text "Well measured."
 
-	para "I will dedicate my"
-	line "life to the study"
-	cont "of #MON!"
+	para "I optimised what"
+	line "I could measure."
+	cont "That is the job."
 
-	para "Let us meet again"
-	line "some day!"
-	cont "Farewell!@"
+	para "The machine chose"
+	line "what I weighted"
+	cont "it to choose."
+
+	para "We are both to"
+	line "blame, I suppose."
+
+	para "It has never said"
+	line "otherwise.@"
 	text_end
 
 _ViridianGymGiovanniEarthBadgeInfoText::
