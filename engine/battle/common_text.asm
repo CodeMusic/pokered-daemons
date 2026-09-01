@@ -64,7 +64,14 @@ PrintBeginningBattleText:
 	ld [wFrequencyModifier], a
 	ld a, $80
 	ld [wTempoModifier], a
+; Vanilla plays one cue for wild daemons and trainers alike. An unbound
+; daemon gets its own -- see audio/sfx/battle_16.asm.
+	ld a, [wIsInBattle]
+	dec a
 	ld a, SFX_TRAINER_APPEARED
+	jr nz, .gotAppearSFX
+	ld a, SFX_BATTLE_16
+.gotAppearSFX
 	call PlaySound
 	jp WaitForSoundToFinish
 .done
