@@ -424,6 +424,7 @@ INCLUDE "audio/music/defeatedgymleader.asm"
 
 SECTION "Music 3", ROMX
 
+INCLUDE "audio/music/titletheme.asm"
 INCLUDE "audio/music/bikeriding.asm"
 INCLUDE "audio/music/dungeon1.asm"
 INCLUDE "audio/music/gamecorner.asm"

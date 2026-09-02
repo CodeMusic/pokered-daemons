@@ -1,10 +1,12 @@
-; The splash is Echoes of the Algorithm -- the same body Mt. Moon plays.
-; Repointed rather than duplicated: same bank, zero extra bytes.
+; The title screen had been repointed at Echoes of the Algorithm -- the same
+; body Mt. Moon plays. Cheap, and wrong: F minor on the front door tells the
+; player this is a grim game before a line of dialogue does. Craft rule 6 says
+; otherwise. It has its own theme now, in C.
 Music_TitleScreen::
 	channel_count 3
-	channel 1, Music_Dungeon3_Ch1
-	channel 2, Music_Dungeon3_Ch2
-	channel 3, Music_Dungeon3_Ch3
+	channel 1, Music_TitleTheme_Ch1
+	channel 2, Music_TitleTheme_Ch2
+	channel 3, Music_TitleTheme_Ch3
 
 Music_Credits::
 	channel_count 3
