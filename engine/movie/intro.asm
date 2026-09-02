@@ -447,23 +447,16 @@ FightIntroBackMon:
 	ds TILE_SIZE, $00 ; blank tile
 FightIntroBackMonEnd:
 
-IF DEF(_RED)
+; Vanilla gave each edition its own front mon. 8.4 fixed both editions to the
+; same story, and the face-off IS that story -- CODEMUSAI against CAREMUSAI,
+; LOGIC failing against CONTEXT. An argument that changes by cartridge is not
+; one, so the conditional goes and blue_jigglypuff_*.png falls out of the build.
 FightIntroFrontMon:
 	INCBIN "gfx/intro/red_nidorino_1.2bpp"
 FightIntroFrontMon2:
 	INCBIN "gfx/intro/red_nidorino_2.2bpp"
 FightIntroFrontMon3:
 	INCBIN "gfx/intro/red_nidorino_3.2bpp"
-ENDC
-
-IF DEF(_BLUE)
-FightIntroFrontMon:
-	INCBIN "gfx/intro/blue_jigglypuff_1.2bpp"
-FightIntroFrontMon2:
-	INCBIN "gfx/intro/blue_jigglypuff_2.2bpp"
-FightIntroFrontMon3:
-	INCBIN "gfx/intro/blue_jigglypuff_3.2bpp"
-ENDC
 
 FightIntroFrontMonEnd:
 
