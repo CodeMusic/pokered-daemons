@@ -386,7 +386,7 @@ LoadCopyrightAndTextBoxTiles:
 LoadCopyrightTiles:
 	ld de, NintendoCopyrightLogoGraphics
 	ld hl, vChars2 tile $60
-	lb bc, BANK(NintendoCopyrightLogoGraphics), (GameFreakLogoGraphicsEnd - NintendoCopyrightLogoGraphics) / TILE_SIZE
+	lb bc, BANK(NintendoCopyrightLogoGraphics), (NintendoCopyrightLogoGraphicsEnd - NintendoCopyrightLogoGraphics) / TILE_SIZE
 	call CopyVideoData
 	hlcoord 2, 7
 	ld de, CopyrightTextString
