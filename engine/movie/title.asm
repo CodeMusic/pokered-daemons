@@ -393,9 +393,10 @@ LoadCopyrightTiles:
 	jp PlaceString
 
 CopyrightTextString:
-	db   $60,$61,$62,$61,$63,$61,$64,$7F,$65,$66,$67,$68,$69,$6A             ; ©'95.'96.'98 Nintendo
-	next $60,$61,$62,$61,$63,$61,$64,$7F,$6B,$6C,$6D,$6E,$6F,$70,$71,$72     ; ©'95.'96.'98 Creatures inc.
-	next $60,$61,$62,$61,$63,$61,$64,$7F,$73,$74,$75,$76,$77,$78,$79,$7A,$7B ; ©'95.'96.'98 GAME FREAK inc.
+; Three tile runs share one stamp. See tools/gencopyright.py for the budget.
+	db   $60,$61,$62,$63,$64,$7F,$78,$79,$7A,$7B,$7C,$7D,$7E                     ; ©'11-'26 CODEMUSIC
+	next $60,$61,$62,$63,$64,$7F,$65,$66,$67,$68,$69,$6A,$6B,$6C                 ; ©'11-'26 SeeingSharp
+	next $60,$61,$62,$63,$64,$7F,$6D,$6E,$6F,$70,$71,$72,$73,$74,$75,$76,$77     ; ©'11-'26 Psychology/Code
 	db   "@"
 
 INCLUDE "data/pokemon/title_mons.asm"
