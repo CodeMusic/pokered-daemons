@@ -202,7 +202,6 @@ gfx/intro/red_nidorino_1.2bpp: RGBGFXFLAGS += --columns
 gfx/intro/red_nidorino_2.2bpp: RGBGFXFLAGS += --columns
 gfx/intro/red_nidorino_3.2bpp: RGBGFXFLAGS += --columns
 gfx/intro/gengar.2bpp: RGBGFXFLAGS += --columns
-gfx/intro/gengar.2bpp: tools/gfx += --remove-duplicates --preserve=0x19,0x76
 
 gfx/credits/the_end.2bpp: tools/gfx += --interleave --png=$<
 
