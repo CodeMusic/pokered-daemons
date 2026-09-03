@@ -1,3 +1,36 @@
+> ### ⏸ This engine is no longer the one being built
+>
+> **The project moved to the GBA on 2026-09-03.** The work continues in
+> [**CodeMusic/pokefirered-daemons**][gba], a fork of [pret/pokefirered][fr].
+>
+> This repository is kept **as a reference and is not updated further.** It is
+> where the vertical slice was built and it still builds and runs; nothing here
+> is broken or withdrawn.
+>
+> **Why the move.** A spike was run on 2026-09-02 to answer one question — are
+> abilities, item descriptions and a real scripting language worth rebuilding
+> 334 files for — and the answer came back within a day:
+>
+> - **Gen 1 stores no item descriptions at all.** The boxes and the
+>   stones-that-are-inputs each got a name and silence. That is a writing-led
+>   project running on the one generation with nowhere to write.
+> - **Abilities give the type chart a second axis.** §2.5 had to invent a
+>   *move* — CONSENSUS — because the chart needed one to be legible.
+> - **The Index has room.** Six lines of eighteen characters became three of
+>   forty-two.
+> - **The design ported; the implementation did not.** 5,343 lines of design
+>   against 334 files of engine — and the expensive half was the half that
+>   travelled.
+>
+> **What it cost, honestly.** *Greyscale stops being a constraint.* On a DMG the
+> machine and the meaning agreed — the player saw grey because that is what the
+> hardware **was**. On GBA it is a preference, and the answer to that is
+> recorded in `vision.md` §9.4: colour is now **by type**, so it carries the
+> argument rather than decorating it.
+>
+> [gba]: https://github.com/CodeMusic/pokefirered-daemons
+> [fr]: https://github.com/pret/pokefirered
+
 # CONTEXT / CONTENT
 
 A total conversion of **Pokémon Red and Blue**, built on [pret/pokered][pret].
