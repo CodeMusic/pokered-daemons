@@ -31,7 +31,7 @@ _CinnabarLabMeetingRoomSignText::
 	line "unrelated fields"
 	cont "mid-argument."
 
-	para "Two present"
+	para "The two present"
 	line "could not follow."
 
 	para "Recorded as"
@@ -43,8 +43,9 @@ _CinnabarLabRAndDSignText::
 	text "R-and-D"
 	line "Requisitions"
 
-	para "CC-7 CLARIFIER"
-	line "MODULE, x1."
+	para "CC-7 COGNITIVE"
+	line "CLARIFIER MODULE,"
+	cont "x1."
 
 	para "Reason given:"
 	line "IMPROVE RESPONSE"

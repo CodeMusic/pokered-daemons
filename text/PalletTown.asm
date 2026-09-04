@@ -47,7 +47,7 @@ _PalletTownFisherText::
 	done
 
 _PalletTownOaksLabSignText::
-	text "CRYSTAL #MON"
+	text "CRYSTAL CLEAR"
 	line "RESEARCH LAB"
 	done
 
