@@ -37,7 +37,7 @@ ENDR
 .Ice:      db "FROZEN@"
 .Ground:   db "STRATUM@"
 .Rock:     db "LEGACY@"
-.Bird:     db "BIRD@"
+.Bird:     db "ORACLE@"
 .Bug:      db "SWARM@"
 .Ghost:    db "LATENT@"
 .Dragon:   db "EMERGENT@"
